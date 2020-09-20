@@ -1,2 +1,2 @@
 # Personal info Site
-http://prashantkikani.com
+https://prashantkikani.com
