@@ -36,7 +36,7 @@ Social media have created this cheap dopamine cycle which have affected almost e
 
 > "If you really want something, you will find a way." -Unknown
 
-
+If you really want something, you will take all the actions necessary to achieve that, and when we try our best & do smart work, we find ways to achieve that.
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -44,11 +44,16 @@ Social media have created this cheap dopamine cycle which have affected almost e
 
 > "When something is important enough, you do it even if the odds are not in your favour." -Elon Musk
 
+Importance of something matters more than chances of success of it. For example, if someone got the cancer & chances of success of the surgery is less than 5%, we will do it.
+Because importance of that high enough that, chances of sucess & cost doesn't affect us.
+
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
 5.
 
 > "When making plans, think big. When making progress, think small." -James Clear
+
+Make big & ambitious plans. But while moving towards that pre-defined goal, don't expect results everytime. Don't get ahead of yourselves while making actions.
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -56,11 +61,15 @@ Social media have created this cheap dopamine cycle which have affected almost e
 
 > "If you make a mistake and do not correct it, this is called a mistake." -Confucius
 
+Correcting & learning from mistakes is no more a mistake. But if we deny our fault in the mistake & don't learn from it, then it's the mistake. 
+
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
 7.
 
 > "Distractions aren't the problem, lack of focus is." -Unknown
+
+
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
