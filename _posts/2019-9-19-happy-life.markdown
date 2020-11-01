@@ -2,7 +2,7 @@
 layout: post
 title:  "A realistic way to live a happy life"
 date:   2019-9-19 # yyyy-mm-dd
-keyword: Self Improvement, Happiness, Success, Minimalism, Mental Health 
+keyword: Self Improvement, Happiness, Success, Minimalism, Mental Health, Philosophy
 permalink: "/blog/happy-life"
 description: "How to live a happy life by following some simple, realistic & statistically valid principles."
 
@@ -12,6 +12,7 @@ In this post, I share my ideas to live a happy life by following some simple, re
 
 # The Uncomfortable Truth
 
+A thought from Mark Manson's famous book,
 
 > One day, you and everyone you love will die. And beyond a small group of people for an extremely brief period of time, 
 little of what you say or do will ever matter. This is the Uncomfortable Truth of life. 
