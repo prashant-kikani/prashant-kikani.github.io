@@ -21,7 +21,7 @@ We are inconsequential cosmic dust, bumping and milling about on a tiny blue spe
 
 So what? Should we all give up whatever we are doing as nothing matters anyway? Surely NO.
 
-This leads to the idea of [minimalism](https://www.becomingminimalist.com/what-is-minimalism/). We’ll discuss that in a while.
+This leads to the idea of <a rel="nofollow" target="_blank" href="https://www.becomingminimalist.com/what-is-minimalism/">minimalism</a>. We’ll discuss that in a while.
 
 <br/>
 
@@ -51,7 +51,7 @@ If you do this, you & only you have your key to happiness. As your future lies i
 
 Does that mean, once you achieve a goal you become happy? No.
 
-You become more eager to achieve the next one. There’s nothing wrong with expecting more. But it’s an endless loop. [Casinos](https://www.foxnews.com/travel/top-10-secrets-casinos-dont-want-you-to-know) in Las Vegas run on this simple human behavior.
+You become more eager to achieve the next one. There’s nothing wrong with expecting more. But it’s an endless loop. <a rel="nofollow" target="_blank" href="https://www.foxnews.com/travel/top-10-secrets-casinos-dont-want-you-to-know">Casinos</a> in Las Vegas run on this simple human behavior.
 
 So, what’s the solution now?
 
@@ -91,7 +91,7 @@ Idea of minimalism also works here. Steve Jobs have applied this in his life suc
 
 Don’t lie to yourself. Don’t pretend that, I always give my best then also I almost never achieve my goals.
 
-Statistically speaking, if you gave your best in 10 shots and only 1–2 worked out, there’s high probability that something wrong is going on with so called “your best”. Assuming things you can’t control (i.e. 2nd part of the equation), follow the [normal distribution](https://en.wikipedia.org/wiki/Normal_distribution), theoretically, your success rate should be more than 49% if you always gave your best.
+Statistically speaking, if you gave your best in 10 shots and only 1–2 worked out, there’s high probability that something wrong is going on with so called “your best”. Assuming things you can’t control (i.e. 2nd part of the equation), follow the <a rel="nofollow" target="_blank" href="https://en.wikipedia.org/wiki/Normal_distribution">normal distribution</a>, theoretically, your success rate should be more than 49% if you always gave your best.
 
 Be realistic. No one is perfect. You need to constantly improve yourself by learning more & more till your last breath. Almost no one can achieve goals (and become “happy”) in short time. Exceptions are always there. But ignoring those outliers, you need to do a lot of practice to become master at something.
 
