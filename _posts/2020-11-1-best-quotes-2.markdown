@@ -69,7 +69,7 @@ Correcting & learning from mistakes is no more a mistake. But if we deny our fau
 
 > "Distractions aren't the problem, lack of focus is." -Unknown
 
-
+Even if distractions are very high, a clear focus can break it. If focus is less, then small distractions will seem very high. 
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -77,11 +77,15 @@ Correcting & learning from mistakes is no more a mistake. But if we deny our fau
 
 > "Don’t burn the whole house just because there’s one cockroach in it." -Unknown
 
+Comparatively small & insignificant things should not be the reason to break or tear down huge things. Sometimes, we need to ignore small things in the pursuit of something big.  
+
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
 9.
 
 > "If you are smart, let them win the arguments." -Unknown
+
+No one wins in arguments. Person who wins loses the other person himself. So, in arguments, let others win & save the relationship, which is bigger than small arguments. 
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -89,11 +93,16 @@ Correcting & learning from mistakes is no more a mistake. But if we deny our fau
 
 > "I, and I alone am responsible for everything I think and feel." -Naval
 
+Understanding us as the reason of whatever happens to us saves us from victim mentality. We can not always blane others. 
+Most of the time, we are the one who need to take responsibility of what happens to us.
+
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
 11.
 
 > "Science requires skepticism. Religion requires belief." -Naval
+
+Science tells to question everything. Even the basic beliefs. But religion tells to believe big things without questioning it with expectation of proper logical answers which makes sense.
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -101,11 +110,15 @@ Correcting & learning from mistakes is no more a mistake. But if we deny our fau
 
 > "Every action has its pleasures and its price." -Socrates
 
+Everything have something positive & thing negative. Ratio of positive & negative may differ but they will always be non-zero.   
+
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
 13.
 
 > "Those who fly solo have the strongest wings." -Unknown
+
+Flying solo requires many things which are not required in following crowds. It takes courage & an extra amount of thinking to go solo on un-discovered paths. 
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -113,11 +126,15 @@ Correcting & learning from mistakes is no more a mistake. But if we deny our fau
 
 > If you can't explain it simply you don't understand it well enough. -Albert Einstein
 
+Ability to make complex things simple is rare. Person who have truly understood something can explain it in simple manner. Because to simplify, we first boil it down to first principles. 
+
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
 15.
 
 > "As we look ahead into the next century, leaders will be those who empower others." -Bill Gates
+
+Leaders are those who can set an example & then empower others to do the same. People follow leaders who can make them feel special & worthful.   
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -125,11 +142,15 @@ Correcting & learning from mistakes is no more a mistake. But if we deny our fau
 
 > "Clarity is just when a calm mind compounds on itself." -Unknown
 
+Calm mind generates clear thoughts. When calm mind keep doing it, clarity happens.   
+
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
 17.
 
 > "Practice is the price you pay today to be better tomorrow." -James Clear
+
+We need to put smart & hard work today to expect big results tomorrow. So, we first need to pay the price, then we can get better results.
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -137,17 +158,24 @@ Correcting & learning from mistakes is no more a mistake. But if we deny our fau
 
 > "I know you won’t believe me, but the highest form of human excellence is to question one-self & others." -Socrates
 
+The attitude of "question everything" is gold. Don't blindly believe what someone tells us without giving it a though yourself.
+
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
 19.
 
 > "Long-term thinking is simple once you are the master of your short-term desires." -Unknown
 
+When you can give-up short-term desires, long-term thinking becomes easy. As generally in long-term thinking, we need to do some sacrifices in short-term.
+
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
 20.
 
 > "Everything has beauty, but not everyone sees it." -Confucius
+
+If we look closely, everything around us was innovation at one point of time. Whether it's mobile-phone, laptop, pen, airplane or a simple tire in the vehicle.
+Everything have lots of efforts inside them. See the beauty of it & don't take them for granted.
 
 <br/>
 
