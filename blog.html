@@ -1,0 +1,23 @@
+---
+title: Prashant Kikani's blog
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </div>
+
+      <br/>
+      <hr style="height:0px; color:#DCDCDC; background-color:#DCDCDC;">
+      <br/>
+
+    </article>
+  {% endfor %}
+</div>

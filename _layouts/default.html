@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	{% include analytics.html %}
+
+	{% if page.title and page.title != "" %}
+        <title>{{ page.title }} | Prashant Kikani</title>
+    {% else %}
+        <title>{{ site.title }}</title>
+    {% endif %}
+
+    {% include meta.html %}
+
+	<link rel="icon" href="data:,">
+    <link rel="stylesheet" href="/assets/main.css">
+    <link rel="canonical" href="https://prashantkikani.com/">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+</head>
+<body>
+
+{% include header.html %}
+
+<main class="page-content" aria-label="Content">
+<div class="wrapper">
+
+{{ content }}
+
+</div>
+</main>
+
+{% include footer.html %}
+
+</body>
+</html>

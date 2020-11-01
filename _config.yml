@@ -1,0 +1,64 @@
+
+name: Prashant Kikani
+
+title: Prashant Kikani
+
+description: "Prashant Kikani is a data scientist & machine learning enthusiast. His goal is to make a +ve impact on millions of people's daily lives & to be hyper-optimistic about the future."
+
+avatar: "https://prashantkikani/assets/kaggle.jpg"
+
+footer-links:
+  email: pvkikani1997@gmail.com
+  github: prashant-kikani
+  kaggle: prashantkikani
+  linkedin: prashant-kikani
+
+disqus:
+
+google_analytics: UA-180199115-1
+
+url: "https://prashantkikani.com"
+
+baseurl: ""
+
+permalink: /:title/
+
+version: v4.1.1
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+defaults:
+  - scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "posts"
+      title: "Default Blog Title"
+      author: "Prashant Kikani"
+      description: "Prashant Kikani"
+  - scope:
+      path: ""
+      type: "page"
+    values:
+      layout: "pages"
+      title: "Default Page Title"
+      author: "Prashant Kikani"
+      description: "Prashant Kikani"
