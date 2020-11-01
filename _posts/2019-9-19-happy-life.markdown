@@ -121,5 +121,3 @@ FYI, If you have food, cloths & a home to live, you are already far more happier
 Since the evolution of mankind, 100 billion human beings have walked the Earth. If you are reading this, you are likely in the top 1% by any measure: opportunity, security, happiness. In fact, you might be in the top 0.1% or even 0.01%. What an amazing opportunity. You’re truly among the blessed.
 
 Happiness is all that matters at the end of the day. Have a happy life.
-
-👏 👏 You made it till the end ! Congrats.

@@ -38,7 +38,7 @@ a:hover { color: #111; text-decoration: underline; }
 .social-media-list a:hover .username { text-decoration: underline; }
 
 /** Blockquotes */
-blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+blockquote { color: #000000; font-family: serif; border-left: 3px solid #000000; padding-left: 15px; font-size: 20px; letter-spacing: 0.3px; font-style: italic; }
 
 blockquote > :last-child { margin-bottom: 0; }
 
@@ -133,7 +133,7 @@ table td { border: 1px solid #e8e8e8; }
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
-.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
+.post-title { font-size: 42px; letter-spacing: -0.5px; line-height: 1.2; }
 
 @media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
 
