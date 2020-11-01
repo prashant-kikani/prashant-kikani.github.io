@@ -179,6 +179,6 @@ Everything have lots of efforts inside them. See the beauty of it & don't take t
 
 <br/>
 
-Reading is not enough, take inspiration from above quotes & apply them in your life too.
+Reading alone is not enough, take inspiration from above quotes & apply them in your life too.
 
 There are so much more of these. I think I need to create a 3rd part..
