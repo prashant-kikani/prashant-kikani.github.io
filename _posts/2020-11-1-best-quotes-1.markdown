@@ -191,6 +191,8 @@ Manners & disciplines don't always come as age grows. Growing up is more importa
 
 <br/>
 
-Reading alone is not enough, we should take inspiration from above quotes & apply them in our life too. 
+Reading alone is not enough, we should take inspiration from above quotes & apply them in our life too.
 
 If you have enjoyed this part, you can <a target="_blank" href="https://prashantkikani.com/blog/best-quotes-2">read the 2nd part of this here</a>.
+
+<center><img src="../assets/thoughts-nature.jpg"/></center> 
