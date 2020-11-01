@@ -8,7 +8,7 @@ description: "A collection of some of the best deep-meaningful quotes from some 
 
 ---
 
-Deep meaningful quotes can show us new ways to see this world. Here is a collection of some of the best quotes & thoughts from some of the great minds of human history.<br/>
+Deep meaningful quotes can show us new ways & perspectives to see this world. Here is a collection of some of the best quotes & thoughts from some of the great minds of human history.<br/>
 If you are a true lover of deep meaningful quotes like me, you will find this post interesting & knowledgeable.
 
 Each sentence in this post contains a deep meaning, so it will better if you take some time after reading each quote to understand what it is really saying.
