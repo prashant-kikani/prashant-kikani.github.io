@@ -14,5 +14,10 @@
 <meta name="author" content="Prashant Kikani, {{ page.keyword }}"/>
 <meta http-equiv="Content-Type" content="Prashant Kikani, {{ page.keyword }}"/>
 
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}Prashant Kikani{% endif %}"/>
-<meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}Prashant Kikani{% endif %}"/>
+{% if page.title and page.title != "" %}
+    <meta property="og:title" content="{{ page.title }} | Prashant Kikani"/>
+    <meta property="twitter:title" content="{{ page.title }} | Prashant Kikani"/>
+{% else %}
+    <meta property="og:title" content="{{ site.title }}"/>
+    <meta property="twitter:title" content="{{ site.title }}"/>
+{% endif %}
