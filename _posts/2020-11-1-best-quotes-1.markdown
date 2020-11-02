@@ -125,9 +125,9 @@ This also holds true from biological perspective, stong breeds who can adapt wil
 
 13.
 
-> "Be extraordinary. It’s a mental choice." -Unknown
+> "Care about what other people think and you will always be their prisoner." -Lao Tzu
 
-Being extraordinary vs. ordinary is our choice. We can decide if we want to do something big or stay comfortable & stay at the same level.  
+When we think what others will think about our actions, we are allowing our happiness to be dependent on them. We should have our own rules for our life(and we should not let ourselves seriously affected by what other people think & say). 
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
