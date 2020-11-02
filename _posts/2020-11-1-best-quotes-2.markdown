@@ -8,9 +8,7 @@ description: "A collection of some of the best deep-meaningful quotes from some 
 
 ---
 
-This is the part 2 of the best quotes series. 
-
-You can <a target="_blank" href="https://prashantkikani.com/blog/best-quotes-1">read part 1 here</a> if you already have not.
+This is the part 2 of the best quotes series. You can <a target="_blank" href="https://prashantkikani.com/blog/best-quotes-1">read part 1 here</a> if you already have not.
 
 Enjoy!
 
