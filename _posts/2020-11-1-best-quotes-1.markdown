@@ -21,7 +21,7 @@ Enjoy!
 
 > "The only thing worse than being blind is having sight but no vision." -Helen Keller
 
-Having a meaningful goal or vision in life is perhaps the most important thing in life. Being able to see & achieve something great in life is probably better than having just plain normal eye-sight.  
+Having a meaningful goal or vision in life is perhaps the most important thing. Being able to see & achieve something great in life is probably better than having just plain normal eye-sight.  
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -30,7 +30,7 @@ Having a meaningful goal or vision in life is perhaps the most important thing i
 > "The man who says he can, and the man who says he can’t are both correct." -Confucius
 
 In most cases, whatever we believe, will happen. If we believe that we can do something & try our best for long enough, it'll happen. 
-But if we ourself don't believe that we can do it, we will not put our best & that task will not happen.  
+But if we our-self don't believe that we can do it, we will not put our best & that task will not happen.  
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
