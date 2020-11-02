@@ -38,6 +38,16 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
+# https://github.com/kinnetica/jekyll-plugins
+sitemap:
+    filename: "/sitemap.xml"
+    exclude:
+        - "/404.html"
+        - "/about.html"
+    include_posts:
+        - "/index.html"
+        - "/blog.html"
+
 exclude:
   - Gemfile
   - Gemfile.lock

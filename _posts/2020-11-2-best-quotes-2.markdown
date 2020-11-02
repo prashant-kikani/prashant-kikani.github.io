@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Collection of deep meaningful quotes from some of the great minds of human history - Part 2"
-date:   2020-11-1 # yyyy-mm-dd
+date:   2020-11-2 # yyyy-mm-dd
 keyword: Self Improvement, Collection, Quotes, Philosophy, Self Help 
 permalink: "/blog/best-quotes-2"
 description: "A collection of some of the best deep-meaningful quotes from some of the great minds of human history."
