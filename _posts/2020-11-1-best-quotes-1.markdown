@@ -21,7 +21,7 @@ Enjoy!
 
 > "The only thing worse than being blind is having sight but no vision." -Helen Keller
 
-Having a meaningful goal or vision in life is perhaps the most important thing in life. Being able to see & achieve something great in life is probabely better than just plain normal eye-sight.  
+Having a meaningful goal or vision in life is perhaps the most important thing in life. Being able to see & achieve something great in life is probably better than having just plain normal eye-sight.  
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -109,8 +109,8 @@ She didn't just sit there crying for what she didn't had, she successfully learn
 
 > "We have two lives, and the second one begins when we realize we only have one." -Confucius
 
-This says, once we truly realize we only have one life, our whole life changes. That after life will be different than previous life in which we didn't truly realize that fact,
-Almost our all decisions impacts after we realize that our life-span is finite. 
+This says, once we truly realize we only have one life, our whole life changes. That after life will be different than previous life in which we didn't truly realize that fact.
+Almost all of our decisions impacts after we realize that our life-span is finite. 
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
