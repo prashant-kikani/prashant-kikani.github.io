@@ -27,10 +27,10 @@ Having a meaningful goal or vision in life is perhaps the most important thing. 
 
 2.
 
-> "The man who says he can, and the man who says he can’t are both correct." -Confucius
+> "We have two lives, and the second one begins when we realize we only have one." -Confucius
 
-In most cases, whatever we believe, will happen. If we believe that we can do something & try our best for long enough, it'll happen. 
-But if we our-self don't believe that we can do it, we will not put our best & that task will not happen.  
+This says, once we truly realize we only have one life, our whole life changes. That after life will be different than previous life in which we didn't truly realize that fact.
+Almost all of our decisions impacts after we realize that our life-span is finite. 
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -107,10 +107,10 @@ She didn't just sit there crying for what she didn't had, she successfully learn
 
 11.
 
-> "We have two lives, and the second one begins when we realize we only have one." -Confucius
+> "The man who says he can, and the man who says he can’t are both correct." -Confucius
 
-This says, once we truly realize we only have one life, our whole life changes. That after life will be different than previous life in which we didn't truly realize that fact.
-Almost all of our decisions impacts after we realize that our life-span is finite. 
+In most cases, whatever we believe, will happen. If we believe that we can do something & try our best for long enough, it'll happen. 
+But if we our-self don't believe that we can do it, we will not put our best & that task will not happen.  
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
