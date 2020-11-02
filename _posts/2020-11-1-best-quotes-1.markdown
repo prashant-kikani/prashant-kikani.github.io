@@ -91,7 +91,7 @@ A small misunderstanding can break relations. But it takes consistent & quality 
 
 > "When everyone is sick, we no longer consider it a disease." -Naval
 
-This sounds kind of obvious but think about it. If <b>anything</b> is common to everyone, it looses it's value.
+This sounds kind of obvious but think about it, if <b>anything</b> is common to everyone, it loses it's value.
 When something is "rare" or hard to earn, then only it have value. No matter what it is. 
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
