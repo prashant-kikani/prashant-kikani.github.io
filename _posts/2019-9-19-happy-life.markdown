@@ -20,7 +20,7 @@ And everything you think or do is but an elaborate avoidance of it.
 We are inconsequential cosmic dust, bumping and milling about on a tiny blue speck. We imagine our own importance. 
 <mark>We invent our purpose</mark> — we are nothing.
 
-So what? Should we all give up whatever we are doing as nothing matters anyway? Surely NO.
+So what? Should we all give up whatever we are doing as nothing matters anyway? Surely NO. Nihilism can sometimes make us question the meaning of life & our existence in this universe. 
 
 This leads to the idea of <a rel="nofollow" target="_blank" href="https://www.becomingminimalist.com/what-is-minimalism/">minimalism</a>. We’ll discuss that in a while.
 
