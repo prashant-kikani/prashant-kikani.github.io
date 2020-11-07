@@ -1,27 +1,12 @@
-/*
- * Represents a state in the game
- * @param old [State]: old state to intialize the new state
- */
+
 var State = function(old) {
 
-    /*
-     * public : the player who has the turn to player
-     */
     this.turn = "";
 
-    /*
-     * public : the number of moves of the AI player
-     */
     this.oMovesCount = 0;
 
-    /*
-     * public : the result of the game in this State
-     */
     this.result = "still running";
 
-    /*
-     * public : the board configuration in this state
-     */
     this.board = [];
 
     /* Begin Object Construction */
@@ -37,19 +22,11 @@ var State = function(old) {
         this.result = old.result;
         this.turn = old.turn;
     }
-    /* End Object Construction */
 
-    /*
-     * public : advances the turn in a the state
-     */
     this.advanceTurn = function() {
         this.turn = this.turn === "X" ? "O" : "X";
     }
 
-    /*
-     * public function that enumerates the empty cells in state
-     * @return [Array]: indices of all empty cells
-     */
     this.emptyCells = function() {
         var indxs = [];
         for(var itr = 0; itr < 9 ; itr++) {
@@ -59,12 +36,6 @@ var State = function(old) {
         }
         return indxs;
     }
-
-    /*
-     * public  function that checks if the state is a terminal state or not
-     * the state result is updated to reflect the result of the game
-     * @returns [Boolean]: true if it's terminal, false otherwise
-     */
 
     this.isTerminal = function() {
         var B = this.board;
@@ -106,10 +77,6 @@ var State = function(old) {
 
 };
 
-/*
- * Constructs a game object to be played
- * @param autoPlayer [AIPlayer] : the AI player to be play the game with
- */
 var Game = function(autoPlayer) {
 
     //public : initialize the ai player for this game
@@ -125,15 +92,8 @@ var Game = function(autoPlayer) {
 
     this.currentState.turn = "X"; //X plays first
 
-    /*
-     * initialize game status to beginning
-     */
     this.status = "beginning";
 
-    /*
-     * public function that advances the game to a new state
-     * @param _state [State]: the new state to advance the game to
-     */
     this.advanceTo = function(_state) {
         this.currentState = _state;
         if(_state.isTerminal()) {
@@ -164,9 +124,6 @@ var Game = function(autoPlayer) {
         }
     };
 
-    /*
-     * starts the game
-     */
     this.start = function() {
         if(this.status = "beginning") {
             //invoke advanceTo with the initial state
@@ -177,11 +134,6 @@ var Game = function(autoPlayer) {
 
 };
 
-/*
- * public static function that calculates the score of the x player in a given terminal state
- * @param _state [State]: the state in which the score is calculated
- * @return [Number]: the score calculated for the human player
- */
 Game.score = function(_state) {
     if(_state.result === "X-won"){
         // the x player won

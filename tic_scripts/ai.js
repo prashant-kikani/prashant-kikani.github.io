@@ -1,8 +1,4 @@
-/*
- * Constructs an action that the ai player could make
- * @param pos [Number]: the cell position the ai would make its action in
- * made that action
- */
+
 var AIAction = function(pos) {
 
     // public : the position on the board that the action would put the letter on
@@ -11,11 +7,6 @@ var AIAction = function(pos) {
     //public : the minimax value of the state that the action leads to when applied
     this.minimaxVal = 0;
 
-    /*
-     * public : applies the action to a state to get the next state
-     * @param state [State]: the state to apply the action to
-     * @return [State]: the next state
-     */
     this.applyTo = function(state) {
         var next = new State(state);
 
@@ -31,12 +22,6 @@ var AIAction = function(pos) {
     }
 };
 
-/*
- * public static function that defines a rule for sorting AIActions in ascending manner
- * @param firstAction [AIAction] : the first action in a pairwise sort
- * @param secondAction [AIAction]: the second action in a pairwise sort
- * @return [Number]: -1, 1, or 0
- */
 AIAction.ASCENDING = function(firstAction, secondAction) {
     if(firstAction.minimaxVal < secondAction.minimaxVal)
         return -1; //indicates that firstAction goes before secondAction
@@ -46,12 +31,7 @@ AIAction.ASCENDING = function(firstAction, secondAction) {
         return 0; //indicates a tie
 }
 
-/*
- * public static function that defines a rule for sorting AIActions in descending manner
- * @param firstAction [AIAction] : the first action in a pairwise sort
- * @param secondAction [AIAction]: the second action in a pairwise sort
- * @return [Number]: -1, 1, or 0
- */
+
 AIAction.DESCENDING = function(firstAction, secondAction) {
     if(firstAction.minimaxVal > secondAction.minimaxVal)
         return -1; //indicates that firstAction goes before secondAction
@@ -62,10 +42,6 @@ AIAction.DESCENDING = function(firstAction, secondAction) {
 }
 
 
-/*
- * Constructs an AI player with a specific level of intelligence
- * @param level [String]: the desired level of intelligence
- */
 var AI = function(level) {
 
     //private attribute: level of intelligence the player has
@@ -74,11 +50,6 @@ var AI = function(level) {
     //private attribute: the game the player is playing
     var game = {};
 
-    /*
-     * private recursive function that computes the minimax value of a game state
-     * @param state [State] : the state to calculate its minimax value
-     * @returns [Number]: the minimax value of the state
-     */
     function minimaxValue(state) {
         if(state.isTerminal()) {
             //a terminal game state is the base case
@@ -125,11 +96,7 @@ var AI = function(level) {
         }
     }
 
-    /*
-     * private function: make the ai player take a blind move
-     * that is: choose the cell to place its symbol randomly
-     * @param turn [String]: the player to play, either X or O
-     */
+
     function takeABlindMove(turn) {
         var available = game.currentState.emptyCells();
         var randomCell = available[Math.floor(Math.random() * available.length)];
@@ -142,11 +109,6 @@ var AI = function(level) {
         game.advanceTo(next);
     }
 
-    /*
-     * private function: make the ai player take a novice move,
-     * that is: mix between choosing the optimal and suboptimal minimax decisions
-     * @param turn [String]: the player to play, either X or O
-     */
     function takeANoviceMove(turn) {
         var available = game.currentState.emptyCells();
 
@@ -168,9 +130,6 @@ var AI = function(level) {
         //O minimizes --> sort the actions in an ascending manner to have the action with minimum minimax at first
             availableActions.sort(AIAction.ASCENDING);
 
-        /*
-         * take the optimal action 40% of the time, and take the 1st suboptimal action 60% of the time
-         */
         var chosenAction;
         if(Math.random()*100 <= 40) {
             chosenAction = availableActions[0];
@@ -192,11 +151,6 @@ var AI = function(level) {
         game.advanceTo(next);
     };
 
-    /*
-     * private function: make the ai player take a master move,
-     * that is: choose the optimal minimax decision
-     * @param turn [String]: the player to play, either X or O
-     */
     function takeAMasterMove(turn) {
         var available = game.currentState.emptyCells();
 
@@ -228,19 +182,10 @@ var AI = function(level) {
         game.advanceTo(next);
     }
 
-
-    /*
-     * public method to specify the game the ai player will play
-     * @param _game [Game] : the game the ai will play
-     */
     this.plays = function(_game){
         game = _game;
     };
 
-    /*
-     * public function: notify the ai player that it's its turn
-     * @param turn [String]: the player to play, either X or O
-     */
     this.notify = function(turn) {
         switch(levelOfIntelligence) {
             //invoke the desired behavior based on the level chosen
