@@ -63,7 +63,6 @@ defaults:
       type: "post"
     values:
       layout: "posts"
-      title: "Default Blog Title"
       author: "Prashant Kikani"
       description: "Prashant Kikani"
   - scope:
@@ -71,6 +70,5 @@ defaults:
       type: "page"
     values:
       layout: "pages"
-      title: "Default Page Title"
       author: "Prashant Kikani"
       description: "Prashant Kikani"

@@ -1,0 +1,52 @@
+---
+layout: page
+pagetitle: "Play Tic-tac-toe online against computer"
+keyword: tic-tac-toe, play tic-tac-toe online, tic-tac-toe with computer, play tic-tac-toe
+permalink: "/play-tic-tac-toe/"
+description: "Play Tic-tac-toe online against computer"
+
+---
+
+<center>
+The classic Tic-Tac-Toe game. <br/>
+Select a level, then click Play.
+
+<div>
+    <div class = 'control'>
+            <div class = 'intial'>
+                <div class = 'difficulty'>
+                    <span class = 'level not-selected' id = "blind">Blind</span>
+                    <span class = 'level not-selected' id = "novice">Novice</span>
+                    <span class = 'level not-selected' id = "master">Master!</span>
+                </div>
+
+                <div class="start"> Play </div>
+            </div>
+
+            <div class = 'ingame' id="human" style="padding-bottom: 20px;">It's your turn..</div>
+            <div class = 'ingame' id="ai">
+                <p>Wait for it..</p>
+            </div>
+        <div class = 'ingame' id="won" style="padding-bottom: 20px;"><b>You Won!</b><a href='https://prashantkikani.com/play-tic-tac-toe.html' role='button' style="padding-left: 30px;">Play Again</a></div>
+        <div class = 'ingame' id="lost" style="padding-bottom: 20px;"><b>You Lost!</b><a href='https://prashantkikani.com/play-tic-tac-toe.html' role='button'  style="padding-left: 30px;">Play Again</a></div>
+        <div class = 'ingame' id="draw" style="padding-bottom: 20px;"><b>It's a Draw!</b><a href='https://prashantkikani.com/play-tic-tac-toe.html' role='button'  style="padding-left: 30px;">Play Again</a></div>
+        </div>
+
+        <div class = 'board fulljustify' align="justify">
+            <div class='cell' data-indx = "0" ></div>
+            <div class='cell' data-indx = "1" ></div>
+            <div class='cell' data-indx = "2" ></div>
+            <div class='cell' data-indx = "3" ></div>
+            <div class='cell' data-indx = "4" ></div>
+            <div class='cell' data-indx = "5" ></div>
+            <div class='cell' data-indx = "6" ></div>
+            <div class='cell' data-indx = "7" ></div>
+            <div class='cell' data-indx = "8" ></div>
+        </div>
+    </div>
+    <script src = "/tic_scripts/jquery-1.10.1.min.js"></script>
+    <script src = "/tic_scripts/ui.js"></script>
+    <script src = "/tic_scripts/game.js"></script>
+    <script src = "/tic_scripts/ai.js"></script>
+    <script src = "/tic_scripts/control.js"></script>
+</center>
