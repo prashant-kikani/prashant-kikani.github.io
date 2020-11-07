@@ -356,7 +356,6 @@ table td { border: 1px solid #e8e8e8; }
 .not-selected {
     background-color: gray;
     color: white;
-    margin: 5px;
     margin-top: 20px;
     padding: 10px;
 }
