@@ -41,7 +41,7 @@ Try to build something which includes some algorithm which you have just learned
 
 Second way is Competitions. [Kaggle](https://www.kaggle.com/) is one of the biggest data science community. Take part in running competitions and learn as much as you can. Platforms like [KDnuggets](https://www.kdnuggets.com/), [Analytics Vidhya](https://www.analyticsvidhya.com/) are also good.
 
-<b>Its completely okay if your rank is low in these competitions</b>. Your aim is not to win millions of dollars by winning these competitions, your aim is to learn something. RANKS REALLY DOESN’T MATTER. You know, in these ML competitions, 1st rank will have let say 0.98598 accuracy and person at 500th rank will have 0.97198 accuracy. Rank difference is very high. But score is nearly same.
+<b>Its completely okay if your rank is low in these competitions</b>. Your aim is not to win millions of dollars by winning these competitions, your aim is to learn something. You know, sometimes in these ML competitions, 1st rank will have let say 0.98598 accuracy and person at 500th rank will have 0.97198 accuracy. Rank difference is very high. But score is nearly same.
 
 Read and try to understand other people’s view on the same problem by [Kaggle kernels](https://www.kaggle.com/kernels). Many working professional data scientists share their point of view by kernels. That is <b>the best and fastest way</b> to capture important things. They have experience and knowledge. See how they think and grow your thinking process that way.
 
@@ -57,6 +57,8 @@ If you don’t know how to know all the things about these top conferences, <a r
 
 Doing ML alone can resist your growth. Because you never know what this concept can be viewed this way also. Here comes meet ups and tech-talks. [PyData](https://pydata.org/) is one of them. PyData arranges various events and meet ups around the world. Join them if you can. You will definitely learn something new. [PyCon](https://www.pycon.org/) is also good (specially for those who prefer Python as their working language. Which many of use do). Watch some success stories like <a rel="nofollow" target="_blank" href="https://youtu.be/MOdlp1d0PNA">this</a> & <a rel="nofollow" target="_blank" href="https://www.youtube.com/watch?v=rIofV14c0tc&t=100s">this</a> to encourage your self learning!!
 
+You can also follow YouTube channels of [Sanyam](https://www.youtube.com/channel/UCRjtBP-o5FbgRzX2BHQEFtQ) & [Abhishek](https://www.youtube.com/c/AbhishekThakurAbhi/) for interesting interviews.
+
 Also, keep visiting <a rel="nofollow" target="_blank" href="https://towardsdatascience.com/">Towards Data Science</a>, <a rel="nofollow" target="_blank" href="https://hackernoon.com/">Hacker Noon</a>, <a rel="nofollow" target="_blank" href="https://becominghuman.ai/">Becoming Human</a> like websites regularly. All these blog sites have plenty of great blogs written by ML professionals. Also use Twitter wisely. Follow some great professionals there and never be late to catch new things.
 
 > At last, One important thing. Don’t expect results quickly. I am doing ML for 7 months now. And I don’t know many many concepts of ML (<b>knowing what you don’t know is also an important thing</b>). You can’t expect to understand and implement all the concepts in half a year.. Things will be understood as the time goes. Don’t compare yourself with anyone. Just be the best version of yourself. Everyone is unique.
@@ -68,7 +70,3 @@ And yes, you will need support when things are not going well. So, make a few be
 # <center>In short, If you don't give up, ML is your cup of tea!!</center>
 
 <br/>
-
-👏 👏 You made it till the end!!
-
-❤️ Have a nice day!
