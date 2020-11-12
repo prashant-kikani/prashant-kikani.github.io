@@ -17,6 +17,8 @@ I will divide this post in <b>3 parts</b>.
 - How to grow?
 - How to maintain?
 
+<center><img src="../assets/start-grow-maintain.png"/></center> 
+
 <br/>
 
 # How to start in ML?
