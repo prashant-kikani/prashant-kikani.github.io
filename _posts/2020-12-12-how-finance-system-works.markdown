@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How economy and financial system works"
+title:  "How the economy and financial system works"
 date:   2020-12-12 # yyyy-mm-dd
 keyword: economy, finance, how economy works, markets, assets, liabilities, financial system, organization    
 permalink: "/blog/economy-and-finance"
