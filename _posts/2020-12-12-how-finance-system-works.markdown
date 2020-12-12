@@ -31,7 +31,7 @@ Every dollar we spend, someone else earns; every dollar we earn, someone spends;
 
 It's not that hard to understand that, almost everything in the economy is driven by transactions. Transaction to the economy is like biological cells to the human body. 
 
-Now, this buyer and seller chain can continue hundreds or thousands of times. Means a buyer can be a seller for someone else and a seller can be a buyer for someone else.
+Now, this buyer and seller chain can continue hundreds or thousands of times. Means a buyer can be a seller for someone else and a seller can be a buyer for someone else. Just like a businessman sells his/her products to others and buys other products from some other businessmen. 
 
 <br/>
 
