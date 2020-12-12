@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A general framework to solve almost any problem"
-date:   2020-11-16 # yyyy-mm-dd
+date:   2020-12-12 # yyyy-mm-dd
 keyword: Problem Solving, How to solve a problem,  
 permalink: "/blog/solve-problems"
 description: "A general framework to solve almost any problem"
