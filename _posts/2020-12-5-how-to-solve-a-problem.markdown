@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A general framework to solve almost any problem"
-date:   2020-12-12 # yyyy-mm-dd
+date:   2020-12-5 # yyyy-mm-dd
 keyword: problem solving, how to solve a problem, self help, first principles thinking, transfer learning    
 permalink: "/blog/solve-problems"
 description: "A general framework to solve almost any problem"
@@ -31,7 +31,7 @@ Let's start!
 
 <br/>
 
-# Transfer Learning
+## Transfer Learning
 
 Almost 80-90% of our problems can be solved in this simple & naive way. <b>How others have solved the same problem in the past?</b> Ask this question whenever you face any problem. 
 
@@ -52,7 +52,7 @@ Almost all the "common" and day-to-day problems will be solved in this way.
 
 <br/>
     
-# First Principles Thinking
+## First Principles Thinking
 
 We saw how our day-to-day problems can be solved by transfer learning. Now, how can we solve problems which very few people have faced or tried to solve? For example, what people like Elon Musk is doing to build electric cars and efficient rockets.
 
@@ -77,7 +77,7 @@ While thinking from first principles, a good habit is to always look for negativ
 
 <br/>
 
-# Things to keep in mind while solving a problem
+## Things to keep in mind while solving a problem
 
 - Ask these questions:
     - What are the things you can leverage? 
