@@ -126,10 +126,6 @@ So, increased income allows increased borrowing, which allows increased spending
 
 <br/>
 
-<center><img src="../assets/spend-earn.jpg"/></center>
-
-<br/>
-
 ## Role of the central bank in an economy
 
 So, if you can see this, the central bank kind of controls the economy! 
@@ -169,6 +165,12 @@ And after several years, with that money from profit, they repay that money with
 
 So they started with nothing but a loan from the lenders and using their skills to build products/services, now they are earning more and more!
 This skill of attracting great people to work for them and building great products which solve people’s problems is making them more and more money!
+
+<br/>
+
+<center><img src="../assets/spend-earn.jpg"/></center>
+
+<br/>
 
 Are you getting it? After several years, that skill is now <mark>translated</mark> into millions of dollars. At first, they had nothing but that skill and now they have lots of money too!
 
