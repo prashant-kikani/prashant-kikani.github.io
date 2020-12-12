@@ -178,7 +178,9 @@ They took a risk to take big loans and to hire people to build a product in whic
 
 So, the economy rewards these kinds of people with a lot of money. Who can take big risks and solve big problems.
 
-Maybe I am over-simplifying all this above, but that skill is not easy. Thousands of hurdles come in starting a company & to hire talented people & to make them build products & to sell them. But whoever does that, the economy surely rewards them.
+Maybe I am over-simplifying all this above, but that skill is not easy to learn. Hundreds of hurdles come in starting a company, in hiring talented people & to make them build products & in selling those products. But whoever does that, the economy surely rewards them.
+
+Bigger the impact, bigger the reward.
 
 Hope now you have got at least some idea of how the economy works and how its reward system works!
 
