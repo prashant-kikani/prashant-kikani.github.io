@@ -10,6 +10,10 @@ description: "How to live a happy life by following some simple, realistic & sta
 
 In this post, I share my ideas to live a happy life by following some simple, realistic & statistically valid ways.
 
+<center><img src="../assets/happy-life.jpg"/></center> 
+
+<br/>
+
 # The Uncomfortable Truth
 
 A thought from Mark Manson's famous book,
