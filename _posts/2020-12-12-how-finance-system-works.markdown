@@ -165,7 +165,7 @@ Credit is good when it’s issued for efficiently allocating resources that prod
 
 Almost all the famous businessmen and entrepreneurs initially had nothing compared to what they have today. They take a big amount of money from lenders(like banks, investors) & allocate that money to hire talented people and to build products/services. Ultimately they earn money by selling those products/services.
 
-And after several years, with that money from profit, they repay that money with interest or in form of equity & invest remaining money in the company to hire more people and to build more and better products which will make them even more money. This cycle can continue forever.
+And after several years, with that money from profit, they repay that money with interest or in form of equity to lenders & invest remaining money in the company to hire more people and to build more and better products which will make them even more money. This cycle can continue forever.
 
 So they started with nothing but a loan from the lenders and using their skills to build products/services, now they are earning more and more!
 This skill of attracting great people to work for them and building great products which solve people’s problems is making them more and more money!
