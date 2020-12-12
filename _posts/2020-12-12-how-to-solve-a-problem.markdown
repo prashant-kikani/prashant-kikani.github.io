@@ -8,7 +8,7 @@ description: "A general framework to solve almost any problem"
 
 ---
 
-In this post, I share how one can approach & solve almost any problem & specifically how I try to solve a problem.
+In this post, I share a way of thinking regarding how one can approach and solve almost any problem.
 
 Disclaimer: Purpose of this post is just to share a way of thinking. Nor I am a big master in solving problems neither I am conveying whatever I am saying below is the only truth. It's just one of many way of thinking. 
 I personally found below things useful whenever I face a problem.
