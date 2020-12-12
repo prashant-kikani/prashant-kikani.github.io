@@ -29,7 +29,7 @@ Let's start!
 
 # Transfer Learning
 
-Almost 80-90% of our problems can be solved in this simple & naive way. <b>How others have solved the same problem in the past?<b> Ask this question whenever you face any problem. 
+Almost 80-90% of our problems can be solved in this simple & naive way. <b>How others have solved the same problem in the past?</b> Ask this question whenever you face any problem. 
 
 > Billions of humans are living on this planet. It's very likely that someone else has faced & solved the same problem as ours. We just need to copy that solution. That's all.
 
