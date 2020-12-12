@@ -2,7 +2,7 @@
 layout: post
 title:  "What I learned from my 7 month ML journey"
 date:   2018-5-14 # yyyy-mm-dd
-keyword: Machine Learning, Artificial Intelligence, Data Science, Experience, Beginner 
+keyword: learn machine learning, Machine Learning, Artificial Intelligence, Data Science, Experience, Beginner 
 permalink: "/blog/7-month-ml-journey"
 description: "How I get started with Machine Learning & how you can do it too? Simple steps to get started in ML."
 

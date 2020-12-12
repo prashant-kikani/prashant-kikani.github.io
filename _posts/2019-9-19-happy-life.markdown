@@ -2,7 +2,7 @@
 layout: post
 title:  "A realistic way to live a happy life"
 date:   2019-9-19 # yyyy-mm-dd
-keyword: Self Improvement, Happiness, Success, Minimalism, Mental Health, Philosophy
+keyword: how to live a happy life, Self Improvement, Happiness, Success, Minimalism, Mental Health, Philosophy
 permalink: "/blog/happy-life"
 description: "How to live a happy life by following some simple, realistic & statistically valid principles."
 
