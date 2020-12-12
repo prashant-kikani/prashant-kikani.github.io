@@ -182,6 +182,10 @@ Maybe I am over-simplifying all this above, but that skill is not easy to learn.
 
 Bigger the impact, bigger the reward.
 
+<br/>
+
+I used to explore basics of economy and finance in the free time. So, all the things we discussed above are learned from various sources like YouTube and Wikipedia.  
+
 Hope now you have got at least some idea of how the economy works and how its reward system works!
 
 Have a happy life!
