@@ -172,7 +172,7 @@ This skill of attracting great people to work for them and building great produc
 
 <br/>
 
-Are you getting it? After several years, that skill is now <mark>translated</mark> into millions of dollars. At first, they had nothing but that skill and now they have lots of money too!
+Are you getting it? After several years, that skill is now <mark>translated</mark> into a good amount of money. At first, they had nothing but that skill and now they have lots of money too!
 
 They took a risk to take big loans and to hire people to build a product in which they believed. There were chances of a complete failure. But they took calculated risks with their abilities and the economy rewarded them.  
 
