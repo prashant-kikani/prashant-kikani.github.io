@@ -184,7 +184,7 @@ Bigger the impact, bigger the reward.
 
 <br/>
 
-I used to explore basics of economy and finance in the free time. So, all the things we discussed above are learned from various sources like YouTube and Wikipedia.  
+I used to explore basics of economy and finance in the free time. So, all the things we discussed above are from various sources like YouTube and Wikipedia.  
 
 Hope now you have got at least some idea of how the economy works and how its reward system works!
 
