@@ -10,7 +10,7 @@ description: "A beginner's guide to economy and finance"
 
 In this blog post, we will discuss how the economy and financial system works? What drives the economy and how it rewards a certain type of people? 
 
-I am using "dollar" as a currency for example in this blog, but it can be any currency like "rupee", "euro", "yen", "pound" etc.
+I am using Dollar as a currency for example in this blog, but it can be any currency like Rupee, Euro, Yen, Pound etc.
 
 To understand the economy, let's first understand "transactions".
 
@@ -69,7 +69,10 @@ Price is decided by how much something is wanted(i.e. demand) by the public vs. 
 High supply, low demand -> lower the price.<br/>
 Low supply, high demand -> higher the price.
 
-Whole <b>stock market</b> works on this very principle. An investor decides what should be the ideal price of a share of a company, and try to bid at that price to buy the share.
+Whole <b>stock market</b> works on this very principle. For people who don't have much idea about what stock market is, it's a market for stocks/shares. Where shares of public companies are traded. A share is basically part of a company. 
+When we buy a share of a company, we own certain percentage of that company. Market valuations / market caps of companies are calculated based on the price of the share in the stock markets. 
+
+In a stock market, an investor decides what should be the ideal price of a share of a company, and try to bid at that price to buy the share.
 At the same time, thousands or millions of other people are doing that same work. And whatever the majority decided price is for that moment, will be the price of that share at that moment.
 
 Above process is happening at every second. That's why the price of shares fluctuates every second. The slope of the share price graph shows the general sentiment of the public about that share.
