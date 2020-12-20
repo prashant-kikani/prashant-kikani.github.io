@@ -122,5 +122,6 @@ Once, you repeat above things 2-3 times, you will have solid projects to show in
   
 > So, we started with raw data, we pre-processed it, we trained ML models, we cross-validated it & finally, we deployed it! 
 
+I have written a similar type of blog [here](https://prashantkikani.com/blog/7-month-ml-journey) explaining how to grow & maintain your knowledge about ML.
 So, this is how you can get started in machine learning! Have a happy life, cheers!
        
