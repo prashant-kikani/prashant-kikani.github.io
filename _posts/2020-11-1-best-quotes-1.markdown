@@ -33,7 +33,7 @@ Having a meaningful goal or vision in life is perhaps the most important thing. 
 > "We have two lives, and the second one begins when we realize we only have one." -Confucius
 
 This says, once we truly realize we only have one life, our whole life changes. That after life will be different than previous life in which we didn't truly realize that fact.
-Almost all of our decisions impacts after we realize that our life-span is finite. 
+Almost all of our decisions gets impacted once we realize that our life-span is finite. 
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
