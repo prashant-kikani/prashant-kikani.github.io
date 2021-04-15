@@ -65,7 +65,7 @@ Today's majority of the top 50 or top 100 richest people in the world are self-m
 Billionaires in 19th century were made from oil, steel & electricity, like [John D. Rockefeller, Andrew Carnegie and J. P. Morgan](https://en.wikipedia.org/wiki/The_Men_Who_Built_America).
 And billionaires of 20th century like Elon Musk, Jeff Bezos and Mark Zuckerberg have build companies riding the internet wave. It was a [digital land grab](https://www.technologyreview.com/2000/03/01/236418/digital-land-grab/).  
 
-> And let's also take a moment & realize that, obviously there are thousands of other people also who have impacted many lives and made single digit billions or hundreds of millions riding the internet wave.
+> And let's also take a moment & realize that, obviously there are thousands of other people also who have impacted many lives and made single digit billions or hundreds or tens of millions riding the internet wave.
 
 <br/>
 
