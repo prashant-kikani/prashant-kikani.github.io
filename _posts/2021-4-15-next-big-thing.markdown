@@ -7,7 +7,7 @@ permalink: "/blog/next-wave"
 description: "What can be the biggest technological wave of the next decade?"
 ---
 
-In 2021, almost all massively big and profitable businesses/companies in the world are internet companies. 
+In 2021, almost all massively big and profitable businesses/companies in the world are internet companies like Apple, Amazon, Google, Microsoft & Facebook.
 
 They are so much big, that [government is thinking to break them](https://www.nytimes.com/2020/12/20/technology/antitrust-case-google-facebook.html) following anti-trust laws.
 If we think, what cause these companies to become so massively big? 
@@ -65,9 +65,9 @@ Today's majority of the top 50 or top 100 richest people in the world are self-m
 Billionaires in 19th century were made from oil, steel & electricity, like [John D. Rockefeller, Andrew Carnegie and J. P. Morgan](https://en.wikipedia.org/wiki/The_Men_Who_Built_America).
 And billionaires of 20th century like Elon Musk, Jeff Bezos and Mark Zuckerberg have build companies riding the internet wave. It was a [digital land grab](https://www.technologyreview.com/2000/03/01/236418/digital-land-grab/).  
 
-And let's also take a moment & realize that, obviously there are thousands of other people also who have impacted many lives and made single digit billions or hundreds of millions riding the internet wave.
+> And let's also take a moment & realize that, obviously there are thousands of other people also who have impacted many lives and made single digit billions or hundreds of millions riding the internet wave.
 
-
+<br/>
 
 # What can be the next big Technological wave?
 
@@ -87,7 +87,8 @@ Prices of stocks & metals like gold, represents our collective belief in it's va
 According to me, next decade(i.e. 2020-2030) is going to be a "crypto & smart contracts + AR/VR" wave. DeFi-Decentralized Finance, is a new wave in finance at the horizon. Today, just like we are spending more & more time on internet & mobile, we will spend that time in virtual world.
 
 A future where people are living more in the virtual world(AR/VR) than the real world, where they earn & consume in crypto & people build businesses upon [smart-contracts](https://ethereum.org/en/developers/docs/smart-contracts/) platform is truly exciting.
-A virtual world where you can do anything that you can imagine, you can build anything you want. You can build your own business & houses there, and other people will use your products & you will use other people's(read entrepreneurs') products.
+
+> A virtual world where you can do anything that you can imagine, you can build anything you want. You can build your own business & houses there, and other people will use your products & you will use other people's(read entrepreneurs') products.
 
 And millennials & gen-Z will find that new virtual world far more cooler & attractive than this real physical world, filled with issues like climate change & global warming. <b>As a matter of fact, millennials & gen-Z is the future generation</b>. 
 And to spend in that new universe, option of decentralized money is more convenient than traditional fiat money. So the future of decentralized finance, where literally everything is open, transparent and global, seems bright.

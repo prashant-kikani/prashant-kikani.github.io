@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	{% include analytics.html %}
+
+	{% if page.title and page.title != "" %}
+        <title>{{ page.title }} | Prashant Kikani</title>
+    {% else %}
+        {% if page.pagetitle %}
+            <title>{{ page.pagetitle }} | Prashant Kikani</title>
+        {% else %}
+            <title>{{ site.title }}</title>
+        {% endif %}
+    {% endif %}
+
+    {% include meta.html %}
+
+    <link rel="stylesheet" href="/assets/main.css">
+    <style>
+        body { font: 400 18px/1.5 Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Ubuntu, Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+    </style>
+    <link rel="canonical" href="{{ site.url }}{{ page.permalink }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
+</head>
+<body>
+
+{% include header.html %}
+
+<main class="page-content" aria-label="Content">
+<div class="wrapper">
+
+{{ content }}
+
+</div>
+</main>
+
+{% include footer.html %}
+
+</body>
+</html>
