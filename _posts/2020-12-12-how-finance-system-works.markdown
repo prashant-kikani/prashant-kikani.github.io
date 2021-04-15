@@ -56,6 +56,8 @@ Now, who decides that $35k to $50k price? Well, there are many factors at play b
 
 The price of a product/service is a subjective thing. According to sellers, it can be of price A. For buyers, it can be of price B. So, who's correct? To decide the correct price, we need to go for the supply and demand balance point of that product/service. 
 
+<br/>
+
 # Supply and Demand
 
 Price is decided by how much something is wanted(i.e. demand) by the public vs. the supply of that thing.

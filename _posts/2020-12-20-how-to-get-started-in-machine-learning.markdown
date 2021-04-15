@@ -95,6 +95,8 @@ Deployment of those trained ML models on the web is the whole another task. Beca
 
 Benefit of deploying the ML model on web is, instead of seeing your code on GitHub, people can directly see your model making good predictions on their laptop/phone.
 
+<br/>
+
 # How to deploy a trained ML model?
 
 Let's take an example. You trained a model which can predict which number out of 0-9 is written in a given image.

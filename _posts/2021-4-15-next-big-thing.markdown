@@ -69,7 +69,7 @@ And billionaires of 20th century like Elon Musk, Jeff Bezos and Mark Zuckerberg 
 
 <br/>
 
-# What can be the next big Technological wave?
+## What can be the next big Technological wave?
 
 According to me, three major candidates are:
 1. Artificial Intelligence(AI) & Machine Learning(ML)
