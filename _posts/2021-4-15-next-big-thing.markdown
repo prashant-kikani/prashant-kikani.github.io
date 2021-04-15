@@ -53,15 +53,15 @@ That's a lot of things that came in just last 20 years. If we think, >70-80% of 
 Can you imagine what things will exist 20 years from now? Or even 10 years from now?
  
 Now, if you think about it, if you need to make a massive impact on the humanity & make tons of money by building these massive business juggernauts, you need to ride the technological waves.
-Meaning, if you need to be at the right time. Right timing is one of the most critical factor which determines how a business will do. 
+Meaning, you need to be at the right time. Right timing is one of the most critical factor which determines how a business will do. 
 
 If iPhone or Android would have come in 1990s, possibly it would not have become these much big, because of less awareness about internet, technology and less penetration of internet.
 Same thing for social media like Facebook, WhatsApp & Instagram. They were at the right time when the stage was set for them to build massive buildings. 
 
 Now, that's not to say, they just got lucky. Absolutely not. They have poured their blood, sweat & tears into their companies and products to make them successful.
-But if they were the in the wrong timing, chances were not this much high to make the thing fly.
+But if they were in the wrong timing, chances were not this much high to make the thing fly.
 
-Today's majority of the top 50 or top 100 richest person in the world are self-made by riding this new technological wave. 
+Today's majority of the top 50 or top 100 richest people in the world are self-made by riding this new technological wave. 
 Billionaires in 19th century were made from oil, steel & electricity, like [John D. Rockefeller, Andrew Carnegie and J. P. Morgan](https://en.wikipedia.org/wiki/The_Men_Who_Built_America).
 And billionaires of 20th century like Elon Musk, Jeff Bezos and Mark Zuckerberg have build companies riding the internet wave. It was a [digital land grab](https://www.technologyreview.com/2000/03/01/236418/digital-land-grab/).  
 
@@ -78,7 +78,7 @@ According to me, three major candidates are:
 
 You can read about AI/ML in my other [blogs](https://prashantkikani.com/blog/), in this one, I will try to explore 2nd and 3rd.
 
-Movies like [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One_(film)) shows that, at what level AR/VR can get in future. And boy, that future seems very likely to me. 
+Movies like [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One_(film)) shows that, at what level AR/VR can impact our lives in future. And boy, that future seems very likely to me. 
 As the [government is printing trillions of dollars](https://www.usatoday.com/in-depth/money/2020/05/12/coronavirushow-u-s-printing-dollars-save-economy-during-crisis-fed/3038117001/) & very low interest rates, people's trust in fiat currency have started to decline. 
 
 And what is money, if it's not just a collective trust and belief of value in a piece of paper? Just like we believe gold is worth this much and we believe, this stock is worth this much.
@@ -89,7 +89,7 @@ According to me, next decade(i.e. 2020-2030) is going to be a "crypto & smart co
 A future where people are living more in the virtual world(AR/VR) than the real world, where they earn & consume in crypto & people build businesses upon [smart-contracts](https://ethereum.org/en/developers/docs/smart-contracts/) platform is truly exciting.
 A virtual world where you can do anything that you can imagine, you can build anything you want. You can build your own business & houses there, and other people will use your products & you will use other people's(read entrepreneurs') products.
 
-And millennials & gen-Z will find that new virtual world far more cooler & attractive than this real physical world, filled with issues like climate change & global warming. <b>As a matter of fact, millennials & gen-Z is the future</b>. 
+And millennials & gen-Z will find that new virtual world far more cooler & attractive than this real physical world, filled with issues like climate change & global warming. <b>As a matter of fact, millennials & gen-Z is the future generation</b>. 
 And to spend in that new universe, option of decentralized money is more convenient than traditional fiat money. So the future of decentralized finance, where literally everything is open, transparent and global, seems bright.
 
 New generations, believe more in globalization than fighting over countries' border issues. Today, they share everything they know on the internet for free & read/watch whatever interests them. An open, transparent & global wave of sharing! 
@@ -103,7 +103,7 @@ And along with that, massive compute-power hardwares like GPUs and TPUs are also
 To summarize last 4-5 paragraphs, platform is almost ready or getting ready at very fast rate to build huge buildings for DeFi(Decentralized Finance). Mix of AR/VR and DeFi is a completely new world.  
 
 If virtual world where we can do anything we can imagine becomes reality, then chances of DeFi to work increases drastically. 
-Because in that virtual world, we need something for value transaction. And crypto on top of DeFi & smart contracts is just that. And even if that virtual world is not happening in the foreseeable future, chances of DeFi to work are still there, because of decreasing trust in fiat currency.
+Because in that virtual world, we need some fast, secure & reliable way for <i>value transaction</i>. And crypto on top of DeFi & smart contracts is just that. And even if that virtual world is not happening in the foreseeable future, chances of DeFi to work are still there, because of decreasing trust in fiat currency.
 
 So, I think a combined wave of AR/VR + DeFi will be one of the biggest, if not the biggest part of our future. Only question is, how far this future is. Is it 10 years, 5 years or 30 years?
 I think it'll be far sooner we think, as we saw which things were not there 10-20 years ago. So, I think it'll come faster than we think. 
