@@ -2,7 +2,7 @@
 layout: post
 title:  "Freedom vs. Equality"
 date:   2021-04-16 # yyyy-mm-dd
-keyword: Freedom, Equality, Capitalism,  
+keyword: Freedom vs. Equality, Freedom, Equality, Capitalism
 permalink: "/blog/freedom-vs-equality"
 description: "How Freedom and Equality are complementary to each other"
 ---
