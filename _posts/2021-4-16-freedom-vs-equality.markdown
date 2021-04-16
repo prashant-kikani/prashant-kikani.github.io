@@ -39,7 +39,7 @@ It's truly an interesting and worth noticing trade-off.
 <center><img src="../assets/inequality.jpg"/></center>  
 <br/>
 
-I came around this trade-off from the [All-In podcast E28](https://youtu.be/uPwvZZkrJ90?t=3179). It's a very good podcast about business & innovation where 4 multi-millionaires besties discuss their thoughts. 
+I came around this trade-off from the [All-In podcast E28](https://youtu.be/uPwvZZkrJ90?t=3179). It's a very good podcast about business & innovation where 4 multi-millionaire besties discuss their thoughts. 
   
 
 

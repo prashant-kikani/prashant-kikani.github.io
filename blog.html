@@ -16,9 +16,11 @@ description: Prashant Kikani's blog on Machine Learning, Philosophy, Happiness &
         {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </div>
 
-      <br/>
-      <hr style="height:0px; color:#DCDCDC; background-color:#DCDCDC;">
-      <br/>
+      {% if post.title != "What I learned from my 7 month ML journey" %}
+        <br/>
+        <hr style="height:0px; color:#DCDCDC; background-color:#DCDCDC;">
+        <br/>
+      {% endif %}
 
     </article>
   {% endfor %}
