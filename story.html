@@ -1,7 +1,7 @@
 ---
 layout: page
 pagetitle: Prashant Kikani's blog
-permalink: "/blog/"
+permalink: "/stories/"
 description: Prashant Kikani's blog on Machine Learning, Philosophy, Happiness & Life
 ---
 
@@ -10,20 +10,12 @@ description: Prashant Kikani's blog on Machine Learning, Philosophy, Happiness &
 
     <article class="post">
       {% if post.url contains "stories" %}
-
-      {% else %}
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
           <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
         <div class="entry">
           {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
         </div>
-
-        {% if post.title != "What I learned from my 7 month ML journey" %}
-          <br/>
-          <hr style="height:0px; color:#DCDCDC; background-color:#DCDCDC;">
-          <br/>
-        {% endif %}
 
       {% endif %}
     </article>

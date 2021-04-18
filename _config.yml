@@ -50,6 +50,7 @@ sitemap:
     include_posts:
         - "/index.html"
         - "/blog.html"
+        - "/stories.html"
 
 exclude:
   - Gemfile
