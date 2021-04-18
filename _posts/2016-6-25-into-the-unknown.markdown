@@ -7,10 +7,10 @@ permalink: "/stories/into-the-unknown"
 description: "A Sci-Fi story on alien life."
 ---
 
-This is a sci-fi story which I wrote in my broken English during summer holidays of 2016, inspired from my favorite sci-fi movies like Harry Potter, Star Wars, The Avengers, Prometheus & Arrival. Enjoy!   
+This is a sci-fi story which I wrote in my broken English during summer holidays of 2016, inspired from my favorite sci-fi movies like Harry Potter, Star Wars, The Avengers, Prometheus & Arrival. Enjoy!
 
 
-# Chaper 1: Flying Fish
+# Chapter 1: Flying Fish
 
 The story starts from an imaginary planet called “Typhon”, lying somewhere in another Universe. This galaxy was near to a White hole compared to Earth. (After billions of years, Black hole is converted into White hole that emits Energy from it continuously.)
 
