@@ -4,7 +4,7 @@ title:  "Into the Unknown"
 date:   2016-06-25 # yyyy-mm-dd
 keyword: Into the Unknown, Sci-fi novel, Sci-fi stories, Space, Aliens, Stories
 permalink: "/stories/into-the-unknown"
-description: "A Sci-Fi story on alien life."
+description: "A Sci-Fi story on alien life of another universe meeting Humans on earth."
 ---
 
 This is a sci-fi story which I wrote in my broken English during summer holidays of 2016, inspired from my favorite sci-fi movies like Harry Potter, Star Wars, The Avengers, Prometheus & Arrival. Enjoy!
