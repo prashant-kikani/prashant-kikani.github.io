@@ -12,7 +12,7 @@ This is a sci-fi story which I wrote in my broken English during summer holidays
 
 # Chapter 1: Flying Fish
 
-The story starts from an imaginary planet called “Typhon”, lying somewhere in another Universe. This galaxy was near to a White hole compared to Earth. (After billions of years, Black hole is converted into White hole that emits Energy from it continuously.)
+The story starts from a planet called “Typhon”, lying somewhere in another Universe. This galaxy was near to a White hole compared to Earth. (After billions of years, Black hole is converted into White hole that emits Energy from it continuously.)
 
 People of that planet are unlike from Humankind. They can get food or energy from their sun called “Tipo” if they want. Tipo is a White hole. This civilization has grown before us, around 14.3 billion years ago. 
 
