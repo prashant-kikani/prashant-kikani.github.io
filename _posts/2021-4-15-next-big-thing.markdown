@@ -15,7 +15,7 @@ One possible answer can be, the stage was set with electricity availability, wid
 With all these major factors combined, the internet revolution was almost inevitable. Internet & mobile brought many new businesses & entrepreneurs.
 
 So, we can say, when multiple factors combine, a big wave of growth comes and somehow, if 
-you do catch-up those waves by starting businesses in that area, or by being early employees in those companies, you can make big fortunes, in terms of millions & billions. 
+you do catch-up(or ride) those waves by starting businesses in that area, or by being early employees in those companies, you can make big fortunes, in terms of millions & billions. 
 
 If you make a list of companies/products that didn't existed 20 years ago, it will include:
 - iPhone
@@ -81,14 +81,15 @@ You can read about AI/ML in my other [blogs](https://prashantkikani.com/blog/), 
 Movies like [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One_(film)) shows that, at what level AR/VR can impact our lives in future. And boy, that future seems very likely to me. 
 As the [government is printing trillions of dollars](https://www.usatoday.com/in-depth/money/2020/05/12/coronavirushow-u-s-printing-dollars-save-economy-during-crisis-fed/3038117001/) & very low interest rates, people's trust in fiat currency have started to decline. 
 
-And what is money, if it's not just a collective trust and belief of value in a piece of paper? Just like we believe gold is worth this much and we believe, this stock is worth this much.
-Prices of stocks & metals like gold, represents our collective belief in it's value. 
+And what is money, if it's not just a collective trust and belief of value in a piece of paper? Just like we believe gold is worth this much and we believe, this stock is worth this much. Since 1971, when [Nixon removed](https://en.wikipedia.org/wiki/Nixon_shock) the [gold standard](https://en.wikipedia.org/wiki/Gold_standard), nothing is backing the value of a US dollar bill.
+
+> Prices of stocks & metals like gold, represents our collective belief in it's value. 
 
 According to me, next decade(i.e. 2020-2030) is going to be a "crypto & smart contracts + AR/VR" wave. DeFi-Decentralized Finance, is a new wave in finance at the horizon. Today, just like we are spending more & more time on internet & mobile, we will spend that time in virtual world.
 
 A future where people are living more in the virtual world(AR/VR) than the real world, where they earn & consume in crypto & people build businesses upon [smart-contracts](https://ethereum.org/en/developers/docs/smart-contracts/) platform is truly exciting.
 
-> A virtual world where you can do anything that you can imagine, you can build anything you want. You can build your own business & houses there, and other people will use your products & you will use other people's(read entrepreneurs') products.
+A virtual world where you can do anything that you can imagine, you can build anything you want. You can build your own business & houses there, and other people will use your products & you will use other people's(read entrepreneurs') products.
 
 And millennials & gen-Z will find that new virtual world far more cooler & attractive than this real physical world, filled with issues like climate change & global warming. <b>As a matter of fact, millennials & gen-Z is the future generation</b>. 
 And to spend in that new universe, option of decentralized money is more convenient than traditional fiat money. So the future of decentralized finance, where literally everything is open, transparent and global, seems bright.
