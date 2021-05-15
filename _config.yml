@@ -29,6 +29,8 @@ version: v4.1.1
 theme: minima
 plugins:
   - jekyll-feed
+  - rexml
+  - kramdown
 
 # Set the Sass partials directory, as we're using @imports
 sass:
