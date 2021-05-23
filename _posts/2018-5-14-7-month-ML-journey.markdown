@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What I learned from my 7 month ML journey"
+title:  "What I learned from my 7 month ML journey?"
 date:   2018-5-14 # yyyy-mm-dd
 keyword: learn machine learning, Machine Learning, Artificial Intelligence, Data Science, Experience, Beginner 
 permalink: "/blog/7-month-ml-journey"

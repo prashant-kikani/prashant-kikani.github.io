@@ -21,7 +21,7 @@ I believe that, chances are very high of we are living in a simulation. Here are
 
 In laymen's terms, the answer of "what is simulation?" can be conveyed as, design some finite set of fundamental laws, and let it run on it's own. It will evolve on it's own.
 
-Our universe runs on some <b>finite</b> fundamental rules or laws of physics and chemistry. Everything there exists, follows these fundamental rules of Thermodynamics, Electromagnetism, Quantum mechanics, Radiation etc fields like gravity etc.
+Our universe runs on some <b>finite</b> fundamental rules or laws of physics and chemistry. Everything there exists, follows these fundamental rules(like gravity and wave theory) of Thermodynamics, Electromagnetism, Quantum mechanics, Radiation etc. fields.
 
 If the universe is governed by these "finite" laws, couldn't a powerful enough computer or machine simulate it exactly? Like, start everything from a scratch(like the big bang) and <b>let it run on it's own</b>.
 
