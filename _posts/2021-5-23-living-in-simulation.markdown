@@ -7,46 +7,46 @@ permalink: "/blog/simulation"
 description: "Is our reality an artificial simulation created by some extraterrestrial species or aliens?"
 ---
 
-Are we living in a Simulation? Is there someone who have programed rules which governs our universe?  
-Answers of these questions are most likely not possible to get in our very tiny lifetime on cosmic scale of ~80-100 years.
-At this point of time, it's all about probabilities of something is true or not.
+Are we living in a Simulation? Is there someone who has programmed rules which govern our universe?  
+Answers to these questions are most likely not possible to get in our very tiny lifetime on the cosmic scale of ~80-100 years.
+At this point in time, it's all about the probabilities of something is true or not.
 
 The purpose of asking these questions is to expand the horizon of imagination and push forward the limits of our thinking.
 
 After all, that's how every innovation starts, from a noble pursuit of wonder.
 
-I personally believe that, chances are very high of we are living in a simulation. Here are some hypothesis which supports that.
+I believe that, chances are very high of we are living in a simulation. Here are some hypothesis which supports that.
 
 # Program the fundamental laws.
 
-In laymen terms, answer of "what is simulation?" can be conveyed as, design some finite set of fundamental laws, and let it run on it's own. It will evolve on it's own.
+In laymen's terms, the answer of "what is simulation?" can be conveyed as, design some finite set of fundamental laws, and let it run on it's own. It will evolve on it's own.
 
 Our universe runs on some <b>finite</b> fundamental rules or laws of physics and chemistry. Everything there exists, follows these fundamental rules of Thermodynamics, Electromagnetism, Quantum mechanics, Radiation etc fields like gravity etc.
 
-If the universe is governed by these "finite" laws, couldn't a powerful enough computer or machine simulate it exactly? Like, start everything from a scratch(like the bigbang) and <b>let it run on it's own</b>.
+If the universe is governed by these "finite" laws, couldn't a powerful enough computer or machine simulate it exactly? Like, start everything from a scratch(like the big bang) and <b>let it run on it's own</b>.
 
-Every particle will interact with each other, abiding those fundamental laws, and create something out of them. Like it created us.
-If we think, 13.6 billions years ago, Big Bang happened and at that time there was nothing but Hydrogen and Helium in the whole universe. Everything we see, including our body and mind, is created from those particles.
+Every particle will interact with each other, abiding by those fundamental laws, and create something out of them. Like it created us.
+If we think, 13.6 billion years ago, Big Bang happened and at that time there was nothing but Hydrogen and Helium in the whole universe. Everything we see, including our body and mind, is created from those particles.
 
-Those atoms interacted with other, of course abiding the fundamental laws, and elements like Oxygen and Carbon formed. 
-Which ultimately interacted with each other, again abiding the fundamental laws, and created all the living organisms we see today, including we humans.
+Those atoms interacted with each other, of course abiding by the fundamental laws, and elements like Oxygen and Carbon formed. 
+Which ultimately interacted with each other, again abiding by the fundamental laws, and created all the living organisms we see today, including we humans.
 
-So, from the time of there were only Hydrogen and Helium, to present time, at what time conscientiousness which is inside our brains formed <mark>which can think on it's own</mark>?
+So, from the time of there were only Hydrogen and Helium, to the present time, at what time conscientiousness which is inside our brains formed <mark>which can think on its own</mark>?
    
 Doesn't all these sound fascinating?
 
-So to conclude, it's possible i.e. probability is not zero to simulate the world by creating a finite set of fundamental laws, which every particle will abide while interacting with each other.
-Now, it's possible does not mean it actually is. It's all hypothesis.
+So to conclude, probability is not zero to simulate the universe by creating a finite set of fundamental laws, which every particle will abide while interacting with each other.
+Now, it's possible does not mean it actually is real. It's all hypothesis.
 
-An examples of this is technological advancements in our computer games.
+An example of this is technological advancements in our computer games.
 
 ### Avatars in the Computer Games.
 
-If we look at our scale of computing power today, we can program whole world(which almost look like real) inside of a computer. Which was not there 50 years ago, or even 10 years ago.
+If we look at our scale of computing power today, we can program whole world(which almost looks like real) inside of a computer. Which was not there 50 years ago, or even 10 years ago.
 
-Rate of progress in quality of the games in just 20 years is so fast, that if we multiply it a million time, or even a billion time, some time in the future, we will become so technologically advanced civilization that it will become so real that you literally can't distinguish it from reality.
+Rate of progress in quality of the games in just 20 years is so fast, that if we multiply it a million time, or even a billion time, sometime in the future, we will become so technologically advanced civilization that it will become so real that you literally can't distinguish it from reality.
 
-And let say, we develop characters/avatars that have free will and program some fundamental laws that govern that world. Now, your characters/avatars, which have free will, may invent a computer just like we did, and program a set of finite fundamental rules and creates a world in his/her computer.
+And let say, we develop characters/avatars that have free will and program some fundamental laws that govern that world. Now, your characters/avatars, which have free will, may invent something like computer just like we did, and program a set of finite fundamental rules and creates a world in his/her computer.
 
 So, it becomes an infinite loop from that point.
 
@@ -58,15 +58,15 @@ An interesting example of the simulation is [Conway's Game of Life](https://en.w
 
 ## Game of Life.
 
-Game of Life is played on an infinite grid of square cells. Each cell is either live or dead(or populated and unpopulated, respectively). Each cell interacts with its eight neighbours.
+Game of Life is played on an infinite grid of square cells. Each cell is either live or dead(or populated and unpopulated, respectively). Each cell interacts with its eight neighbors.
 
-Game of life have only 2 simple rules. These rules are inspired from life using underpopulation, overpopulation and reproduction.
+Game of life has only 2 simple rules. These rules are inspired by life using underpopulation, overpopulation, and reproduction.
 
 1. Any dead cell with exactly 3 neighbors comes to life(reproduction).
-2. Any living cell with less than 2(underpopulation) or more than 3(overpopulation) neighbours, dies. 
+2. Any living cell with less than 2(underpopulation) or more than 3(overpopulation) neighbors, dies. 
 
-Once we setup the initial arrangement of cells, two rules are applied to create the next state of cells on the grid. 
-And again the two rules are applied on the output of the previous state. And so on.
+Once we set up the initial arrangement of cells, two rules are applied to create the next state of cells on the grid. 
+And again the two rules are applied to the output of the previous state. And so on.
 
 Some patterns are stable, which once they arise, they will never change. Like this one..
 
@@ -100,14 +100,14 @@ Now, the most interesting part is, since the game of life is <a href="https://si
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/xP5-iIeKXE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> 
 <br/>
 
-All this is running on 2 plain and simple laws of the game of life. Our universe have far more fundamental laws than that.
+All this is running on 2 plain and simple laws of the game of life. Our universe has far more fundamental laws than that.
 
 This shows that theoretically we can simulate almost anything using plain and simple rules/laws.
-We just need to create an initial arrangement of state, and abiding the fundamental rules, particles will interact with each other and may create something marvelous.    
+We just need to create an initial arrangement of state, and abiding by the fundamental rules, particles will interact with each other and may create something marvelous.    
 
 After seeing all this, at least we can say that,
 
-> It's not impossible to simulate the whole universe by creating a set of fundamental laws, and then allowing the particles to interact with each other abiding the laws. 
+> It's not impossible to simulate the whole universe by creating a set of fundamental laws, and then allowing the particles to interact with each other abiding by the laws. 
 
 It may never be possible to prove conclusively that the universe either is, or is not a simulation. 
 
