@@ -31,9 +31,9 @@ If we think, 13.6 billion years ago, Big Bang happened and at that time there wa
 Those atoms interacted with each other, of course abiding by the fundamental laws, and elements like Oxygen and Carbon formed. 
 Which ultimately interacted with each other, again abiding by the fundamental laws, and created all the living organisms we see today, including we humans.
 
-So, from the time of there were only Hydrogen and Helium, to the present time, at what time conscientiousness which is inside our brains formed <b>which can think on its own</b>?
-   
-Doesn't all these sound fascinating?
+So, from the time when only Hydrogen and Helium existed, to the present day, at what time consciousness, that is inside our brain formed <b>which can think on its own</b>? 
+
+Doesn't all these sound fascinating? All the particles interacted with each other in one specific way which led to creation of intelligent human beings! 
 
 So to conclude, probability is not zero to simulate the universe by creating a finite set of fundamental laws, which every particle will abide while interacting with each other.
 Now, it's possible does not mean it actually is real. It's all hypothesis.
