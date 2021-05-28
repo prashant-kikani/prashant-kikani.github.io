@@ -31,7 +31,7 @@ If we think, 13.6 billion years ago, Big Bang happened and at that time there wa
 Those atoms interacted with each other, of course abiding by the fundamental laws, and elements like Oxygen and Carbon formed. 
 Which ultimately interacted with each other, again abiding by the fundamental laws, and created all the living organisms we see today, including we humans.
 
-So, from the time when only Hydrogen and Helium existed, to the present day, at what time consciousness, that is inside our brain formed <b>which can think on its own</b>? 
+So, from the time when only Hydrogen and Helium existed, to the present day, at what time the consciousness formed, that is residing in our brain, <b>which enabled us to think on our own</b>? 
 
 Doesn't all these sound fascinating? All the particles interacted with each other in one specific way which led to creation of intelligent human beings! 
 

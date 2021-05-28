@@ -5,7 +5,7 @@ var AIAction = function(pos) {
     this.movePosition = pos;
 
     //public : the minimax value of the state that the action leads to when applied
-    this.minimaxVal = 0;
+    this.minimaxVal=0;
 
     this.applyTo = function(state) {
         var next = new State(state);

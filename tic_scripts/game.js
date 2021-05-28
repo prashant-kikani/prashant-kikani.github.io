@@ -29,7 +29,7 @@ var State = function(old) {
 
     this.emptyCells = function() {
         var indxs = [];
-        for(var itr = 0; itr < 9 ; itr++) {
+        for(var itr=0; itr < 9 ; itr++) {
             if(this.board[itr] === "E") {
                 indxs.push(itr);
             }

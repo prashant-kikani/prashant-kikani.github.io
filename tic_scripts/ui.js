@@ -8,7 +8,7 @@ ui.intialControlsVisible = true;
 ui.robotFlickeringHandle = 0;
 
 //holds the current visible view
-ui.currentView = "";
+ui.currentView="";
 
 
 ui.startRobotFlickering = function() {
