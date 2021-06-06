@@ -116,7 +116,7 @@ And anyway, you get to learn a whole bunch of other things that are not related 
 And once you do all these tasks, you will realize things like, deploying and maintaining large deep learning models are comparatively harder than simple ML modles like logistic regression and decision tree.
 High-end compute is required to make these models work like GPU or TPU.
 
-You can buy a public URL & host all of your projects there. Using which anyone can access & see your work. There are tons of platforms like [python anywhere](https://www.pythonanywhere.com/) where you can host your code/project for free. Follow this blogs like [this](https://medium.com/analytics-vidhya/how-to-deploy-simple-machine-learning-models-for-free-56cdccc62b8d), to learn how you can do it.
+You can buy a public URL & host all of your projects there. Using which anyone can access & see your work. There are tons of platforms like [python anywhere](https://www.pythonanywhere.com/), [Heroku](https://www.heroku.com/) and [Netlify](https://www.netlify.com/) where you can host your code/project for free. Follow blogs like [this](https://medium.com/analytics-vidhya/how-to-deploy-simple-machine-learning-models-for-free-56cdccc62b8d), to learn how you can do it.
 
 <br/>
 
