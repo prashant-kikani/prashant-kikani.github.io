@@ -8,7 +8,7 @@ description: "Is our reality an artificial simulation created by some extraterre
 ---
 
 Are we living in a Simulation? Is there someone who has programmed rules which govern our universe?  
-Answers to these questions are most likely not possible to get in our very tiny lifetime on the cosmic scale of ~80-100 years.
+Answers to these questions are most likely not possible to get in our very tiny(relative to the cosmic scale) lifetime of ~80-100 years.
 At this point in time, it's all about the probabilities of something is true or not.
 
 The purpose of asking these questions is to expand the horizon of imagination and push forward the limits of our thinking.

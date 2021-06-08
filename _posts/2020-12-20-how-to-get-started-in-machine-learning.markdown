@@ -50,6 +50,7 @@ A typical ML project involves below steps.
 <br/>
 
 1. First, we decide the task/project we need to work on.
+    - This step seems naive but it's important. Not all problems are a good fit for machine learning.
 2. Then we start gathering publicly available training data for that task.
 3. Once we get the data, we pre-process that data & then do EDA(Exploratory Data Analysis) on it.
     - Cleaning: Remove extra data we don't want. Like outliers.

@@ -7,7 +7,7 @@ permalink: "/blog/freedom-vs-equality"
 description: "How Freedom and Equality are complementary to each other"
 ---
 
-Current society runs on Capitalism. Private or corporate ownerships strive for maximizing profits by serving customers better than their competitors.
+Our society runs on Capitalism. Private or corporate ownerships strive for maximizing profits by serving customers better than their competitors.
 They do this by constant innovation and competing against others to make their products/services better & better in a free and open market.
 
 Characteristics of capitalism includes capital accumulation, competitive markets, a price system.
