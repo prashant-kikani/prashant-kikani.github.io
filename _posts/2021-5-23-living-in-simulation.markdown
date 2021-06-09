@@ -21,24 +21,29 @@ I believe that, chances are very high of we are living in a simulation. Here are
 
 In laymen's terms, the answer of "what is simulation?" can be conveyed as, design some finite set of fundamental laws, and let it run on it's own. It will evolve on it's own.
 
-Our universe runs on some <b>finite</b> fundamental rules or laws of physics and chemistry. Everything there exists, follows these fundamental rules(like gravity and wave theory) of Thermodynamics, Electromagnetism, Quantum mechanics, Radiation etc. fields.
+Our universe runs on some <b>finite</b> fundamental rules or laws of physics and chemistry. Everything there exists, follows these fundamental rules(like Gravity, Electromagnetic force, nuclear force and wave theory) of Thermodynamics, Electromagnetism, Quantum mechanics, Radiation etc. fields.
 
-If the universe is governed by these "finite" laws, couldn't a powerful enough computer or machine simulate it exactly? Like, start everything from a scratch(like the big bang) and <b>let it run on it's own</b>.
+If the universe is governed by these "finite" laws, couldn't a powerful enough computer or machine simulate it exactly? Like, start everything from a scratch(like the Big bang) and <b>let it run on it's own</b>, meaning let them interact with each other, abiding by the fundamental rules.
 
-Every particle will interact with each other, abiding by those fundamental laws, and create something out of them. Like it created us.
-If we think, 13.6 billion years ago, Big Bang happened and at that time there was nothing but Hydrogen and Helium in the whole universe. Everything we see, including our body and mind, is created from those particles.
+Every particle will interact with each other, abiding by those fundamental laws, and create something out of them. Everything we see, is created from the interaction of those particles. Like it created us.
+If we think, 13.6 billion years ago, Big Bang happened and [at that time there was nothing but Hydrogen and Helium in the whole universe](https://home.cern/science/physics/early-universe). 
+
+Heavier atoms such as Carbon, Oxygen and Iron, have since been continuously produced in the hearts of stars and catapulted throughout the universe in spectacular stellar explosions called supernovae. Everything we see, including our body and mind, is created from those particles.
 
 Those atoms interacted with each other, of course abiding by the fundamental laws, and elements like Oxygen and Carbon formed. 
-Which ultimately interacted with each other, again abiding by the fundamental laws, and created all the living organisms we see today, including we humans.
+Which ultimately again interacted with each other, again abiding by the fundamental laws, and created all the living organisms we see today, including we humans.
+
+> So, particles of Iron and Gold flowing in our blood, were created in the core of stars under massive temperature and pressure.  
 
 So, from the time when only Hydrogen and Helium existed, to the present day, at what time the consciousness formed, that is residing in our brain, <b>which enabled us to think on our own</b>? 
+In other words, when there was nothing but some light weight gases(H and He), to this point when there are [living beings made up from Carbon, Oxygen and Hydrogen](https://www.newscientist.com/question/what-is-the-body-made-of/), who can think, make decisions and invent computers!!
 
-Doesn't all these sound fascinating? All the particles interacted with each other in one specific way which led to creation of intelligent human beings! 
+Doesn't all these sound fascinating? All the particles interacted with each other in "one specific way" which ultimately led to creation of intelligent human beings! 
 
 So to conclude, probability is not zero to simulate the universe by creating a finite set of fundamental laws, which every particle will abide while interacting with each other.
 Now, it's possible does not mean it actually is real. It's all hypothesis.
 
-An example of this is technological advancements in our computer games.
+A good example of this is technological advancements in our computer games.
 
 ### Avatars in the Computer Games.
 
