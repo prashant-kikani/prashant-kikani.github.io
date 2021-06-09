@@ -33,7 +33,7 @@ Heavier atoms such as Carbon, Oxygen and Iron, have since been continuously prod
 Those atoms interacted with each other, of course abiding by the fundamental laws, and elements like Oxygen and Carbon formed. 
 Which ultimately again interacted with each other, again abiding by the fundamental laws, and created all the living organisms we see today, including we humans.
 
-> So, particles of Iron and Gold flowing in our blood, were created in the core of stars under massive temperature and pressure.  
+> So, particles of Iron and Gold flowing in our blood right now, were created in the core of stars under massive temperature and pressure.  
 
 So, from the time when only Hydrogen and Helium existed, to the present day, at what time the consciousness formed, that is residing in our brain, <b>which enabled us to think on our own</b>? 
 In other words, when there was nothing but some light weight gases(H and He), to this point when there are [living beings made up from Carbon, Oxygen and Hydrogen](https://www.newscientist.com/question/what-is-the-body-made-of/), who can think, make decisions and invent computers!!
@@ -114,9 +114,15 @@ After seeing all this, at least we can say that,
 
 > It's not impossible to simulate the whole universe by creating a set of fundamental laws, and then allowing the particles to interact with each other abiding by the laws. 
 
-It may never be possible to prove conclusively that the universe either is, or is not a simulation. 
+It may never be possible to prove conclusively that the universe either is, or is not a simulation. But we will always push limits of science and technology forward in pursuit of the question.
 
-But we will always push science and technology forward in pursuit of the question. 
+Some researchers propose their theories about what they think is the truth, and some try to prove them wrong by counter arguments. Maybe that's how science grows. We may never find out what's the actual truth.   
+
+But in trying to find out, we can discover new things, things that change the world. Like, the invention of the device in which you're reading this. Computers.
+
+After the 2nd world war, Alan Turing and John von Neumann designed the first truly programmable electronic computer ENIAC based on his designs of breaking the cryptographic messages encoded using Enigma. And original idea from that came from Turing machines, which came from thinking about Hilbert's question "Is Math decidable?".
+
+So, Turing's encrypted code breaking machines and all the modern computers stem from the weird paradoxes that arise from self-reference!! See [this](https://youtu.be/HeQX2HjkcNo) video for more details. 
 
 Sources of this are some great YouTube videos like [this](https://youtu.be/tlTKTTt47WE), [this](https://youtu.be/3d9i_0Ty7Cg) and [this](https://youtu.be/HeQX2HjkcNo). Big thanks to [kurzgesagt](https://kurzgesagt.org/) [veritasium](https://www.veritasium.com/) for this.
 
