@@ -124,5 +124,5 @@ After the 2nd world war, Alan Turing and John von Neumann designed the first tru
 
 So, Turing's encrypted code breaking machines and all the modern computers stem from the weird paradoxes that arise from self-reference!! See [this](https://youtu.be/HeQX2HjkcNo) video for more details. 
 
-Sources of this are some great YouTube videos like [this](https://youtu.be/tlTKTTt47WE), [this](https://youtu.be/3d9i_0Ty7Cg) and [this](https://youtu.be/HeQX2HjkcNo). Big thanks to [kurzgesagt](https://kurzgesagt.org/) [veritasium](https://www.veritasium.com/) for this.
+Sources of this are some great YouTube videos like [this](https://youtu.be/tlTKTTt47WE), [this](https://youtu.be/3d9i_0Ty7Cg) and [this](https://youtu.be/HeQX2HjkcNo). Big thanks to [kurzgesagt](https://kurzgesagt.org/) and [veritasium](https://www.veritasium.com/) for this.
 
