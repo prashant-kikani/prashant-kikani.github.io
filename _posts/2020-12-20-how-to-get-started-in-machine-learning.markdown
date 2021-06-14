@@ -57,18 +57,22 @@ A typical ML project involves below steps.
     - Filling/removing null values.
     - EDA: Explore the data & try to find some insights. Like by plotting graphs.
     - Feature engineering: creating meaningful data out of data we already have.
-4. Train ML model(s).
+4. Choose ML model(s) & train them with the processed data.
 5. Check the performance on the validation(aka held-out) dataset.
     - For cross-validation, we can use methods like k-fold, stratified k-fold to see the model is robustly training.
     - Purpose of this step is to check if model is overfitting.
 6. As a last step, 
     - If performance is good enough, we can deploy that ML model on production on the future unseen data(i.e. test data).
     - If the performance is not good enough, we can go back to step #2 to collect some more data if can and continue the cycle.
-    
-This is the journey from start to end. We started with raw data and after following all the steps, we finally deployed that model on the server which will make predictions 24x7.
 
+So, above is the journey from start to end. We started with raw data and after following all the steps, we finally deployed that model on the server which will make predictions 24x7.
 <br/>
 
+Here are the types and sub-types of machine learning. Which may help you in choosing the models.
+
+<center><img src="../assets/ml_models.png"/></center>
+<br/>
+    
 ## Role of Kaggle competitions
 
 [Kaggle competitions](https://www.kaggle.com/competitions) is, according to me, the best way to learn ML or data science to keep ourselves updated with latest research.

@@ -9,7 +9,7 @@ description: "What's the meaning of life? What is/should be the ultimate goal?"
 ---
 
 Life is finite, as everyone knows.
-And in this finite amount of time we have got in this world, what should we work on? With whom we should spend our precious time with? Answer to these is mostly subjective, but let's try to think about it.
+And in this finite amount of time we have got in this world, what should we work on? With whom we should spend our precious time with? Answer to these is mostly subjective, there is no right or wrong answer, but let's try to think about it.
 
 Some of you may know about the belief of <a href="https://iep.utm.edu/nihilism/" target="_blank">Nihilism</a> which conveys that, almost everything in life is meaningless.
 There's no point of doing anything as eventually nothing matters. Basically, kind of a pessimistic view of life. Let's see if there's a better way to look at it.
@@ -60,11 +60,11 @@ And that again leads to be satisfied with what we have. As we know that, no matt
 
 And if being gratified and grateful is all that matters, then we can be gratified now itself, with whatever we have today.    
 
-Being satisfied does not mean we should stop the progress once we have enough food to eat and a shelter to live. Once we have the basic needs, goal of striving more and more should be to explore new things out of curiosity. Not that, we are dis-satisfied with what we have, but we have curiosity to explore more and more. That way, you're not <a href="https://prashantkikani.com/blog/happy-life" target="_blank">attaching yourself with the result</a>. 
+Being satisfied does not mean we should stop the progress once we have enough food to eat and a shelter to live. Once we have the basic needs, goal of striving more and more should be to explore new things out of curiosity. Not that, we are dissatisfied with what we have, but we have curiosity to explore more and more. That way, you're not <a href="https://prashantkikani.com/blog/happy-life" target="_blank">attaching yourself with the result</a>. 
 
 And if we don't achieve more, that's fine. Our sole aim was just to explore and try new things. We were not looking to achieve anything at the first place.
 
-## At the end..
+## At the end...
 
 Imagine yourself on the death bed. You're about to die, at that time, what matters to you? What's going on in your head? That's the meaning of life for you.
 For most people, it will be all the happy moments they have spent with people they admire. Happy moments and experiences with their children, partner, parents, and friends. People that they have helped with honest intentions.
