@@ -11,7 +11,7 @@ Are we living in a Simulation? Is there someone who has programmed rules which g
 Answers to these questions are most likely not possible to get in our very tiny(relative to the cosmic scale) lifetime of ~80-100 years.
 At this point in time, it's all about the probabilities of something is true or not.
 
-The purpose of asking these questions is to expand the horizon of imagination and push forward the limits of our thinking.
+The purpose of asking these questions is to expand the horizon of imagination and push forward the limits of our thinking. In other words, answers to these questions are may not possible to get, but along the way, we discover so many things, that it makes it worthwhile to pursue the journey of finding the answer.
 
 After all, that's how every innovation starts, from a noble pursuit of wonder.
 
