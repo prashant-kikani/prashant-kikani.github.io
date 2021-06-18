@@ -11,11 +11,11 @@ Are we living in a Simulation? Is there someone who has programmed rules which g
 Answers to these questions are most likely not possible to get in our very tiny(relative to the cosmic scale) lifetime of ~80-100 years.
 At this point in time, it's all about the probabilities of something is true or not.
 
-The purpose of asking these questions is to expand the horizon of imagination and push forward the limits of our thinking. In other words, answers to these questions are may not possible to get, but along the way, we discover so many things, that it makes it worthwhile to pursue the journey of finding the answer.
+The purpose of asking these questions is to expand the horizon of our imagination and push forward the limits of our thinking. In other words, answers to these questions are may not possible to get, but along the way, we discover so many things, that it makes it worthwhile to pursue the journey of finding the answer.
 
 After all, that's how every innovation starts, from a noble pursuit of wonder.
 
-I believe that, chances are very high of we are living in a simulation. Here are some hypothesis which supports that.
+Coming to this post, I believe that chances are high of we are living in a simulation. Here are some hypotheses which supports that.
 
 # Program the fundamental laws.
 
@@ -33,7 +33,7 @@ Heavier atoms such as Carbon, Oxygen and Iron, have since been continuously prod
 Those atoms interacted with each other, of course abiding by the fundamental laws, and elements like Oxygen and Carbon formed. 
 Which ultimately again interacted with each other, again abiding by the fundamental laws, and created all the living organisms we see today, including we humans.
 
-> So, particles of Iron and Gold flowing in our blood right now, were created in the core of stars under massive temperature and pressure.  
+> So, particles of Iron and Gold flowing in our blood right now, were created in the core of stars under massive temperature and pressure!  
 
 So, from the time when only Hydrogen and Helium existed, to the present day, at what time the consciousness formed, that is residing in our brain, <b>which enabled us to think on our own</b>? 
 In other words, when there was nothing but some light weight gases(H and He), to this point when there are [living beings made up from Carbon, Oxygen and Hydrogen](https://www.newscientist.com/question/what-is-the-body-made-of/), who can think, make decisions and invent computers!!

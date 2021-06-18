@@ -78,17 +78,17 @@ According to me, meaning of life is:
     - That does not mean we should not strive to expand the limits of science and humanity. 
 - And to selflessly help other people in any way possible.
 
-But, there's also a contradictory & interesting point of view which is, 
+But, there's also a kind of contradictory & interesting point of view which is, 
 
 > Life is actually meaningless. We bring the meaning to it. The meaning of life is whatever you ascribe it to be, or the meaning of life is whatever you make of it.
 
 Which totally makes sense. There's no meaning in life. But, we have freedom to choose our meaning.
 
-Going to the next level, finding the meaning of life itself can be the meaning of life. We discover many things while finding the meaning of life. So, the journey to find meaning of life, can be a meaning of life.
+Going to the next level, finding the meaning of life itself can be the meaning of life. We discover many things while trying to find the meaning of life. So, the journey to find meaning of life itself, can be a meaning of life.
 
-Questions, like "what's the meaning of life?" are not meant to be answered. We explore many different concepts, theories & views trying to find the answer. And no matter we find the meaning of life at the end, we learnt a lot along the way.
+And there's also another point of view which says, questions like "what's the meaning of life?" are not meant to be answered. We explore many different concepts, theories & views while trying to find the answer of such questions. And no matter we find the meaning of life at the end, we learned a lot along the way.
 
-Checkout this similar post, on [Are we living in a Simulation?](https://prashantkikani.com/blog/simulation). In which I basically try to convey the same point that, answers to these questions are may not possible to get, but along the way, we discover so many things, that it makes it worthwhile to pursue the journey of finding the answer.      
+Checkout this similar post, on [Are we living in a Simulation?](https://prashantkikani.com/blog/simulation), in which I basically try to convey the same point that, answers to these questions are may not possible to get, but along the way, we discover so many things, that it makes it worthwhile to pursue the journey of finding the answer.      
 
 <center><img src="../assets/lake_human.jpg"/>
 </center>  
