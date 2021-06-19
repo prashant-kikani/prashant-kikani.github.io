@@ -37,7 +37,7 @@ Moral of the story is, we can't judge someone is totally good/bad just because t
 
 <br/>
 
-# Psychological aspect 
+# Psychological aspects
 
 Sometimes, our brain kind of works in binary mode. It labels everything as either good or bad. Why brain does it? To avoid the complex thinking to decide whether something is truly good or not. It takes effort to see every possible point of view or aspect of the situation and thinking from other people's perspectives. Basically, it takes effort to see the full picture. So brain try to avoid all that effort.  
 It over simplifies things to label that thing to either black or white.

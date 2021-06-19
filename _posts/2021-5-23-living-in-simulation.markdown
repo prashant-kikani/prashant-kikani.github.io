@@ -2,7 +2,7 @@
 layout: post
 title:  "Are we living in a Simulation?"
 date:   2021-05-23 # yyyy-mm-dd
-keyword: simulation, sci-fi, living in simulation  
+keyword: simulation, sci-fi, living in simulation
 permalink: "/blog/simulation"
 description: "Is our reality an artificial simulation created by some extraterrestrial species or aliens?"
 ---
