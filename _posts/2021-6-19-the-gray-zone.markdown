@@ -27,20 +27,19 @@ One fact to realize is, every person you know in this world, have some type of r
 
 But that same person who is let say, father for you, will be someone else's son, someone's husband, someone's employer, someone's friend etc. Now, may be he's not a good father for you, that does not mean he's not a good son or not good husband or not a good boss or not a good co-worker.
 
-So, what all we see about the person from our point of view, is a small part of his/her whole life. So, just because the person is not good at the relationship type he/she has with you, does not mean, he suck at every other relationships he/she have with other people.  
+So, all we see about the person from our point of view, is a small part of his/her whole life. So, just because the person is not good at the relationship type he/she has with you, does not mean, he suck at every other relationships he/she have with other people.  
 
 In this world, we need to wear many hats. We need to be someone's son/daughter, someone's wife/husband, someone's co-worker, someone's manager/boss, someone's friend. Now, we might not be good at every relationship.
 
 For example, people you work with in the office, some of them may be bad as a co-worker, but they may be great at father or husband or as friend.  
 
-Moral of the story is, we can't judge someone is totally good/bad just because the person is not good at the relationship they he/she has with you. We don't the know the full picture. So, it's not black or white, it's in the middle, it's gray.
+Moral of the story is, we can't judge someone is totally good/bad just because the person is not good at the relationship they he/she has with you. We don't the know the full picture. So, it's not black or white i.e. not best or worst, it's in the middle, it's in the gray zone.
 
 <br/>
 
 # Psychological aspects
 
-Sometimes, our brain kind of works in binary mode. It labels everything as either good or bad. Why brain does it? To avoid the complex thinking to decide whether something is truly good or not. It takes effort to see every possible point of view or aspect of the situation and thinking from other people's perspectives. Basically, it takes effort to see the full picture. So brain try to avoid all that effort.  
-It over simplifies things to label that thing to either black or white.
+Sometimes, our brain kind of works in binary mode. It labels everything as either good or bad. Why brain does it? To avoid the complex thinking to decide whether something is truly good or not. It takes effort to see every possible point of view or aspect of the situation and thinking from other people's perspectives. Basically, it takes effort to see the full picture. So brain try to avoid all that effort. It over simplifies things to label that thing to either black or white.
 
 World which we live in is far more complex and nuanced than we realize and there are so many moving parts in the equation which are not in our control. So, instead of making some effort to think about something, our brain directly reaches to some conclusion by over simplifying it.
 

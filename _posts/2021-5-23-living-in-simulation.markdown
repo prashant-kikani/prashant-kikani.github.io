@@ -38,6 +38,8 @@ Which ultimately again interacted with each other, again abiding by the fundamen
 So, from the time when only Hydrogen and Helium existed, to the present day, at what time the consciousness formed, that is residing in our brain, <b>which enabled us to think on our own</b>? 
 In other words, when there was nothing but some light weight gases(H and He), to this point when there are [living beings made up from Carbon, Oxygen and Hydrogen](https://www.newscientist.com/question/what-is-the-body-made-of/), who can think, make decisions and invent computers!!
 
+> Think about this: You are the sum of total of a 14 billion year chain of unbroken cosmic evolution now thinking about itself.
+
 Doesn't all these sound fascinating? All the particles interacted with each other in "one specific way" which ultimately led to creation of intelligent human beings! 
 
 So to conclude, probability is not zero to simulate the universe by creating a finite set of fundamental laws, which every particle will abide while interacting with each other.
