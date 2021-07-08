@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reel Life"
-date:   2021-07-09 # yyyy-mm-dd
+date:   2021-07-08 # yyyy-mm-dd
 keyword: reel life, social media, social media vs. reality, reel life vs. real life
 permalink: "/blog/reel-life"
 description: "Social media profiles does not show the full picture. They only show the good/positive side of the coin. Exploring this fact in this post."
@@ -11,11 +11,16 @@ Most of the time, whatever we see on social media, is just one side of the coin.
 
 On social media like Instagram, Facebook and SnapChat, people look like they have a much better life than they really do.
 People are posting pictures of when they are really happy, they are modifying those pictures to be better looking, even if they are not modifying pictures, they are selecting the pictures for the best lighting & best angle.
+
 So, basically people seem way better looking than they really are, and they're way happier than they really are. And we might think, see all these happy beautiful people, and here I am, not that good looking and not that happy.
 
-Just to clarify, there's nothing wrong here with posting only happy moments with others. I am not conveying that, above things are bad or wrong to do. At some point, even I have done that. Our human brain is wired to show others how happy or beautiful we are. We like to share good sides of us. Because we know, some people will praise us, and we will instantly get a Dopamine hit. Sometimes, deep inside we need others' praise and validation to allow ourselves to be happy. In reality, we don't need anyone's praise or validation to be happy and joyful. 
+Just to clarify, there's nothing wrong here with posting only happy moments with others. I am not conveying that, above things are bad or wrong to do. At some point, even I have done that. Our human brain is wired to show others how happy or beautiful we are. We like to share good sides of us.
 
-Anyway, the point is, when we are scrolling through the feed, we should not compare ourselves with other people. We may not compare consciously, but unconsciously sometimes we end up comparing other's social media life with our miserable life. Now, it's not that only your life is miserable. Everyone has some kind of problem in their life. But only we know about our problems. So, we end up comparing our full and nuanced life with someone else's partial(i.e. happy) life, and feel sad about ourselves.
+Because we know, some people will praise us, and we will instantly get a Dopamine hit. Sometimes, deep inside we need others' praise and validation to allow ourselves to be happy. In reality, we don't need anyone's praise or validation to be happy and joyful. 
+
+Anyway, the point is, when we are scrolling through the feed, we should not compare ourselves with other people. We may not compare consciously, but unconsciously sometimes we end up comparing other's social media life with our miserable life.
+
+Now, it's not that only your life is miserable. Everyone has some kind of problem in their life. But only we know about our problems. So, we end up comparing our full and nuanced life with someone else's partial(i.e. happy) life, and feel sad about ourselves.
 
 <center><img src="../assets/what_you_see_vs_reality.png"/></center>
 <br/>
@@ -28,14 +33,14 @@ Point is, we should not consciously or unconsciously compare ourselves by just l
 
 Especially those social media influencers, and celebrities. We don't know what's going on in their life. Again, the point is not to say, they are always very sad or ugly looking. Point is to see the fact that, just like we have our set of problems in our life, they also have it. And just like we have some happy moments in our life, they also have it.
 
-One example is Sushant Singh Rajput. Who would have guessed that he is going through so much stress and problems by looking at his (social media profiles)[https://www.instagram.com/sushantsinghrajput/]? That was a bit extreme, but the goal was to convey that, we can't know the full picture of people's life by their social media profiles. We just don't know what's real.
+One example is Sushant Singh Rajput. Who would have guessed that he is going through so much stress and problems by looking at his <a href="https://www.instagram.com/sushantsinghrajput/" target="_blank">social media profiles</a>? That was a bit extreme example, but the goal was to convey that, we can't know the full picture of people's life by their social media profiles. We just don't know what's real.
 
 Watch this awesome and at the same time eye opening video of some daily life examples. Sometimes what people showcase their life on social media is far different than it actually is. And day by day, this gap is increasing.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/0EFHbruKEmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/>
 
-# Detaching from real life.
+# Detachment from real life.
 
 This urge of showing our bright and happy moments via social media sometimes doesn't allow us to enjoy and observe the richness and nuances of real life. Sometimes people are more interested in taking photos, to post them on social media, than just truly enjoying and feeling the moment.
 
@@ -52,6 +57,7 @@ So ultimately, it detaches us from the real world more and more. Slowly but stea
 # Addiction
 
 When we post our happy moments on social media, sometimes we unconsciously expect others to write good comments and praise us. And when they do praise us in the comment section, we get the Dopamine hit. This is that same Dopamine when we consume alcohol and nicotine.
+
 It gives us a sense of pleasure. We feel instantly good. But, at the same time, we are also getting addicted to getting that dopamine hit again. So, we keep posting at regular intervals.
 
 And sometimes, we're kind of "expected" to comment good things or praise our friend's posts. Otherwise, they will feel bad and our relationship may end. Why? because they also commented good things on your post previously. So, you're bound to repeat that in their posts. I'm not saying everyone does this or faces this. But some of us do.
