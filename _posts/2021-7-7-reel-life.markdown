@@ -44,6 +44,8 @@ One guy in the comment section of that video is saying..
 
 > We're a sad generation with happy pictures.
 
+And there's some truth to it.
+
 <br/>
 
 # Detachment from real life.
