@@ -40,6 +40,12 @@ Watch this awesome and at the same time eye opening video of some daily life exa
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/0EFHbruKEmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/>
 
+One guy in the comment section of that video is saying..
+
+> We're a sad generation with happy pictures.
+
+<br/>
+
 # Detachment from real life.
 
 This urge of showing our bright and happy moments via social media sometimes doesn't allow us to enjoy and observe the richness and nuances of real life. Sometimes people are more interested in taking photos, to post them on social media, than just truly enjoying and feeling the moment.
