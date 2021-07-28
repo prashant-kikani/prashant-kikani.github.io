@@ -37,6 +37,10 @@ Which ultimately again interacted with each other, again abiding by the fundamen
 
 > So, particles of Iron and Gold flowing in our blood right now, were created in the core of stars under massive temperature and pressure! 
 
+Carl Sagan says:
+
+> The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing starts. We are made of starstuff. -Carl Sagan
+
 So, from the time when only Hydrogen and Helium existed, to the present day, at what time the consciousness formed, that is residing in our brain, <b>which enabled us to think on our own</b>?
 In other words, when there was nothing but some light weight gases(H and He), to this point when there are [living beings made up from Carbon, Oxygen and Hydrogen](https://www.newscientist.com/question/what-is-the-body-made-of/), who can think, make decisions and invent computers!!
 
