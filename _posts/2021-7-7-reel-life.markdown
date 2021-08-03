@@ -25,7 +25,7 @@ Now, it's not that only your life is miserable. Everyone has some kind of proble
 <center><img src="../assets/what_you_see_vs_reality.png"/></center>
 <br/>
 
-Things like these can sometimes make people feel very sad. Because people generally think of themselves relative to others. We're constantly re-baselining our expectations based on what we see outside in the world.
+Things like these can sometimes make people feel very sad. Because people generally think of themselves relative to others. <mark>We're constantly re-baselining our expectations based on what we see outside in the world.</mark>
 
 Actually, everyone has their own set of problems, tensions, traumas in family, business or job. Someone may be fighting with their partner or having bad relationships with their children, or struggling to make money. But, almost no one will share these stories on social media. Or generally behaviour is, we are hesitant to share these stories with others because of embarrassment. 
 

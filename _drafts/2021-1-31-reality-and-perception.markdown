@@ -15,7 +15,7 @@ In some cases, it's super hard to know what's real in the first place. Each perc
 
 In simple terms, perception is biased towards individual's background and mindset.
 
- 
+
 
 
 
