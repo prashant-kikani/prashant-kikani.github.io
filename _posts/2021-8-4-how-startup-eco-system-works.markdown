@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "How Startup Ecosystem works?"
