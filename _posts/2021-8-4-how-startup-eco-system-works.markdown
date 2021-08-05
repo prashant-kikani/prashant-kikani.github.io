@@ -13,11 +13,11 @@ Center of the startup ecosystem is the entrepreneur or businessmen who started o
 
 Every startup serves some customers by solving their problems. What's a customer? Customer is the guy who gives money to a startup in return for their product or services.
 
-There's a difference between "user" and "customer". User is just the guy who uses the product, not necessarily pay for that. For e.g. in social media like Facebook, people using the app are not customers, they are users. They are actually products for Facebook, which they sell to advertisers. Advertisers are the real customer for Facebook, who gives Facebook money in order to get the attention of its users.
+There's a difference between "user" and "customer". User is just the guy who uses the product, not necessarily pay for that. For e.g. in social media platforms like Facebook, people using the app are not customers, they are users. They are actually products for Facebook, which they sell to advertisers. Advertisers are the real customer for Facebook, who gives Facebook money in order to get the attention of its users.
 
 There are employees, people who work at the startup. They are getting paid by monthly/weekly salary + sometimes some stocks(i.e. ESOPs) of the startup they are working on.
 
-Then there are also "investors". Who invests their/someone else's money in startups in return of some portion of the company(i.e. equity). Why do they invest money in startups? Because they think that this company will get more valuable in future and the money I am investing will give me 5x, 10x or sometimes 100x returns. We'll explore investors in detail after some time.
+Then there are "investors". Who invests their/someone else's money in startups in return of some portion of the company(i.e. equity). Why do they invest money in startups? Because they think that this company will get more valuable in future and the money they are investing will give them 5x, 10x or sometimes 100x returns. We'll explore investors in detail later in this post.
 
 So, these are the major stakeholders of a startup, or any business for that matter:
 1. Founders
@@ -34,7 +34,7 @@ It's not necessary that every business has all the stakeholders. All the busines
 
 Startups without any outside investors are called "bootstrap" startups. Founders invest their own money in the business, and as the company starts generating profits, they also invest that money into the company.
 
-So, when does a "startup" become a "company"? Generally, when the company does it's IPO(Initial Public Offering), or it's private valuation becomes >$1B(unicorn) or >$10B(decacorn) it's no more a startup. It's too big to be called a startup. By this time most likely, the company will have hundreds or sometimes thousands of employees. 
+So, when does a "startup" becomes a "company"? Generally, when the company does it's IPO(Initial Public Offering), or it's private valuation becomes >$1B(unicorn) or >$10B(decacorn) it's no more a startup. It's too big to be called a startup. By this time most likely, the company will have hundreds or sometimes thousands of employees. 
 
 Let's take an example of a hypothetical startup and try to explore all related stack-holders. This example is a somewhat simplified version of the actual process.
 
@@ -52,7 +52,9 @@ When the company is started by the founders, they have 100% ownership of the com
 
 When an investor invests some money in a startup, he gets some portion of the company in return. Startup allocates some number of shares to the investor. So, the investor now owns a certain percentage of the company. 
 
-Here comes the "<b>cap-table</b>". Cap-table is a table which shows the ownership of a company; who owns what percentage of the company. Like, when the company starts, let's say there are 2 founders. So, the cap-table will look like this.
+Here comes the "<b>cap table(capitalization table)</b>". Cap table is a table which shows the ownership of a company; who owns what percentage of the company. It also includes columns like common shares, preferred shares, etc. but let's not get into that to keep things simple.
+
+Like, when the company starts, let's say there are 2 founders. So, the cap table of the startup will look like this initially. 
 
 | Who?      | How much? | Number of shares |
 | ----------- | ----------- | ----------- |
@@ -60,7 +62,7 @@ Here comes the "<b>cap-table</b>". Cap-table is a table which shows the ownershi
 | Founder 2   | 50%        | 4M         |
 | <b>Total</b>   | <b>100%</b>        | <b>8M </b>        |
 
-Then, let's say the startup was able to build an MVP(Minimal Viable Product- A simplified product that barely works.) and gain some traction in the market. So, an angel-investor comes and gives $100k for 20% of the company. To accommodate this, the company will <b>create/issue new shares</b> to give to that new investor. So, the number of shares with each founder will remain the same, but the total issued shares are more. Here's how the cap-table will look like.
+Then, let's say the startup was able to build an MVP(Minimal Viable Product- A simplified product that barely works.) and gain some traction in the market. So, an angel-investor comes and gives $100k for 20% of the company. To accommodate this, the company will <b>create/issue new shares</b> to give to that new investor. So, the number of shares with each founder will remain the same, but the total issued shares are more. Here's how the cap table will look like.
 
 So, shares do not change hands. Nobody gave their shares to the investor. The company issues new shares.
  
@@ -96,7 +98,7 @@ So, now the cap table look like this:
 | Founder 1      | 38.1%       | 4M       |
 | Founder 2   | 38.1%        | 4M         |
 | Angel   | 19%        | 2M         |
-| Option pool   | 4.8%        | 500k         |
+| Option pool   | 4.8%        | 0.5M         |
 | <b>Total</b>   | <b>100%</b>        | <b>10.5M </b>        |
 
 
@@ -106,7 +108,7 @@ With help of these new employees, the startup continued its growth trajectory an
 
 <br/>
 
-# Venture Capital
+# Venture Capital (VC)
 
 Now let's say, a venture capital approached the founders of the company to let them invest in the startup.
 
@@ -114,7 +116,7 @@ In simple terms, a Venture Capital is a firm which invests "other" people's mone
 
 Okay, so let's say the venture capital agreed to invest $5M at a $25M valuation. So, the venture capital will own ~20% of the company. This will be called a series-A fund raise round. In other terms, the startup's first funding from the ventures.
 
-Here's how the cap-table looks like now (numbers are rounded).
+Here's how the cap table looks like now (numbers are rounded).
 
 | Who?      | How much? | Number of shares |
 | ----------- | ----------- | ----------- |
@@ -122,13 +124,13 @@ Here's how the cap-table looks like now (numbers are rounded).
 | Founder 2   | 30.48%        | 4M         |
 | Series-A   | 20%        | 2.62M         |
 | Angel   | 15.24%        | 2M         |
-| Option pool   | 3.81%        | 500k         |
+| Option pool   | 3.81%        | 0.5M         |
 | <b>Total</b>   | <b>100%</b>        | <b>13.12M </b>        |
 
 
 With this new $5M in the bank account, the startup will expand more and more by making the product better, and acquiring customers by different marketing campaigns. And alongside, revenues will also keep increasing.
 
-After the series-A, all the funding rounds will be named series-B, series-C, series-D, ..., etc. And the respective investors will keep getting added to the cap-table of the company.
+After the series-A, all the funding rounds will be named series-B, series-C, series-D, ..., etc. And the respective investors will keep getting added to the cap table of the company.
 
 <br/>
 
