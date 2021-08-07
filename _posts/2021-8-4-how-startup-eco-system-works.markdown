@@ -58,10 +58,10 @@ Here comes the "<b>cap table(capitalization table)</b>". Cap table is a table wh
 
 Like, when the company starts, let's say there are 2 founders. So, the cap table of the startup will look like this initially. 
 
-| Who?      | How much? | Number of shares |
-| :-----------: | :-----------: | :-----------: |
-| Founder 1      | 50%       | 4M       |
-| Founder 2   | 50%        | 4M         |
+    | Who?      | How much? | Number of shares |
+    | :-----------: | :-----------: | :-----------: |
+    | Founder 1      | 50%       | 4M       |
+    | Founder 2   | 50%        | 4M         |
 | <b>Total</b>   | <b>100%</b>        | <b>8M </b>        |
 
 Then, let's say the startup was able to build an MVP(Minimal Viable Product- A simplified product that barely works.) and gain some traction in the market. So, an angel-investor comes and gives $100k for 20% of the company. To accommodate this, the company will <b>create/issue new shares</b> to give to that new investor. So, the number of shares with each founder will remain the same, but the total issued shares are more. Here's how the cap table will look like.
