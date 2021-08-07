@@ -75,9 +75,11 @@ So, there's still a “you” who saw the coin as a tail but that is in a differ
 
 For our convenience of understanding, we can imagine it as "our reality got split into two branches of reality, one in which coin was head and one in which coin was tail". Ultimately it's just a single wave function outcome of the entanglement of two quantum systems.
 
-Here in this example, there were only two possibilities i.e. head or tail. So, only two "branches" happened. But real world events are far more complex that a simple coin-flip. There are uncountable possibilities in the real world. These "branches" are occurring every moment as every moment multiple quantum systems are interacting or entangling with each other. Imagine how many "branches" are happening at every moment!  
+Here in this example, there were only two possibilities i.e. head or tail. So, only two "branches" happened. But real world events are far more complex than a simple coin-flip. There are uncountable possibilities in the real world. These "branches" are occurring every moment as every moment multiple quantum systems are interacting or entangling with each other. 
 
-Now, we can imagine the concept of multiverse more easily. There are multiple realities. We happen to be just one part of all the possibilities, but other possibilities are still out there which we are not part of. In this example, the "you" which saw the coin as a tail, is not you anymore, he's a different version of you now.
+And this "branching" of reality is happening with everyone and everything at everytime, not just with you at this moment. Imagine how many "branches" are happening at every moment!  
+
+Now, we can imagine the concept of multiverse more easily. There are multiple realities. We happen to be just one part of all the possibilities, but other possibilities are still out there which we are not part of. In this example, the you who saw the coin as a tail, is not you anymore, that guy is a different version of you now.
 
 So now the question comes, if there are multiverses, then where are they? Why can't we see them? One possible answer to that can be, we are not seeing the whole universe. We can only see a part of the whole universe called the "observable universe".
 
