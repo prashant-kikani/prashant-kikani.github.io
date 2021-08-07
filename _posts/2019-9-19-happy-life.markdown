@@ -10,8 +10,6 @@ description: "How to live a happy life by following some simple, realistic & sta
 
 In this post, I share my ideas to live a happy life by following some simple, realistic & statistically valid ways.
 
-<center><img src="../assets/happy-life.jpg"/></center>
-
 <br/>
 
 # The Uncomfortable Truth
@@ -125,3 +123,6 @@ FYI, If you have food, clothes & a home to live in, you are already far happier 
 Since the evolution of mankind, 100 billion human beings have walked the Earth. If you are reading this, you are likely in the top 1% by any measure: opportunity, security, happiness. In fact, you might be in the top 0.1% or even 0.01%. What an amazing opportunity. You’re truly among the blessed.
 
 Happiness is all that matters at the end of the day.
+
+<center><img src="../assets/happy-life.jpg"/></center>
+

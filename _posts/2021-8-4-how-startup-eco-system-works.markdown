@@ -7,9 +7,11 @@ permalink: "/blog/startup-ecosystem"
 description: "Exploring the Startup ecosystem and every stakeholder connected to it."
 ---
 
-Let's explore the startup world, and every stakeholder connected to it. Here startup does not only include relatively big venture funded companies but also, small and medium size businesses.
+Let's explore the startup world, and every stakeholder connected to it. 
 
-Center of the startup ecosystem is the entrepreneur or businessmen who started or inherited the business. We also call them “founders”, who founded the business.
+Here startup does not only include relatively big venture funded companies but also, small and medium size businesses. 
+
+Center of the startup ecosystem is the entrepreneur or businessmen who started or inherited the business. We also call them “founders”, people who founded the business.
 
 Every startup serves some customers by solving their problems. What's a customer? Customer is the guy who gives money to a startup in return for their product or services.
 
@@ -57,7 +59,7 @@ Here comes the "<b>cap table(capitalization table)</b>". Cap table is a table wh
 Like, when the company starts, let's say there are 2 founders. So, the cap table of the startup will look like this initially. 
 
 | Who?      | How much? | Number of shares |
-| ----------- | ----------- | ----------- |
+| :-----------: | :-----------: | :-----------: |
 | Founder 1      | 50%       | 4M       |
 | Founder 2   | 50%        | 4M         |
 | <b>Total</b>   | <b>100%</b>        | <b>8M </b>        |
@@ -67,7 +69,7 @@ Then, let's say the startup was able to build an MVP(Minimal Viable Product- A s
 So, shares do not change hands. Nobody gave their shares to the investor. The company issues new shares.
  
 | Who?      | How much? | Number of shares |
-| ----------- | ----------- | ----------- |
+| :-----------: | :-----------: | :-----------: |
 | Founder 1      | 40%       | 4M       |
 | Founder 2   | 40%        | 4M         |
 | Angel   | 20%        | 2M         |
@@ -94,7 +96,7 @@ Employees will happily accept these shares as part of their compensation salary 
 So, now the cap table look like this:
 
 | Who?      | How much? | Number of shares |
-| ----------- | ----------- | ----------- |
+| :-----------: | :-----------: | :-----------: |
 | Founder 1      | 38.1%       | 4M       |
 | Founder 2   | 38.1%        | 4M         |
 | Angel   | 19%        | 2M         |
@@ -119,7 +121,7 @@ Okay, so let's say the venture capital agreed to invest $5M at a $25M valuation.
 Here's how the cap table looks like now (numbers are rounded).
 
 | Who?      | How much? | Number of shares |
-| ----------- | ----------- | ----------- |
+| :-----------: | :-----------: | :-----------: |
 | Founder 1      | 30.48%       | 4M       |
 | Founder 2   | 30.48%        | 4M         |
 | Series-A   | 20%        | 2.62M         |
@@ -147,7 +149,7 @@ What can happen when a company is big enough? There are mainly 2 things.
 In M&A, the startup will be legally under the acquirer company. And the initial stack-holders like Angel investors or the founders or early employees will sell their shares and in return they will get equivalent money and they can exit.
 
 Some famous examples of acquisition are:
-- Facebook acquiring WhatsApp for ~$16B and Instagram ~$1B
+- Facebook acquiring WhatsApp for ~$16B and Instagram for ~$1B
 - Microsoft acquiring LinkedIn for ~$26B
 - Amazon acquiring WholeFoods for ~$13.7B
 - Salesforce acquiring Slack for ~$27.7B

@@ -11,11 +11,9 @@ description: "A collection of some of the best deep-meaningful quotes from some 
 Deep meaningful quotes can show us new ways & perspectives to see this world. Here is a collection of some of the best quotes & thoughts from some of the great minds of human history.<br/>
 If you are a true lover of deep meaningful quotes like me, you will find this post interesting & knowledgeable.
 
-<center><img src="../assets/thoughts-nature.jpg"/></center>
+Enjoy!
 
 <br/>
-
-Enjoy!
 
 1.
 
@@ -191,6 +189,11 @@ Manners & disciplines don't always come as age grows. Growing up is more importa
 
 <br/>
 
+
 Reading alone is not enough, we should take inspiration from above quotes & apply them in our life too.
 
 If you have enjoyed this part, you can <a target="_blank" href="https://prashantkikani.com/blog/best-quotes-2">read the 2nd part of this here</a>.
+
+<br/>
+
+<center><img src="../assets/thoughts-nature.jpg"/></center>

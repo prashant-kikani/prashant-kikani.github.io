@@ -21,3 +21,5 @@ In simple terms, perception is biased towards individual's background and mindse
 
 
 
+
+

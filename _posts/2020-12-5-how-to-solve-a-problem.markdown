@@ -106,4 +106,3 @@ Society will reward you with money and respect if you have solved big problems o
 
 Every rich person in this world has solved some big problems and society has rewarded them with billions of dollars. That is not to say, we should solve problems to make money.
 
-Hope you have learned something from this post.
