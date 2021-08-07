@@ -130,15 +130,7 @@ It seems a little far-fetched & counter intuitive. But, this is also a possibili
 
 <br/>
 
-If you are interested in this topic more, I highly recommend to read <a href="https://www.nbcnews.com/mach/science/weirdest-idea-quantum-physics-catching-there-may-be-endless-worlds-ncna1068706" target="_blank">this</a> and <a href="https://www.nature.com/articles/d41586-019-02602-8" target="_blank">this</a>posts and watch below YouTube videos.
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/kxvQ3Wyw2M4?start=38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-<br/>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/vIJTwYOZrGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-
+If you are interested in this topic more, I highly recommend to read <a href="https://www.nbcnews.com/mach/science/weirdest-idea-quantum-physics-catching-there-may-be-endless-worlds-ncna1068706" target="_blank">this</a> and <a href="https://www.nature.com/articles/d41586-019-02602-8" target="_blank">this</a> posts and watch <a href="https://www.youtube.com/watch?v=kxvQ3Wyw2M4&t=38s" target="_blank">this</a> and <a href="https://www.youtube.com/watch?v=vIJTwYOZrGU" target="_blank">this</a> YouTube videos.
 
 
 
