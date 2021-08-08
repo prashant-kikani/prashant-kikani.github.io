@@ -11,7 +11,7 @@ There are high chances that multiple realities do exist according to the theorie
 
 This concept and the content of this post can be harder to grasp at first as it seems very counterintuitive to what we know about reality. But believe me, after a few attempts you will get it. Let me know at <a href="mailto:prashant@kikani.in">prashant@kikani.in</a> in case you have any questions/doubts.
 
-And also it's worth mentioning that, the purpose of exploring all these multiverse-like concepts is to expand the horizon of our imagination and push forward the limits of our thinking. No one has experienced or seen the multiverse in real life, obviously. It's all just one of the possibilities at the end of the day. But, they are backed by the theory, it's not just bluffing. So, chances are not zero that the multiverse does exist.
+And also it's worth mentioning that, my purpose of exploring all these multiverse-like concepts is to expand the horizon of our imagination and push forward the limits of our thinking. No one has experienced or seen the multiverse in real life, obviously. It's all just one of the possibilities at the end of the day. But, they are backed by some solid theories, it's not just bluffing. So, chances are not zero that the multiverse does exist.
 
 Okay, let's start.
 
@@ -73,7 +73,7 @@ In more general terms, <b>when two quantum systems get entangled with each other
 
 Now, the concept/analogy of this "branching" above is just for our convenience of understanding. It is very convenient for us human beings to think like that.
 
-Actually it's just a single wave function as an outcome. You are just a single instance of the whole outcome wave function(i.e. the distribution) now.     
+Actually it's just a single wave function as an outcome. You are just a single instance of the whole outcome wave function(i.e. the distribution) now.    
 
 So, there's still a “you” who saw the coin as a tail but that is in a different reality which is not yours anymore. In other words, there is a reality in which you see a coin as a tail. But that reality is not yours anymore. It was yours before you turned on the light and saw the coin, but it's no more now, after turning on the light and seeing the coin.
 
@@ -81,7 +81,7 @@ For our convenience of understanding, we can imagine it as "our reality got spli
 
 Here in this example, there were only two possibilities i.e. head or tail. So, only two "branches" happened. But real world events are far more complex than a simple coin-flip. There are uncountable possibilities in the real world. These "branches" are occurring every moment as every moment multiple quantum systems are interacting or entangling with each other.
 
-And this "branching" of reality is happening with everyone and everything at everytime, not just with you at this moment. Imagine how many "branches" are happening at every moment! 
+And this "branching" of reality is happening with everyone and everything at everytime, not just with you at this moment. Imagine how many "branches" are happening at every moment!
 
 Now, we can imagine the concept of multiverse more easily. There are multiple realities. We happen to be just one part of all the possibilities, but other possibilities are still out there which we are not part of. In this example, the you who saw the coin as a tail, is not you anymore, that guy is a different version of you now.
 
@@ -103,9 +103,11 @@ In short, <b>what we are seeing or can see isn't the whole universe</b>. We can 
 
 So, all these other multiverses may exist outside of the observable universe..? Possible. But we don't know yet.
 
-<br/>
+By the way, there's also a question about the "<b>law of energy conservation</b>". If the world is splitting, where is the new energy coming from?(Meaning, your branch has almost the same energy as before the branching happened, and the other branch also has the almost same energy. So, where does this new energy come from?). 
 
-#
+According to the scientist who have contributed to this multiverse theory <a href="https://youtu.be/kTXTPe3wahc?t=782" target="_blank">says</a>, "according to math behind this idea, the energy of the whole wave function is 100% conserved. But, there's a difference between energy of the whole wave function and energy that people in each branch perceive. So, we should not think of it as duplicating the whole universe, but taking a certain part of the universe and subdividing/slicing it.”
+
+<br/>
 
 # Schrödinger's cat
 
@@ -140,6 +142,8 @@ It seems a little far-fetched & counter intuitive. But, this is also a possibili
 <br/>
 
 If you are interested in this topic more, I highly recommend to read <a href="https://www.nbcnews.com/mach/science/weirdest-idea-quantum-physics-catching-there-may-be-endless-worlds-ncna1068706" target="_blank">this</a> and <a href="https://www.nature.com/articles/d41586-019-02602-8" target="_blank">this</a> posts and watch <a href="https://www.youtube.com/watch?v=kxvQ3Wyw2M4&t=38s" target="_blank">this</a> and <a href="https://www.youtube.com/watch?v=vIJTwYOZrGU" target="_blank">this</a> YouTube videos.
+
+
 
 
 
