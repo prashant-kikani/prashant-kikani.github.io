@@ -9,7 +9,11 @@ description: "The Multiverse concept can be real. According to Quantum Mechanics
 
 There are high chances that multiple realities do exist according to the theories of Quantum Mechanics. Let's explore the Multiverse concept in this post.
 
-This concept and the content of this post can be harder to grasp at first as it seems very counterintuitive to what we know about reality. But believe me, after a few attempts you will get it. Let me know at <a href="mailto:prashant@kikani.in">prashant@kikani.in</a> in case you have any questions/doubts. Let's start!
+This concept and the content of this post can be harder to grasp at first as it seems very counterintuitive to what we know about reality. But believe me, after a few attempts you will get it. Let me know at <a href="mailto:prashant@kikani.in">prashant@kikani.in</a> in case you have any questions/doubts.
+
+And also it's worth mentioning that, the purpose of exploring all these multiverse-like concepts is to expand the horizon of our imagination and push forward the limits of our thinking. No one has experienced or seen the multiverse in real life, obviously. It's all just one of the possibilities at the end of the day. But, they are backed by the theory, it's not just bluffing. So, chances are not zero that the multiverse does exist.
+
+Okay, let's start.
 
 In classical mechanics, we can predict the future state of the object, if we know it's current state. For example, when we throw a ball at a certain angle, we can predict where it will land given the velocity of the ball, angle at which it was thrown and constants like gravity force of Earth i.e. 9.8 m/s<sup>2</sup> etc.
 
@@ -69,15 +73,15 @@ In more general terms, <b>when two quantum systems get entangled with each other
 
 Now, the concept/analogy of this "branching" above is just for our convenience of understanding. It is very convenient for us human beings to think like that.
 
-Actually it's just a single wave function as an outcome. You are just a single instance of the whole outcome wave function(i.e. the distribution) now.      
+Actually it's just a single wave function as an outcome. You are just a single instance of the whole outcome wave function(i.e. the distribution) now.     
 
 So, there's still a “you” who saw the coin as a tail but that is in a different reality which is not yours anymore. In other words, there is a reality in which you see a coin as a tail. But that reality is not yours anymore. It was yours before you turned on the light and saw the coin, but it's no more now, after turning on the light and seeing the coin.
 
 For our convenience of understanding, we can imagine it as "our reality got split into two branches of reality, one in which coin was head and one in which coin was tail". Ultimately it's just a single wave function outcome of the entanglement of two quantum systems.
 
-Here in this example, there were only two possibilities i.e. head or tail. So, only two "branches" happened. But real world events are far more complex than a simple coin-flip. There are uncountable possibilities in the real world. These "branches" are occurring every moment as every moment multiple quantum systems are interacting or entangling with each other. 
+Here in this example, there were only two possibilities i.e. head or tail. So, only two "branches" happened. But real world events are far more complex than a simple coin-flip. There are uncountable possibilities in the real world. These "branches" are occurring every moment as every moment multiple quantum systems are interacting or entangling with each other.
 
-And this "branching" of reality is happening with everyone and everything at everytime, not just with you at this moment. Imagine how many "branches" are happening at every moment!  
+And this "branching" of reality is happening with everyone and everything at everytime, not just with you at this moment. Imagine how many "branches" are happening at every moment! 
 
 Now, we can imagine the concept of multiverse more easily. There are multiple realities. We happen to be just one part of all the possibilities, but other possibilities are still out there which we are not part of. In this example, the you who saw the coin as a tail, is not you anymore, that guy is a different version of you now.
 
@@ -93,13 +97,15 @@ The universe is expanding faster than the speed of light, so light emitting from
 
 By the way, the restriction that "nothing can move faster than light" <a href="https://www.forbes.com/sites/startswithabang/2020/06/12/ask-ethan-how-does-the-fabric-of-spacetime-expand-faster-than-the-speed-of-light/?sh=4cdb1dd93b5f" target="_blank">only applies to the motion of objects through space</a>. The rate at which space itself expands — this speed-per-unit-distance — has no physical bounds on its upper limit.
 
-Answer of why that is the case is a bit complex and scientific. Read <a href="https://www.forbes.com/sites/startswithabang/2020/06/12/ask-ethan-how-does-the-fabric-of-spacetime-expand-faster-than-the-speed-of-light/?sh=4878eae23b5f" target="_blank">this</a> and <a href="https://www.space.com/33306-how-does-the-universe-expand-faster-than-light.html" target="_blank">this</a> posts to find the answer. (BTW, did you know that light from our Sun takes ~8 minutes to reach the Earth? So, the sun we are seeing in the daytime is not the sun at this moment, that sun was 8 minutes ago. Because light takes ~8 minutes to reach from Sun to  Earth.)
+Answer to the question why the universe is expanding faster than the speed of light, is a bit complex and scientific. Read <a href="https://www.forbes.com/sites/startswithabang/2020/06/12/ask-ethan-how-does-the-fabric-of-spacetime-expand-faster-than-the-speed-of-light/?sh=4878eae23b5f" target="_blank">this</a> and <a href="https://www.space.com/33306-how-does-the-universe-expand-faster-than-light.html" target="_blank">this</a> posts to find the answer. (BTW, did you know that light from our Sun takes ~8 minutes to reach the Earth? So, the sun we are seeing in the daytime is not the sun at this moment, that sun was 8 minutes ago. Because light took ~8 minutes to reach from Sun to Earth.)
 
 In short, <b>what we are seeing or can see isn't the whole universe</b>. We can only see a partial amount of the whole actual universe. So, <b>we will never know what is happening outside of the observable universe.</b>
 
 So, all these other multiverses may exist outside of the observable universe..? Possible. But we don't know yet.
 
 <br/>
+
+#
 
 # Schrödinger's cat
 
@@ -121,11 +127,11 @@ Let's say, we saw the cat as alive in this example.
 
 Again as the coin-flip experiment we saw before, for our reality cat was alive, but when two quantum systems entangled with each other, in outcome wave function(i.e. the distribution), still have both the possibilities.
 
-We are just part of one of the outcome rows of the table. Which is row number 1.
+We are just part of one of the outcome rows of the table. Which is row number 1 in this example.
 
 <br/>
 
-One interesting thought experiment about quantum mechanics is, it is rendering the reality when we see it. Before we were seeing it, it was something else, or was not there at all.
+One interesting thought experiment about quantum mechanics is, it is rendering the reality when we see it. Before we were seeing it, it was something else, or was not there at all!
 
 > Quantum mechanics is a "lazy evaluation" physics engine that renders reality only when observed. The engineering question for the simulation is: How hard is it to efficiently render reality that fools humans by still appearing to be globally consistent with the laws of physics. -Lex Fridman
 
@@ -134,6 +140,8 @@ It seems a little far-fetched & counter intuitive. But, this is also a possibili
 <br/>
 
 If you are interested in this topic more, I highly recommend to read <a href="https://www.nbcnews.com/mach/science/weirdest-idea-quantum-physics-catching-there-may-be-endless-worlds-ncna1068706" target="_blank">this</a> and <a href="https://www.nature.com/articles/d41586-019-02602-8" target="_blank">this</a> posts and watch <a href="https://www.youtube.com/watch?v=kxvQ3Wyw2M4&t=38s" target="_blank">this</a> and <a href="https://www.youtube.com/watch?v=vIJTwYOZrGU" target="_blank">this</a> YouTube videos.
+
+
 
 
 
