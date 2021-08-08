@@ -103,7 +103,7 @@ In short, <b>what we are seeing or can see isn't the whole universe</b>. We can 
 
 So, all these other multiverses may exist outside of the observable universe..? Possible. But we don't know yet.
 
-By the way, there's also a question about the "<b>law of energy conservation</b>". If the world is splitting, where is the new energy coming from?(Meaning, your branch has almost the same energy as before the branching happened, and the other branch also has the almost same energy. So, where does this new energy come from?). 
+There's also a question about the "<b>law of energy conservation</b>". If the world is splitting, where is the new energy coming from?(Meaning, your branch has almost the same energy as before the branching happened, and the other branch also has the almost same energy. So, where does this new energy come from?). 
 
 According to the scientist who have contributed to this multiverse theory <a href="https://youtu.be/kTXTPe3wahc?t=782" target="_blank">says</a>, "according to math behind this idea, the energy of the whole wave function is 100% conserved. But, there's a difference between energy of the whole wave function and energy that people in each branch perceive. So, we should not think of it as duplicating the whole universe, but taking a certain part of the universe and subdividing/slicing it.”
 
