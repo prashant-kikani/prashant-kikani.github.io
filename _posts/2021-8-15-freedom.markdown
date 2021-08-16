@@ -4,10 +4,10 @@ title:  "Freedom"
 date:   2021-08-15 # yyyy-mm-dd
 keyword: freedom, independence
 permalink: "/blog/freedom"
-description: "Freedom is perhaps the most important thing in the world. World in which you are not free to live your life on your terms, is like a prison."
+description: "Freedom is perhaps one of the most important yet underrated things in the world. World in which you are not free to live your life on your terms, is like a prison."
 ---
 
-Freedom is perhaps the most important underrated thing in the world. On this day of independence, let's explore freedom. 
+Freedom is perhaps one of the most important yet underrated things in the world. On this day of independence, let's explore freedom in this post. 
 
 In today's world, we are free to pursue almost anything. We can pursue our dream of becoming astronauts, building large businesses, working at cool companies, learning anything from the internet, saying our opinions on social media. No one is stopping us from pursuing our dreams.                   
 
@@ -54,20 +54,5 @@ But capitalism provided high economic incentives for businessmen and entrepreneu
 Jio is a great example for this. Mukesh Ambani made his fortune from oil and gas industries and invested that money to create Jio. Which lowered the internet data prices so low that almost everyone can afford to use the internet. Because of Jio, the internet became a commodity.
 
 Millions of people came online because of very low prices of internet plans. And because of that, startups like Paytm, Ola, Swiggy, Zomato, OYO, BigBasket got access to a customer base of millions.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
