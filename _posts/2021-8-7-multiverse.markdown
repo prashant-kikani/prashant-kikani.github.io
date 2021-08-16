@@ -71,7 +71,7 @@ So, what can be really happening here is, there are still other possibilities of
 
 In more general terms, <b>when two quantum systems get entangled with each other, the universe gets split into multiple branches</b>.
 
-Now, the concept/analogy of this "branching" above is just for our convenience of understanding. It is very convenient for us human beings to think like that.
+Now, the concept/analogy of this "branching" or "splitting" above is just for our convenience of understanding. It is very convenient for us human beings to think like that.
 
 Actually it's just a single wave function as an outcome. You are just a single instance of the whole outcome wave function(i.e. the distribution) now.    
 

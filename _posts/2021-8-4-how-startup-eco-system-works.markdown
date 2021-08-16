@@ -56,7 +56,7 @@ When an investor invests some money in a startup, he gets some portion of the co
 
 Here comes the "<b>cap table(capitalization table)</b>". Cap table is a table which shows the ownership of a company; who owns what percentage of the company. It also includes columns like common shares, preferred shares, etc. but let's not get into that to keep things simple.
 
-Like, when the company starts, let's say there are 2 founders. So, the cap table of the startup will look like this initially. 
+Like, when the company starts, let's say there are 2 founders and they take equal chunks of the company. So, the cap table of the startup will look like this initially. 
 
 | Who?      | How much? | Number of shares |
 | :-----------: | :-----------: | :-----------: |

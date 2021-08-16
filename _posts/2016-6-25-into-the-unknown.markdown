@@ -101,7 +101,7 @@ After reaching Earth, Hikon saw that it was a completely different Earth than he
 
 He tried to find that rabbit but he failed every time. He saw Humans crying on the road. Now Hikon decided to bring Earth the view which he saw 4 yores. So, by his tools, and with the very much help of his Quona friend Somin he lowered the percentage of Carbon Dioxide. Because he found this named gas causes these major problems.
 
-In a few days Earth became as clean as he saw before. He and Somin were very happy after viewing a completely new picture of Earth. Scientists of Earth are very surprised about this happening. He fools normal people or normal Humans that a Comet came & brings CO2 with it. Humans also believed them too!!
+In a few days Earth became as clean as he saw before. He and Somin were very happy after viewing a completely new picture of Earth. Scientists of Earth are very surprised about this happening. He fools normal people or normal Humans that a Comet came & brings CO<sub>2</sub> with it. Humans also believed them too!!
 
 Now Hikon and Somin started their journey. They start from Afghanistan. And travel towards the east. After visiting Arab countries and Pakistan they came to India.
 
