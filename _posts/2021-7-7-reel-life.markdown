@@ -27,7 +27,7 @@ Now, it's not that only your life is miserable. Everyone has some kind of proble
 
 Things like these can sometimes make people feel very sad. Because people generally think of themselves relative to others. <mark>We're constantly re-baselining our expectations based on what we see outside in the world.</mark>
 
-Actually, everyone has their own set of problems, tensions, traumas in family, business or job. Someone may be fighting with their partner or having bad relationships with their children, or struggling to make money. But, almost no one will share these stories on social media. Or generally behaviour is, we are hesitant to share these stories with others because of embarrassment. 
+Actually, everyone has their own set of problems, tensions, traumas in family, business or job. Someone may be fighting with their partner or having bad relationships with their children, or struggling to make money. But, almost no one will share these stories on social media. Or general behaviour is, we are hesitant to share these stories with others because of embarrassment. 
 
 Point is, we should not consciously or unconsciously compare ourselves by just looking at people's social media profiles. Profiles do not show the full picture.
 
