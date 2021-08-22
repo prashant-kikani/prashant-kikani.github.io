@@ -192,3 +192,5 @@ Bigger the impact, bigger the reward.
 I used to explore the basics of economy and finance in my free time. So, all the things we discussed above are from various sources like YouTube and Wikipedia. 
 
 Hope now you have got at least some idea of how the economy works and how its reward system works!
+
+Here's the another similar post on "[https://prashantkikani.com/blog/startup-ecosystem](https://prashantkikani.com/blog/startup-ecosystem)" in which we explore the startup ecosystem and every stakeholder interact with each other.

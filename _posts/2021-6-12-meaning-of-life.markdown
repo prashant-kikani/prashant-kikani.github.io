@@ -95,3 +95,6 @@ Checkout this similar post, on [Are we living in a Simulation?](https://prashant
 <br/>
 
 This post is inspired from blogs like [this](http://www.paulgraham.com/vb.html) and videos like [this](https://youtu.be/JXeJANDKwDc), [this](https://youtu.be/WPPPFqsECz0) and [this](https://youtu.be/MBRqu0YOH14). Thanks to them for sharing their thoughts and thanks to you for reading this.
+
+Here's another similar post on the topic of "[The Gray Zone](https://prashantkikani.com/blog/gray-zone)" in which explore the fact that, almost everything in life is not either good or bad, life much more complex and nuanced that, we can't attach a label of good/bad or black/white to anything.
+ 

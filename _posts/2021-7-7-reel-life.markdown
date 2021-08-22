@@ -77,15 +77,5 @@ And this whole cycle keeps us scrolling and posting again and again, just to get
 
 Social media usage is increasing day by day. There's nothing wrong with using social media. But, the moment we end in the addiction of social media, problems start. Major psychological problems occur when we post photos and videos just to show others how happy our life is.
 
-  
-
-
-
-
-
-
-
-
-
-
+Here's another similar post on "[A realistic way to live a happy life](https://prashantkikani.com/blog/happy-life)" in which we explore a straight forward and relatively simple way to live a genuine happy life.
   

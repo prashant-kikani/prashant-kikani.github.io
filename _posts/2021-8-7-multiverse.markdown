@@ -143,7 +143,7 @@ It seems a little far-fetched & counter intuitive. But, this is also a possibili
 
 If you are interested in this topic more, I highly recommend to read <a href="https://www.nbcnews.com/mach/science/weirdest-idea-quantum-physics-catching-there-may-be-endless-worlds-ncna1068706" target="_blank">this</a> and <a href="https://www.nature.com/articles/d41586-019-02602-8" target="_blank">this</a> posts and watch <a href="https://www.youtube.com/watch?v=kxvQ3Wyw2M4&t=38s" target="_blank">this</a> and <a href="https://www.youtube.com/watch?v=vIJTwYOZrGU" target="_blank">this</a> YouTube videos.
 
-
+Here's another similar post about "[Are we living in a simulation?](https://prashantkikani.com/blog/simulation)" which explores the idea of simulation, and why it's not impossible that, we actually are living in a simulation.
 
 
 

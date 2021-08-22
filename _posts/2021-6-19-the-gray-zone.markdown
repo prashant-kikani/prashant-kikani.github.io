@@ -57,3 +57,5 @@ Researchers think that when we experience trauma, we may develop dichotomous thi
 I think we should not directly jump to conclusions and think something/someone is good or bad. Most things fall into the gray zone.
 
 Idea of this post came from E36 of the All-In podcast you can watch it [here](https://youtu.be/6uUkIUgX1NY?t=4047). Thanks to [David Friedberg](https://twitter.com/friedberg) for sharing his thoughts.
+
+Here's another similar post on the topic of "[Meaning of Life](https://prashantkikani.com/blog/meaning-of-life)" in which we try to explore the concept of "meaning of life" and all the factors connected to it.

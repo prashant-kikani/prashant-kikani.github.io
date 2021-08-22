@@ -171,3 +171,4 @@ So, in our startup story, 2 founders started with their own money and after a co
 
 This is a simple explanation of how a startup goes from the origin to exit. This post will keep getting updated as the time goes.
 
+Here's another similar post on the topic of "[How the economy and financial system works?](https://prashantkikani.com/blog/economy-and-finance)" which explains how our economy works and how each stakeholder interact with each other.
