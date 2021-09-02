@@ -2,7 +2,7 @@
 layout: post
 title:  "How Startup Ecosystem works?"
 date:   2021-08-04 # yyyy-mm-dd
-keyword: how startup works?, startup funding, investors, venture capital, angel investors, seed funding
+keyword: how startup works?, startup funding, investors, venture capital, angel investors, seed funding, startup ecosystem
 permalink: "/blog/startup-ecosystem"
 description: "Exploring the Startup ecosystem and every stakeholder connected to it."
 ---

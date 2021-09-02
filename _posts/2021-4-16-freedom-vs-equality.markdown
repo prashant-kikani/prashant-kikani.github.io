@@ -4,7 +4,7 @@ title:  "Freedom vs. Equality"
 date:   2021-04-16 # yyyy-mm-dd
 keyword: Freedom vs. Equality, Freedom, Equality, Capitalism
 permalink: "/blog/freedom-vs-equality"
-description: "How Freedom and Equality are complementary to each other"
+description: "How Freedom and Equality are complementary to each other & why both of them can never be achieved together?"
 ---
 
 Our society runs on Capitalism. Private or corporate ownerships strive for maximizing profits by serving customers better than their competitors.
@@ -15,7 +15,7 @@ It allows people to become owners of massive trillion dollar juggernaut business
 
 In this short blog post, let's notice a trade-off between freedom and equality, how freedom to do anything increases inequality between rich and poor or top 1% and bottom 99%.
 
-> Freedom and equality are sworn and everlasting enemies, and when one prevails the other dies. -Will and Ariel Durant in "The Lessons of History"
+> [Freedom](https://prashantkikani.com/blog/freedom) and equality are sworn and everlasting enemies, and when one prevails the other dies. -Will and Ariel Durant in "The Lessons of History"
 
 In a free and open market where you can build anything they want, serve billions of customers, make a massive positive impact on the world and in return, society will reward you with hundreds of billions of dollars.
 

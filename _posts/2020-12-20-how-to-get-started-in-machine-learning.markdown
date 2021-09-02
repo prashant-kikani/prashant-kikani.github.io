@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to get started in Machine Learning and Data Science from scratch"
+title:  "How to get started in Machine Learning and Data Science from scratch?"
 date:   2020-12-20 # yyyy-mm-dd
 keyword: get started in machine learning, get started in data science, learn machine learning, Machine Learning, Artificial Intelligence, Data Science, Experience, Beginner 
 permalink: "/blog/get-started-in-ml"

@@ -134,3 +134,5 @@ So, Turing's encrypted code breaking machines and all the modern computers stem 
 
 Sources of this are some great YouTube videos like [this](https://youtu.be/tlTKTTt47WE), [this](https://youtu.be/3d9i_0Ty7Cg) and [this](https://youtu.be/HeQX2HjkcNo). Big thanks to [kurzgesagt](https://kurzgesagt.org/) and [veritasium](https://www.veritasium.com/) for this.
 
+Here is a similar post on the topic of "[Schrödinger's cat, Quantum Mechanics & Multiverse](https://prashantkikani.com/blog/multiverse)" which explores why multiverse(more than one world) theory can be true. We also explore the superposition one of the fundamental concept of quantum mechanics and how it supports the multiverse theory. 
+

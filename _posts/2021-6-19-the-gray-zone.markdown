@@ -43,9 +43,9 @@ Sometimes, our brain kind of works in binary mode. It labels everything as eithe
 
 World which we live in is far more complex and nuanced than we realize and there are so many moving parts in the equation which are not in our control. So, instead of making some effort to think about something, our brain directly reaches to some conclusion by oversimplifying it.
 
-And to challenge this, we can think of all the possibilities before making any assumptions or taking decisions. For example, if your friend doesn't come to your birthday party, your narrative can instantly shift to extremes and you may think "my friend does not want to spend time with me". Instead, we can give [benefit of doubt](https://prashantkikani.com/blog/benefit-of-doubt) and say maybe she is busy with something more important to her or she might have some emergency.
+And to challenge this, we can think of all the possibilities before making any assumptions or taking decisions. For example, if your friend doesn't come to your birthday party, your narrative can instantly shift to extremes and you may think "my friend does not want to spend time with me". Instead, we can give benefit of doubt and say maybe she is busy with something more important to her or she might have some emergency.
 
-You might have heard about, [obsessive compulsive disorder (OCD)](https://www.healthline.com/health/ocd/social-signs#symptoms). People who have OCD usually think in all-or-nothing(or black and white) patterns because the ability to put something into a firm category may give them a sense of control over their circumstances.
+You might have heard about, [obsessive compulsive disorder (OCD)](https://www.healthline.com/health/ocd/social-signs#symptoms). People who have OCD usually think in all-or-nothing(or black and white) patterns because the ability to put something into a firm category may give them a sense of control over their circumstances. The rise of social media & [reel life](https://prashantkikani.com/blog/reel-life) also have contributed to it.
 
 Researchers think that when we experience trauma, we may develop dichotomous thinking patterns as a coping strategy or to try to protect ourselves from future harm.
 

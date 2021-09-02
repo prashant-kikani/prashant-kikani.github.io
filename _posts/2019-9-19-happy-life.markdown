@@ -14,7 +14,7 @@ In this post, I share my ideas to live a happy life by following some simple, re
 
 # The Uncomfortable Truth
 
-A thought from Mark Manson's famous book,
+A thought from Mark Manson's famous book:
 
 > One day, you and everyone you love will die. And beyond a small group of people for an extremely brief period of time,
 little of what you say or do will ever matter. This is the Uncomfortable Truth of life.

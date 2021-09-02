@@ -2,7 +2,7 @@
 layout: post
 title:  "Schrödinger's cat, Quantum Mechanics & Multiverse"
 date:   2021-08-07 # yyyy-mm-dd
-keyword: schrodinger's cat, multiverse, quantum mechanics, parallel worlds, many worlds, quantum superposition
+keyword: schrodinger's cat, multiverse, quantum mechanics, parallel worlds, many worlds, quantum superposition, superposition
 permalink: "/blog/multiverse"
 description: "The Multiverse concept can be real. According to Quantum Mechanics, our reality is constantly splitting into multiple possibilities. Let's explore the multiverse concept by quantum mechanics."
 ---

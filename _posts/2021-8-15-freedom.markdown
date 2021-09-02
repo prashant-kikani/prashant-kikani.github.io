@@ -2,7 +2,7 @@
 layout: post
 title:  "Freedom"
 date:   2021-08-15 # yyyy-mm-dd
-keyword: freedom, independence
+keyword: freedom, independence, capitalism, equality
 permalink: "/blog/freedom"
 description: "Freedom is perhaps one of the most important yet underrated things in the world. World in which you are not free to live your life on your terms, is like a prison."
 ---
@@ -57,4 +57,13 @@ Millions of people came online because of very low prices of internet plans. And
 
 <br/>
 
+# Equality
+
+Freedom and equality are like two side of a coin, can't be in existence at the same time. When we give freedom to people, some of them(i.e. businessmen and entrepreneurs) will grow so much that their net worth will become larger than GDP of entire countries. 
+
+If we give more importance to quality, then we have to restrict people's freedom to pursue some things & grow much larger. Check out this post on the topic of "[Freedom vs. Equality](https://prashantkikani.com/blog/freedom-vs-equality)" which explore this exact same topic in detail.
+
+Our society has chosen to give more people more freedom than worrying about the quality of all people. That's why we see the growth of capitalism & because of that, some people are getting richer faster than other people do.
+
 Here's another similar post of the topic of "[challenging assumptions](https://prashantkikani.com/blog/challenge-assumptions)" which explores the idea of questioning existing beliefs is good for the progress of humanity.   
+

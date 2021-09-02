@@ -70,3 +70,5 @@ And yes, you will need support when things are not going well. So, make a few be
 # <center>In short, If you don't give up, ML is your cup of tea!!</center>
 
 <br/>
+
+Here's a similar post on topic of "[How to get started in Machine Learning and Data Science from scratch?](https://prashantkikani.com/blog/get-started-in-ml)" in which we explore a step-by-step guide on how one can get stared in machine learning and data science. Give it a read if interested.  
