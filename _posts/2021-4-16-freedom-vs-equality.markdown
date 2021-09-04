@@ -7,11 +7,9 @@ permalink: "/blog/freedom-vs-equality"
 description: "How Freedom and Equality are complementary to each other & why both of them can never be achieved together?"
 ---
 
-Our society runs on Capitalism. Private or corporate ownerships strive for maximizing profits by serving customers better than their competitors.
-They do this by constant innovation and competing against others to make their products/services better & better in a free and open market.
+Freedom and Equality are like two side of a coin, both of them can't be together. If we try to increase freedom of people in a society, equality will suffer, and if we support equality of all the people in a society, freedom will suffer.  
 
-Characteristics of capitalism include capital accumulation, competitive markets, a price system.
-It allows people to become owners of massive trillion dollar juggernaut businesses and having net worth of hundreds of billions of dollars.   
+[Capitalism](https://prashantkikani.com/blog/capitalism) plays big role in freedom of today's world. People are free to pursue their capitalistic dreams and earn in billions.
 
 In this short blog post, let's notice a trade-off between freedom and equality, how freedom to do anything increases inequality between rich and poor or top 1% and bottom 99%.
 
