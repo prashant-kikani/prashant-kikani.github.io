@@ -51,7 +51,7 @@ Let's take the example of Amazon. If Jeff Bezos - founder and CEO of Amazon, is 
 
 If we take an example from India, Jio is a great example. Mukesh Ambani made his fortune from oil and gas industries and invested that money to create Jio. Which lowered the internet data prices so low that almost everyone can afford to use the internet. Because of Jio, the internet became a commodity.
 
-Millions of people came online because of very low prices of internet plans of Jio. And because of that, other telecom operators like Airtel and Vodaphone have to lower their internet data prices and because of that, startups like Paytm, Ola, Swiggy, Byjus, Zomato, OYO, BigBasket got access to a customer base of millions.
+Millions of people came online because of very low prices of internet plans of Jio. And because of that, other telecom operators like Airtel and Vodafone have to lower their internet data prices and because of that, startups like Paytm, Ola, Swiggy, Byjus, Zomato, OYO, BigBasket got access to a customer base of millions.
 
 If we see great innovation in the last couple of decades, most of them came because of capitalism & free markets. Entrepreneurs like Gordon Moore and Robert Noyce of Intel were incentivized to make semiconductors in the 1960s, which led the personal computer(PC) revolution and which led to internet revolution and which eventually led to mobiles and smartphones revolution and on these massive platforms, companies like Facebook, Google, Amazon and Microsoft thrived to reach public valuation of trillions of dollars. 
 
