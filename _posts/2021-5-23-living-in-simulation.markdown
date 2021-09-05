@@ -7,8 +7,9 @@ permalink: "/blog/simulation"
 description: "Is our reality an artificial simulation created by some extraterrestrial species or aliens?"
 ---
 
-Are we living in a Simulation? Is there someone who has programmed rules which govern our universe? 
-Answers to these questions are most likely not possible to get in our very tiny(relative to the cosmic scale) lifetime of ~80-100 years.
+Are we living in a Simulation? Is there someone who has programmed the rules which govern our universe? What is we are not creators but creations? Let's explore idea of "living in a simulation" in this post.  
+
+Answers to above questions are most likely not possible to get in our very tiny(relative to the cosmic scale) lifetime of ~80-100 years.
 At this point in time, it's all about the probabilities that something is true or not.
 
 The purpose of asking these questions is to expand the horizon of our imagination and push forward the limits of our thinking. In other words, answers to these questions may not be possible to get, but along the way, we discover so many things that it makes it worthwhile to pursue the journey of finding the answer.
