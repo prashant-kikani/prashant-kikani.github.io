@@ -7,9 +7,9 @@ permalink: "/blog/reel-life"
 description: "Social media profiles does not show the full picture. They only show the good/positive side of the coin. Exploring this fact in this post."
 ---
 
-Most of the time, whatever we see on social media, is just one side of the coin. Almost everyone will only share their positive or joyful moments of life. No one is going to share their ongoing family troubles or relationship tensions to others. Let's explore this "reel life" in this post. 
+Most of the time, whatever we see on social media, is just one side of the coin. Almost everyone will only share their positive or joyful moments of life. It seems that's how our brains are wired. Almost no one is going to share their ongoing family troubles or relationship tensions and dramas to others. Let's explore this "reel life" in this post. 
 
-On social media like Instagram, Facebook and SnapChat, people look like they have a much better life than they really do.
+On social media platforms like Instagram, Facebook and SnapChat, people look like they have a much better life than they really do.
 People are posting pictures of when they are really happy, they are modifying those pictures to be better looking, even if they are not modifying pictures, they are selecting the pictures for the best lighting & best angle.
 
 So, basically people seem way better looking than they really are, and they're way happier than they really are. And we might think, see all these happy beautiful people, and here I am, not that good looking and not that happy.
