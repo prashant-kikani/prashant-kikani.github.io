@@ -25,7 +25,7 @@ Learning to learn or meta learning, is the skill that helps us in learning almos
 
 > Once we learn how to learn anything quickly, no matter if we know a skill or not, we will be able to quickly learn it when the time comes.
 
-So this "learning to learn" skill also gives us this sense of confidence in ourselves, that while starting a new venture, even if I do not know certain skills, I will be able to learn those skills when the time comes.
+So this "learning to learn" skill also gives us this sense of confidence in ourselves, that while starting a new venture, even if I do not know certain skills, I will be able to learn those skills when the time comes. Ultimately, this'll also help us in [solving the problems](https://prashantkikani.com/blog/solve-problems) we have never faced before.
 
 Now, the question comes, how to learn that skill of "learning to learn"? Answer depends on person to person, but ultimately I think, we can learn to break down things into fundamental principles, we can learn almost any new skill. I know these statements are very abstract, but they hold true in almost all the cases.
 
@@ -60,9 +60,11 @@ And I believe, once we have seen what results genuine curiosity and an aspiratio
 
 This "genuine curiosity" also acts as a catalyst in learning new things. So, <b>having genuine curiosity and aspiration to explore new things is part of our "learning to learn" skill</b>.
 
-In the previous point I mentioned that, I watch multiple videos and read multiple posts/papers to figure out a common pattern among them and eventually learn that thing, "aspiration and genuine curiosity" acts as fuel while watching those multiple videos and reading multiple papers/posts.
+In the previous point I mentioned that, I watch multiple videos and read multiple posts/papers to figure out a common pattern among them and eventually learn that thing, "aspiration and genuine curiosity" acts as fuel while watching those multiple videos and reading multiple papers/posts. 
 
-So, curiosity and aspiration are catalysts for learning and exploring new things.
+While learning new things, sometimes we need to [challenge assumptions](https://prashantkikani.com/blog/challenge-assumptions) and unlearn old things. Aspiration to stay relevant is important for that.  
+
+So to summarize, curiosity and aspiration are catalysts for learning and exploring new things.
 
 
 
