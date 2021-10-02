@@ -72,6 +72,8 @@ Now, if this is an option, how can we know that it's not already happened?
 
 An interesting example of the simulation is [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
+<br/>
+
 ## Game of Life.
 
 Game of Life is played on an infinite grid of square cells. Each cell is either live or dead(or populated and unpopulated, respectively). Each cell interacts with its eight neighbors.
