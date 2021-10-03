@@ -11,7 +11,9 @@ Giving benefit of doubt has almost always helped me throughout my life. Sometime
 
 "Benefit of doubt" here means, also thinking about other possibilities of the situation instead of just believing whatever seems obvious. For example, let's say you are calling your friend and she is not picking up your call. Now, instead of thinking you are no more a priority for her, that's why she's picking up the phone, we can also think that she might be busy with something important like meeting etc. or not in a situation to pick up the call like driving etc.   
 
-We all have our own biases in the way we look at any situation. Sometimes we see a situation in a particular way, becoming blind to all other possibilities and end up tackling the situation the way we may regret later. Benefit of doubt helps here.
+We all have our own biases in the way we look at any situation. Sometimes we see a situation in a particular way, becoming blind to all other possibilities and end up tackling the situation the way we may regret later. Benefit of doubt helps here. 
+
+I am not conveying that reality will always be different than what seems obvious, but at least it's worth thinking about all the possibilities before taking a step.
 
 We can also somewhat compare "benefit of doubt" and "positive thinking". Though one difference between them is, "benefit of doubt" simply tells us to look at all other possibilities and "positive thinking" tells us to only look at the positive side of things.    
 
@@ -35,11 +37,7 @@ It's also kind to see other possibilities, when something seems obvious. We all 
 
 And also, when it'll turn out that reality was far different than what we were thinking, we will thank ourselves for thinking about all the possibilities and not taking the seemingly obvious action.
 
-I am not conveying that reality will always be different than what seems obvious, but at least it's worth thinking about all the possibilities before taking a step.  
-
-
-
-
+Again it's worth repeating that, it's not like reality will always be different than what seems obvious, but there's no harm in thinking about all the possibilities before taking a step.  
 
 
 
