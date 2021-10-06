@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Luck"
+date:   2021-12-31 # yyyy-mm-dd
+keyword: luck
+permalink: "/blog/luck"
+description: "Luck plays a significant role in our life. Random events can totally make or break our careers."
+---
+
+
+
+
+
+
+
+
+
+
