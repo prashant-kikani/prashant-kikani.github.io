@@ -69,7 +69,7 @@ Only 1 out of 4 people think they can trust their government to do the right thi
 
 <br/>
 
-I think all of these factors collectively will ensure a significant market share of crypto in tomorrow's economy. And again, it's worth saying that crypto may not be the biggest financial market of tomorrow's economy but for sure it'll be a major one.
+I think all of these factors collectively will ensure a significant market share of crypto in tomorrow's economy. And again, it's worth saying that crypto may not be the biggest financial market of tomorrow's economy but for sure it'll be a major one. Crypto can very well be [the next big technological wave](https://prashantkikani.com/blog/next-wave).  
 
 
 
