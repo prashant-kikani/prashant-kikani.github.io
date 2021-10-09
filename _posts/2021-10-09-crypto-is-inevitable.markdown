@@ -7,7 +7,7 @@ permalink: "/blog/crypto-is-inevitable"
 description: "Crypto is Inevitable. Future in which cryptocurrencies and blockchain plays a major role is most likely."
 ---
 
-Cryptocurrency is a new medium of financial exchange backed by technologies like decentralized blockchain ledger, cryptography and hashing. Some people think crypto is temporary and will vanish in future as it does not have any intrinsic value and some people(like me) believe crypto is inevitable. Let's discuss crypto in this post.   
+Cryptocurrency is a new medium of financial exchange backed by technologies like decentralized blockchain ledger, cryptography and hashing. Some people think crypto is temporary and will vanish in future as it does not have any intrinsic value and some people(like me) believe crypto is inevitable. Let's discuss crypto's future in this post.   
 
 I personally think that crypto will exist in the future in a significantly bigger shape or form. And the future in which crypto vanishes is highly unlikely. I am not conveying, crypto will be the biggest financial market like the stock and bond market is today, though it can very well happen. But what I am conveying is, crypto will exist in some shape or form i.e. crypto is inevitable.
 
@@ -65,7 +65,7 @@ Also, trust of people in centralized governments and banks <a href="https://www.
 <center><img src="../assets/trust-in-government-at-all-time-low.png" height="600"/></center>
 <br/>
 
-Only 1 out of 4 people think they can trust their government to do the right thing most of the time. In other words, 75% of people don't trust their government to do the right thing. That's huge. And crypto is set to provide them a decentralized platform which can not be controlled by anyone.
+Only 1 out of 4 people think they can trust their government to do the right thing most of the time. In other words, 75% of people don't trust their centralized government to do the right thing. That's huge. And crypto is set to provide them a decentralized platform which can not be controlled by anyone, including the government.
 
 <br/>
 
