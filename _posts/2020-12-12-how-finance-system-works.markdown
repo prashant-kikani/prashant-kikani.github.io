@@ -14,7 +14,7 @@ I am using the Dollar as a currency for example in this blog, but it can be any 
 
 To understand the economy, let's first understand "transactions".
 
-## Transactions
+# Transactions
 
 Transactions are the root or the building block of the economy.
 
@@ -23,27 +23,21 @@ Transactions are the root or the building block of the economy.
 Each transaction consists of a buyer, who is giving money/credit, and a seller who is giving value/goods/services/financial assets. Spending drives the economy.
 Every dollar we spend, someone else earns; every dollar we earn, someone spends; easy-peasy. 
 
-<br/>
-
 <center><img src="../assets/buyer-seller.jpg"/></center>
-
 <br/>
 
 It's not that hard to understand that almost everything in the economy is driven by transactions. Transaction to the economy is like biological cells to the human body.
 
 Now, this buyer and seller chain can continue hundreds or thousands of times. Means a buyer can be a seller for someone else and a seller can be a buyer for someone else. Just like a businessman sells his/her products to others and buys other products from other businessmen.
 
-<br/>
-
 <center><img src="../assets/buyer-seller-chain.jpg"/></center>
-
 <br/>
 
 "Price" comes into play here in every transaction. Now let's see what's the "price" and how it's decided?
 
 <br/>
 
-## Price
+# Price
 
 Price is what we pay in the form of money/credit to get value/goods/services/financial assets. Now, the question comes, who decides the price?
 
@@ -62,10 +56,7 @@ The price of a product/service is a subjective thing. According to sellers, it c
 
 Price is decided by how much something is wanted(i.e. demand) by the public vs. the supply of that thing.
 
-<br/>
-
 <center><img src="../assets/supply-demand.jpg"/></center>
-
 <br/>
 
 High supply, low demand -> lower the price.<br/>
@@ -94,9 +85,9 @@ Now, let's understand "markets".
 
 <br/>
 
-## Markets
+# Markets
 
-A market consists of all the buyers and all the sellers making transactions for the same thing. For example, the car market, oil market, gold market, stock market, etc.
+A market consists of all the buyers and all the sellers making transactions for the same thing. For example, the car market, oil market, gold market, stock market, <a href="https://prashantkikani.com/blog/crypto-is-inevitable" target="_blank">crypto</a> market etc.
 
 > Economy consists of all of these markets and all of its transactions. All the markets collectively make the economy.
 
@@ -119,7 +110,7 @@ Now, let's understand loan/debt which bank issues and how interest rates & print
 
 <br/>
 
-## Loan/debt
+# Loan/debt
 
 We take loans/debts from lenders(like banks) by giving collateral and a promise to pay this money with interest in the future.
 
@@ -131,18 +122,14 @@ So, increased income allows increased borrowing, which allows increased spending
 
 <br/>
 
-## Role of the central bank in an economy
+# Role of the central bank in an economy
 
 So, if you can see this, the central bank kind of controls the economy!
 When the central bank increases interest rates, borrowing decreases, so the in-flow of money stops, spending decreases, and since one person’s spending is another person’s earning, earning decreases.
 
 And as you might have guessed, when the central bank decreases interest rates, borrowing increases, so the in-flow of money starts, spending increases and so does the income of another person.
 
-
-<br/>
-
 <center><img src="../assets/interest-rate-effect.jpg"/></center>
-
 <br/>
 
 Banks can print money by giving some amount of gold. Here comes the "<b>inflation</b>" part. Inflation is nothing but a decrease in “value” or the “buying power” of money over time. Why does the value of money decrease?
@@ -154,13 +141,13 @@ Money/cash itself doesn’t contain any value. It’s just a piece of paper. We 
 Think of the above fact this way, if someone gives $1 million to every person on this earth, it loses its value. Because the amount of value/goods/services in the market is the same.
 So, the amount of bread which we used to buy for $1, now has a price of $5 or $20. Because the obsolete value of a dollar has decreased.
 
-<br/>
-
 ## What’s the difference between money and credit?
 
 We can see credit as a promise to give money in the future. Like we do in loan/debt.
 
 Credit is good when it’s issued for efficiently allocating resources that produce income and it’s bad when it’s issued for things that don't produce income. Let's take an example of a businessman or an entrepreneur who manages a company.
+
+<br/>
 
 # Economy rewards people who solve big problems
 
@@ -171,10 +158,7 @@ And after several years, with that money from profit, they repay that money with
 So they started with nothing but a loan from the lenders and using their skills to build products/services, now they are earning more and more!
 This skill of attracting great people to work for them and building great products which solve people’s problems is making them more and more money!
 
-<br/>
-
 <center><img src="../assets/spend-earn.jpg"/></center>
-
 <br/>
 
 Are you getting it? After several years, that skill is now <mark>translated</mark> into a good amount of money. At first, they had nothing but that skill and now they have lots of money too!
@@ -183,7 +167,7 @@ They took a risk to take big loans and to hire people to build a product in whic
 
 So, the economy rewards these kinds of people with a lot of money. Who can take big risks and solve big problems.
 
-Maybe I am over-simplifying all this above, but that skill is not easy to learn. Hundreds of hurdles come in starting a company, in hiring talented people & to make them build products & in selling those products. But whoever does that, the economy surely rewards them.
+Maybe I am over-simplifying all this above, but that skill is not easy to learn. Hundreds of problems come in starting a company, in hiring talented people & to make them build products & in selling those products. But whoever does that, the economy surely rewards them.
 
 Bigger the impact, bigger the reward.
 
@@ -193,4 +177,6 @@ I used to explore the basics of economy and finance in my free time. So, all the
 
 Hope now you have got at least some idea of how the economy works and how its reward system works!
 
-Here's the another similar post on "[https://prashantkikani.com/blog/startup-ecosystem](https://prashantkikani.com/blog/startup-ecosystem)" in which we explore the startup ecosystem and every stakeholder interact with each other.
+Here's the another similar post on "[How Startup Ecosystem works?](https://prashantkikani.com/blog/startup-ecosystem)" in which we explore the startup ecosystem and every stakeholder interact with each other.
+
+

@@ -39,7 +39,7 @@ But, here's the catch - this progress is asymmetric, meaning some people(i.e. en
 
 Because of this asymmetric progress, a handful of people will go from earning $50k a year to having net worth of $10 billion or $100 billion and the rest will go from $50k to let say $500k or $1M during the same timeline. So, progress is asymmetric in capitalism.
 
-So, there's a [tradeoff between freedom and equality](https://prashantkikani.com/blog/freedom-vs-equality). Both of them can't be together.
+So, there's always a [tradeoff between freedom and equality](https://prashantkikani.com/blog/freedom-vs-equality). Both of them can't be together.
 
 <br/>
 

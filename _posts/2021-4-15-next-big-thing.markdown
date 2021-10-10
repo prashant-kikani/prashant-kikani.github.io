@@ -72,10 +72,10 @@ And billionaires of the 20th century like Elon Musk, Jeff Bezos and Mark Zuckerb
 
 According to me, three major candidates are:
 1. Artificial Intelligence(AI) & Machine Learning(ML)
-2. Decentralized Finance(DeFi) & Crypto Currencies
+2. Decentralized Finance(DeFi) & <a href="https://prashantkikani.com/blog/crypto-is-inevitable" target="_blank">Crypto Currencies</a>
 3. Augmented Reality(AR) & Virtual Reality(VR)
 
-You can read about AI/ML in my other [blogs](https://prashantkikani.com/blog/), in this one, I will try to explore the 2nd and 3rd.
+You can read about AI/ML in my other blogs like <a href="https://prashantkikani.com/blog/get-started-in-ml" target="_blank">this</a> one, I will try to explore the 2nd and 3rd point in this post.
 
 Movies like [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One_(film)) shows that, at what level AR/VR can impact our lives in future. And boy, that future seems very likely to me.
 As the [government is printing trillions of dollars](https://www.usatoday.com/in-depth/money/2020/05/12/coronavirushow-u-s-printing-dollars-save-economy-during-crisis-fed/3038117001/) & very low interest rates, people's trust in fiat currency have started to decline.

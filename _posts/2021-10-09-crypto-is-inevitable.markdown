@@ -17,13 +17,13 @@ Here are some factors in favour of crypto. One or two of them individually may n
 
 # 1. Total market cap of crypto and support from institutions
 
-As of october 2021, the entire crypto market cap is ~2.6 trillion dollars. That is a big number; it's around the entire GDP of India, 5th largest economy in the world. I don't think anyone can wipe off that much money out of the world. Private/public institutions and individual people like you and me have invested so much money into it, that any government will think 100 times before deciding to delegalize or ban crypto, <a href="https://www.bbc.com/news/technology-58678907" target="_blank">unlike china</a> of course! So, crypto is here to stay.
+As of October 2021, the entire crypto market cap is ~2.6 trillion dollars. That is a big number; it's around the entire GDP of India, 5th largest economy in the world. I don't think anyone can wipe off that much money out of the world. Private/public institutions and individual people like you and me have invested so much money into it, that any government will think 100 times before deciding to delegalize or ban crypto, <a href="https://www.bbc.com/news/technology-58678907" target="_blank">unlike China</a> of course! So, crypto is here to stay.
 
 Governments around the world have also started thinking about how to deal with crypto, like should earnings from crypto come under capital gain tax or not etc. Most likely, some laws will come from federal governments and banks to regularize crypto. And by the way, <a href="https://www.investopedia.com/el-salvador-accepts-bitcoin-as-legal-tender-5200470" target="_blank">some governments</a> have also started to adopt Bitcoin as legal tender.  
 
 Financial institutions are also coming into the crypto market. Institutions like <a href="https://www.jpmorgan.com/solutions/cib/news/digital-coin-payments" target="_blank">JPMorgan</a>, <a href="https://www.cnbc.com/2021/03/17/bitcoin-morgan-stanley-is-the-first-big-us-bank-to-offer-wealthy-clients-access-to-bitcoin-funds.html">Morgan Stanley</a> and companies like <a href="https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html" target="_blank">Tesla</a> and others are coming to the crypto market and it only makes it more inevitable. Because when big players come to the party, almost everyone needs to take it seriously, including governments.
 
-Venture capital firms like Andreessen Horowitz are launching <a href="https://www.cnbc.com/2021/06/24/andreessen-horowitz-launches-2point2-billion-crypto-fund.html" target="_blank">billions of dollars</a> of crypto specific funds to invest into crypto related startups and applications. This money will attract more smart people to join this space and build amazing products.   
+Venture capital firms like Andreessen Horowitz are launching <a href="https://www.cnbc.com/2021/06/24/andreessen-horowitz-launches-2point2-billion-crypto-fund.html" target="_blank">billions of dollars</a> of crypto specific funds to invest into crypto related <a href="https://prashantkikani.com/blog/startup-ecosystem" target="_blank">startups</a> and applications. This money will attract more smart people to join this space and build amazing products.   
 
 <br/>
 
@@ -31,7 +31,7 @@ Venture capital firms like Andreessen Horowitz are launching <a href="https://ww
 
 Future is created by smart, hard working and talented people. When a significant number of smart and talented people work on something, chances of that thing failing reduces dramatically. We can almost say that the future is designed by smart, intelligent and knowledgeable people.
 
-And we can clearly see some smart people like Elon Musk and Jack Dorsey supporting crypto and many software engineers and developers are either joining crypto startups or starting their own. <a href="https://solana.com/" target="_blank">Solana</a> and <a href="https://polygon.technology/" target="_blank">Polygon</a> are great examples of that. Number of startups in crypto space is increasing day by day.
+And we can clearly see some smart people like Elon Musk, Jack Dorsey and many others supporting crypto. Also a significant number of software engineers and developers are either joining crypto startups or starting their own. <a href="https://solana.com/" target="_blank">Solana</a> and <a href="https://polygon.technology/" target="_blank">Polygon</a> are good examples of that. Number of startups in crypto space is increasing day by day.
 
 Basically, smart people adapting the idea of decentralized blockchain and its applications like crypto only ensures that, future of crypto is good.  
 
@@ -39,11 +39,11 @@ Basically, smart people adapting the idea of decentralized blockchain and its ap
 
 # 3. Blockchain technology
 
-Decentralized blockchain is a fundamental technological advancement. It eliminates the need for a centralized body who can control the whole system. It conveys that consensus mechanisms like <a href="https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/" target="_blank">proof of work(PoW)</a> and <a href="https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/" target="_blank">proof of stack(PoS)</a> and improvements like <a href="https://docs.solana.com/cluster/synchronization" target="_blank">proof of history(PoH)</a> are capable of collectively making decisions without compromising privacy, scale and speed.     
+Decentralized blockchain is a fundamental technological advancement. It eliminates the need for a centralized body who can control the whole system. It conveys that consensus mechanisms like <a href="https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/" target="_blank">Proof of Work(PoW)</a> and <a href="https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/" target="_blank">Proof of Stack(PoS)</a> and improvements like <a href="https://docs.solana.com/cluster/synchronization" target="_blank">Proof of History(PoH)</a> are capable of collectively making decisions in a decentralized manner, without compromising privacy, scale and speed.     
 
-DeFi(Decentralized Finance) where we can do all the financial activities like lending and borrowing of money, is set to eliminate the need of centralised banks. DAO(Decentralized Autonomous Organization) is something like a decentralised company or organization. Wikipedia definition of DAO is, an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.
+DeFi(Decentralized Finance) where we can do all the financial activities like lending and borrowing of money, is set to eliminate the need of centralised banks. DAO(Decentralized Autonomous Organization) is something like a decentralised company or organization. Wikipedia definition of DAO is, "an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government".
 
-Banks and companies/organizations are fundamental building blocks of our capitalistic economy, and blockchain applications like DeFi and DAO are set to replace them.
+Banks and companies/organizations are fundamental building blocks of our <a href="https://prashantkikani.com/blog/capitalism" target="_blank">capitalistic economy</a>, and blockchain applications like DeFi and DAO are set to disrupt them.
 
 All these may sound a little far-fetched as of now. But many smart people are working to make them tick, so chances are not zero.
 
