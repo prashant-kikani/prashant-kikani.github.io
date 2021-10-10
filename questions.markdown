@@ -1,11 +1,11 @@
 ---
 layout: page
-pagetitle: Questions
+pagetitle: Questions to ask ourselves
 permalink: "/questions/"
 description: Questions that we should ask to ourselves.
 ---
 
-<p>Questions we should ask ourselves.</p>
+Questions we should ask ourselves.
 
 1.
 
