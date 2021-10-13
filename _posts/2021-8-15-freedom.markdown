@@ -17,7 +17,7 @@ One of the most important pieces of freedom is financial freedom. Till we are de
 
 <br/>
 
-# Financial Freedom
+## Financial Freedom
 
 In layman terms we can describe financial freedom as the state of having enough income that satisfies your living expenses without depending on some single entity.
 
@@ -39,7 +39,7 @@ Capitalism also has played a big role in individual's freedom by providing prope
 
 <br/>
 
-# Capitalism
+## Capitalism
 
 In today's capitalist world, people are free to become so rich that their net worth will be larger than the GDP of entire countries. Today anyone can become almost anything provided they can learn required skills. <b>Internet has democratised knowledge</b>. We can learn almost anything online freely and apply that knowledge in the real world.    
 
@@ -57,7 +57,7 @@ Millions of people came online because of very low prices of internet plans. And
 
 <br/>
 
-# Equality
+## Equality
 
 Freedom and equality are like two side of a coin, can't be in existence at the same time. When we give freedom to people, some of them(i.e. businessmen and entrepreneurs) will grow so much that their net worth will become larger than GDP of entire countries. 
 

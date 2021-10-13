@@ -11,7 +11,7 @@ Questions we should ask ourselves.
 
 > If I am not happy, what is the point of everything that I am doing?
 
-Happiness should be at the center of everything that we do. If we are losing happiness by getting something else, that's not worth it.
+Long-term happiness should be at the center of everything that we do. If we are losing happiness by getting something else, I don't think that's worth it.  
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -19,7 +19,7 @@ Happiness should be at the center of everything that we do. If we are losing hap
 
 > What part of this situation is under my control?
 
-We should only worry about things which are in our control. There's no point thinking or worrying about things we can't control.
+We should only worry about things which are in our control. There's no point thinking or worrying about things we can't control. This question helps us to focus on the right part in any situation.
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -27,7 +27,7 @@ We should only worry about things which are in our control. There's no point thi
 
 > People will tell stories about me at my funeral. What chapter am I writing today?
 
-What things are you working on today that will play a pivotal role in your life’s goals?
+In other words, what things are you working on today that will play a pivotal role in your life’s goals? 
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 

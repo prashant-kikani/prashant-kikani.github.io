@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What I learned from my 7 month ML journey?"
-date:   2018-5-14 # yyyy-mm-dd
+date:   2018-5-14 ## yyyy-mm-dd
 keyword: learn machine learning, Machine Learning, Artificial Intelligence, Data Science, Experience, Beginner 
 permalink: "/blog/7-month-ml-journey"
 description: "How I get started with Machine Learning & how you can do it too? Simple steps to get started in ML."
@@ -21,7 +21,7 @@ I will divide this post in <b>3 parts</b>.
 
 <br/>
 
-# How to start in ML?
+## How to start in ML?
 
 This question is very common in almost all of the aspirants. One basic analogy is, one needs to have at least basic knowledge of statistics, calculus (specially for Deep Learning) and linear algebra to understand concepts of Machine Learning & Deep Learning. Remember I have said “<b>basic</b>”. You don’t need to be an expert in it. And if you have done good high school studies, you most probably have it. So, congrats. You already have a base of ML!!
 
@@ -33,7 +33,7 @@ By doing these courses, you will at least have some idea what ML is all about, a
 
 <br/>
 
-# How to grow in ML?
+## How to grow in ML?
 
 I think there are <b>2 main ways</b> to grow your knowledge in ML. Projects & Competitions.
 
@@ -47,7 +47,7 @@ Read and try to understand other people’s view on the same problem by [Kaggle 
 
 <br/>
 
-# How to maintain the growth in ML?
+## How to maintain the growth in ML?
 
 This is very important. ML is a vast ocean. Even some great researchers don't know <b>all the concepts fully</b>. And you actually don’t need to digest all concepts. And even if one knows all the concepts fully, his/her knowledge will not be “full” after a week or two. <mark>Because in ML, every week something new comes</mark>.
 
@@ -67,7 +67,7 @@ And yes, you will need support when things are not going well. So, make a few be
 
 <br/>
 
-# <center>In short, If you don't give up, ML is your cup of tea!!</center>
+## <center>In short, If you don't give up, ML is your cup of tea!!</center>
 
 <br/>
 

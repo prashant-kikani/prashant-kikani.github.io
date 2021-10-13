@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A general framework to solve almost any problem"
-date:   2020-12-5 # yyyy-mm-dd
+date:   2020-12-5 ## yyyy-mm-dd
 keyword: problem solving, how to solve a problem, self help, first principles thinking, transfer learning    
 permalink: "/blog/solve-problems"
 description: "A general framework to solve almost any problem"

@@ -48,7 +48,7 @@ And there's some truth to it.
 
 <br/>
 
-# Detachment from real life.
+## Detachment from real life.
 
 This urge of showing our bright and happy moments via social media sometimes doesn't allow us to enjoy and observe the richness and nuances of real life. Sometimes people are more interested in taking photos, to post them on social media, than just truly enjoying and feeling the moment.
 
@@ -62,7 +62,7 @@ So ultimately, it detaches us from the real world more and more. Slowly but stea
 
 <br/>
 
-# Addiction
+## Addiction
 
 When we post our happy moments on social media, sometimes we unconsciously expect others to write good comments and praise us. And when they do praise us in the comment section, we get the Dopamine hit. This is that same Dopamine when we consume alcohol and nicotine.
 

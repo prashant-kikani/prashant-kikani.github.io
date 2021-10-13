@@ -19,7 +19,7 @@ Let's explore some interesting facts about this way of thinking.
 
 <br/>
 
-# Multiple hats
+## Multiple hats
 
 Most people we have met, have good sides and bad sides, good at something and bad at something else. That good or bad, might be very hard for you, or very easy for you, but for that person, it can be different.
 
@@ -37,7 +37,7 @@ Moral of the story is, we can't judge someone is totally good/bad just because t
 
 <br/>
 
-# Psychological aspects
+## Psychological aspects
 
 Sometimes, our brain kind of works in binary mode. It labels everything as either good or bad. Why? To avoid the complex thinking to decide whether something is truly good or not. It takes effort to see every possible point of view or aspect of the situation and to think from other people's perspectives. Basically, it takes effort to see the full picture. So the brain tries to avoid all that effort. It over simplifies things to label that thing to either black or white.
 

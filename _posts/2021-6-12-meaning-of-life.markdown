@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meaning of Life"
-date:   2021-06-12 # yyyy-mm-dd
+date:   2021-06-12 ## yyyy-mm-dd
 keyword: meaning, life, meaning of life  
 permalink: "/blog/meaning-of-life"
 description: "What's the meaning of life? What is/should be the ultimate goal?"

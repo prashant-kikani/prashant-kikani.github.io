@@ -44,7 +44,7 @@ Actual process involves a bit more complexity like convertible notes and debts/l
 
 <br/>
 
-# What is Equity?
+## What is Equity?
 
 Let's first understand the term "equity". In simple terms, equity gives you a certain percentage of ownership of the company. Equity is shared with others in the form of certain stocks of the company.
 
@@ -87,7 +87,7 @@ Now the startup's revenues are growing like crazy. Using that money founders may
 
 <br/>
 
-# Stock Option Pools (for employees)
+## Stock Option Pools (for employees)
 
 Stock option pool is some amount of shares that are set aside to be issued for the employees. Let's say the company issued new 500k shares to share with the employees of the startup.
 
@@ -110,7 +110,7 @@ With help of these new employees, the startup continued its growth trajectory an
 
 <br/>
 
-# Venture Capital (VC)
+## Venture Capital (VC)
 
 Now let's say, a venture capital approached the founders of the company to let them invest in the startup.
 
@@ -136,7 +136,7 @@ After the series-A, all the funding rounds will be named series-B, series-C, ser
 
 <br/>
 
-# Startup exits
+## Startup exits
 
 So now, the company has raised a couple of funding rounds and employs a significant number of employees and has a significant revenue. Now what?
 

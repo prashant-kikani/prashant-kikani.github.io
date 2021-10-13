@@ -102,7 +102,7 @@ Benefit of deploying the ML model on the web is, instead of seeing your code on 
 
 <br/>
 
-# How to deploy a trained ML model?
+## How to deploy a trained ML model?
 
 Let's take an example. You trained a model which can predict which number out of 0-9 is written in a given image.
 Now, it will be a better choice if you deploy that trained model on some website where people can upload a photo & your model will make predictions on it.

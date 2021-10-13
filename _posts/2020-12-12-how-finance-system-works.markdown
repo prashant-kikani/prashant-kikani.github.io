@@ -14,7 +14,7 @@ I am using the Dollar as a currency for example in this blog, but it can be any 
 
 To understand the economy, let's first understand "transactions".
 
-# Transactions
+## Transactions
 
 Transactions are the root or the building block of the economy.
 
@@ -37,7 +37,7 @@ Now, this buyer and seller chain can continue hundreds or thousands of times. Me
 
 <br/>
 
-# Price
+## Price
 
 Price is what we pay in the form of money/credit to get value/goods/services/financial assets. Now, the question comes, who decides the price?
 
@@ -52,7 +52,7 @@ The price of a product/service is a subjective thing. According to sellers, it c
 
 <br/>
 
-# Supply and Demand
+## Supply and Demand
 
 Price is decided by how much something is wanted(i.e. demand) by the public vs. the supply of that thing.
 
@@ -85,7 +85,7 @@ Now, let's understand "markets".
 
 <br/>
 
-# Markets
+## Markets
 
 A market consists of all the buyers and all the sellers making transactions for the same thing. For example, the car market, oil market, gold market, stock market, <a href="https://prashantkikani.com/blog/crypto-is-inevitable" target="_blank">crypto</a> market etc.
 
@@ -110,7 +110,7 @@ Now, let's understand loan/debt which bank issues and how interest rates & print
 
 <br/>
 
-# Loan/debt
+## Loan/debt
 
 We take loans/debts from lenders(like banks) by giving collateral and a promise to pay this money with interest in the future.
 
@@ -122,7 +122,7 @@ So, increased income allows increased borrowing, which allows increased spending
 
 <br/>
 
-# Role of the central bank in an economy
+## Role of the central bank in an economy
 
 So, if you can see this, the central bank kind of controls the economy!
 When the central bank increases interest rates, borrowing decreases, so the in-flow of money stops, spending decreases, and since one person’s spending is another person’s earning, earning decreases.
@@ -141,7 +141,7 @@ Money/cash itself doesn’t contain any value. It’s just a piece of paper. We 
 Think of the above fact this way, if someone gives $1 million to every person on this earth, it loses its value. Because the amount of value/goods/services in the market is the same.
 So, the amount of bread which we used to buy for $1, now has a price of $5 or $20. Because the obsolete value of a dollar has decreased.
 
-## What’s the difference between money and credit?
+### What’s the difference between money and credit?
 
 We can see credit as a promise to give money in the future. Like we do in loan/debt.
 
@@ -149,7 +149,7 @@ Credit is good when it’s issued for efficiently allocating resources that prod
 
 <br/>
 
-# Economy rewards people who solve big problems
+## Economy rewards people who solve big problems
 
 Almost all the famous businessmen and entrepreneurs initially had nothing compared to what they have today. They take a big amount of money from lenders(like banks, investors) & allocate that money to hire talented people and to build products/services. Ultimately they earn money by selling those products/services.
 

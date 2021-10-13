@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Are we living in a Simulation?"
-date:   2021-05-23 # yyyy-mm-dd
+date:   2021-05-23 ## yyyy-mm-dd
 keyword: simulation, sci-fi, living in simulation
 permalink: "/blog/simulation"
 description: "Is our reality an artificial simulation created by some extraterrestrial species or aliens?"
@@ -20,7 +20,7 @@ Coming to this post, I believe that chances are high of “we are living in a si
 
 <br/>
 
-# Program the fundamental laws.
+## Program the fundamental laws.
 
 In layman's terms, the answer of "what is simulation?" can be conveyed as, design some finite set of fundamental laws, and let it run on it's own. It will evolve on its own.
 

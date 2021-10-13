@@ -12,7 +12,7 @@ In this post, I share my ideas to live a happy life by following some simple, re
 
 <br/>
 
-# The Uncomfortable Truth
+## The Uncomfortable Truth
 
 A thought from Mark Manson's famous book:
 
@@ -28,7 +28,7 @@ This leads to the idea of <a rel="nofollow" target="_blank" href="https://www.be
 
 <br/>
 
-# Why is our generation so stressed & unhappy?
+## Why is our generation so stressed & unhappy?
 
 Because of modern technology & social media, we have become accustomed to instant gratification. We give damn about almost everything that is not in our control. Therefor we tie our happiness with stuff which we can’t control.
 
@@ -38,7 +38,7 @@ Does that mean we shouldn’t care about anything? Become a saint? Again, surely
 
 <br/>
 
-# Solution 1.0
+## Solution 1.0
 
 Solution is simple. Give your damn to only 4–5 things. Like your goals, career, family & very close friends, your idols. That’s it. It’s that simple. Why do you need to care about other things when you have a limited amount of days to live?
 
@@ -50,7 +50,7 @@ If you do this, you & only you have your key to happiness. As your future lies i
 
 <br/>
 
-# The Trap
+## The Trap
 
 Does that mean, once you achieve a goal you become happy? No.
 
@@ -60,7 +60,7 @@ So, what’s the solution now?
 
 <br/>
 
-# Satisfaction
+## Satisfaction
 
 You need to be satisfied with what you have.
 
@@ -70,7 +70,7 @@ The thing is, we attach ourselves & our own happiness with that expectation (or 
 
 <br/>
 
-# Solution 2.0
+## Solution 2.0
 
 So, with what should we attach our happiness? The process. That’s the only thing we can control. Achieving that goal also has other factors which you can’t control.
 
@@ -90,7 +90,7 @@ Idea of minimalism also works here. Steve Jobs has applied this in his life succ
 
 <br/>
 
-# One more thing
+## One more thing
 
 Don’t lie to yourself. Don’t pretend that you always give your best then also you almost never achieve my goals.
 
@@ -102,7 +102,7 @@ Real world doesn't give instant gratification as modern technology & social medi
 
 <br/>
 
-# A thought on Comparison
+## A thought on Comparison
 
 People say, don’t compare yourself with others, you’ll end up sad. That’s not true. Comparison is not bad. Unhealthy comparison is bad.
 
@@ -112,7 +112,7 @@ But they know the limit. They don’t attach themselves with the outcome. If the
 
 <br/>
 
-# The solution
+## The solution
 
 To be happy in long term,
 

@@ -19,7 +19,7 @@ But what if we can learn one thing, which will help us in learning almost all th
 
 <br/>
 
-# Meta Learning
+## Meta Learning
 
 Learning to learn or meta learning, is the skill that helps us in learning almost all the skills out there.
 
@@ -52,7 +52,7 @@ I think we also need aspiration and a little bit of curiosity to constantly push
 
 <br/>
 
-# Aspiration and Curiosity
+## Aspiration and Curiosity
 
 It sounds kind of obvious but, without aspiration and genuine curiosity to explore and learn new things it's hard to push ourselves outside of our comfort zone.
 

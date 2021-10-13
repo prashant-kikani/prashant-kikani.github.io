@@ -15,7 +15,7 @@ Here are some factors in favour of crypto. One or two of them individually may n
 
 <br/>
 
-# 1. Total market cap of crypto and support from institutions
+## 1. Total market cap of crypto and support from institutions
 
 As of October 2021, the entire crypto market cap is ~2.6 trillion dollars. That is a big number; it's around the entire GDP of India, 5th largest economy in the world. I don't think anyone can wipe off that much money out of the world. Private/public institutions and individual people like you and me have invested so much money into it, that any government will think 100 times before deciding to delegalize or ban crypto, <a href="https://www.bbc.com/news/technology-58678907" target="_blank">unlike China</a> of course! So, crypto is here to stay.
 
@@ -27,7 +27,7 @@ Venture capital firms like Andreessen Horowitz are launching <a href="https://ww
 
 <br/>
 
-# 2. Involvement of smart people
+## 2. Involvement of smart people
 
 Future is created by smart, hard working and talented people. When a significant number of smart and talented people work on something, chances of that thing failing reduces dramatically. We can almost say that the future is designed by smart, intelligent and knowledgeable people.
 
@@ -37,9 +37,9 @@ Basically, smart people adapting the idea of decentralized blockchain and its ap
 
 <br/>
 
-# 3. Blockchain technology
+## 3. Blockchain technology
 
-Decentralized blockchain is a fundamental technological advancement. It eliminates the need for a centralized body who can control the whole system. It conveys that consensus mechanisms like <a href="https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/" target="_blank">Proof of Work(PoW)</a> and <a href="https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/" target="_blank">Proof of Stack(PoS)</a> and improvements like <a href="https://docs.solana.com/cluster/synchronization" target="_blank">Proof of History(PoH)</a> are capable of collectively making decisions in a decentralized manner, without compromising privacy, scale and speed.     
+Decentralized blockchain is a fundamental technological advancement. It eliminates the need of a centralized body who can control the whole system. It conveys that consensus mechanisms like <a href="https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/" target="_blank">Proof of Work(PoW)</a> and <a href="https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/" target="_blank">Proof of Stack(PoS)</a> and improvements like <a href="https://docs.solana.com/cluster/synchronization" target="_blank">Proof of History(PoH)</a> are capable of collectively making decisions in a decentralized manner, without compromising privacy, scale and speed.     
 
 DeFi(Decentralized Finance) where we can do all the financial activities like lending and borrowing of money, is set to eliminate the need of centralised banks. DAO(Decentralized Autonomous Organization) is something like a decentralised company or organization. Wikipedia definition of DAO is, "an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government".
 
@@ -49,7 +49,7 @@ All these may sound a little far-fetched as of now. But many smart people are wo
 
 <br/>
 
-# 4. Involvement of youth and people's decreasing trust in governments
+## 4. Involvement of youth and people's decreasing trust in governments
 
 Another factor in favour of crypto is significant involvement of youth. What percentage of youth is interested in the crypto market vs. other financial markets. Because today's youth is tomorrow's adult generation. So, whatever they believe today, is going to be the future.
 

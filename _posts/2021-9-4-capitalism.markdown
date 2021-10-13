@@ -25,7 +25,7 @@ That's why governments across the globe don't like monopolies. Because monopoly 
 
 <br/>
 
-# Inequality
+## Inequality
 
 Because of capitalism, some people i.e. entrepreneurs and businessmen, economically "get ahead" i.e. become wealthier than a large chunk of people in the society. Because of that, equality suffers. 
 
@@ -43,7 +43,7 @@ So, there's always a [tradeoff between freedom and equality](https://prashantkik
 
 <br/>
 
-# Innovation
+## Innovation
 
 To bring back equality in society, what if we don't allow anyone to become a billionaire? So, let's say the government passes a law that, the moment the owner of a company hits a net worth of $1 billion, they need to stop their growth.
 

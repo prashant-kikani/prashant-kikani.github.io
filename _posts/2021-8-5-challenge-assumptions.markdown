@@ -21,7 +21,7 @@ This idea of challenging assumptions also somewhat leads to the idea of thinking
 
 <br/>
 
-# Innovation
+## Innovation
 
 Almost every innovation starts from a noble pursuit of wonder. When we challenge existing beliefs and try to think from scratch, without almost any assumptions, chances are higher that we will find a better solution.
 

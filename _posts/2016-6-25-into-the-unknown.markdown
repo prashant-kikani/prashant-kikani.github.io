@@ -10,7 +10,7 @@ description: "A Sci-Fi story on alien life of another universe meeting Humans on
 This is a sci-fi story which I wrote in my broken naive English, back in summer holidays of 2016, inspired from my favorite sci-fi movies like Harry Potter, Star Wars, The Avengers, Prometheus & Arrival. Enjoy!!
 
 
-# Chapter 1: Flying Fish
+## Chapter 1: Flying Fish
 
 The story starts from a planet called “Typhon”, lying somewhere in another Universe. This galaxy was near to a White hole compared to Earth. (After billions of years, Black hole is converted into White hole that emits Energy continuously.)
 
@@ -87,7 +87,7 @@ Hikon & Inize apologized their lord for their mistake. And Lord (Hikon’s fathe
 
 <br/>
 
-# Chapter 2: Barking Ball
+## Chapter 2: Barking Ball
 
 Now, Hikon is 21 yores(their year). And now he is able to become the Lord of Xappa. His father said to him in their language that “My dear, now I put a great Responsibility on your shoulders. You have to protect this kingdom & this planet till your last breaths. ” Hikon took a vow that his father asked him and now he became the lord of that country.
 
@@ -137,7 +137,7 @@ Parth gave a warm goodbye to both of them from Gujarat. Hikon & Somin left Gujar
 
 <br/>
 
-# Chapter 3: Into the Unknown
+## Chapter 3: Into the Unknown
 
 Hikon and Gubin are in Maharashtra. They visited Bombay. They liked the people of Bombay, as they work 14 to 15 hours in a day. They felt like in Bombay, people never sleep. At night you surely feel like a day. At last they left Maharashtra.
 
@@ -246,7 +246,7 @@ So, they both start their journey, again towards the Earth. But this time, Toget
 
 <br/>
 
-## In upcoming chapters..
+### In upcoming chapters..
 
 Hikon, Simahi and Gubin are on Earth.  Now they can travel through other milky ways too. After some time Astins found the Blackabon in another Milky Way. And start trying to capture it.
 

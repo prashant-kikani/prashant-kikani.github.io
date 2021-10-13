@@ -42,7 +42,7 @@ This is called the <b>superposition</b>.
 
 <br/>
 
-# Superposition
+## Superposition
 
 What the theory of superposition tells us is, "particles can be in multiple states at the same time". But when we look at it, it becomes one of the possible states.
 
@@ -89,7 +89,7 @@ So now the question comes, if there are multiverses, then where are they? Why ca
 
 <br/>
 
-# Outside of the Observable Universe
+## Outside of the Observable Universe
 
 The universe is ~13.8 billion years old; so any light coming from the far distant we can see has to have been travelling for ~13.8 billion years or less. But, here's the catch. Universe is also expanding, faster than the speed of light actually.
 
@@ -109,7 +109,7 @@ According to the scientist who have contributed to this multiverse theory <a hre
 
 <br/>
 
-# Schrödinger's cat
+## Schrödinger's cat
 
 Schrödinger gave this example of a cat in a closed box with a bottle of poisonous liquid and a radioactive particle. If the radioactive particle gets activated, the poisonous liquid bottle gets shattered and the poisonous liquid comes out, the cat will die. If the radioactive particle does not get activated, the cat will remain alive.
 

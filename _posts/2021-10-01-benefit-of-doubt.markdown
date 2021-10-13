@@ -19,7 +19,7 @@ We can also somewhat compare "benefit of doubt" and "positive thinking". Though 
 
 <br/>
 
-# Possibilities
+## Possibilities
 
 Habit of always thinking about all other possibilities may make our decision making process slower and sometimes more complex, but it'll save us from our biases and give us a chance to think again about our decisions.
 
@@ -31,7 +31,7 @@ We might not realize this, but we sometimes think about a situation in a certain
 
 <br/>
 
-# Kindness
+## Kindness
 
 It's also kind to see other possibilities, when something seems obvious. We all love a kind person. When other people will come to know that, we thought about other possibilities and did not take the obvious action, we will get a special place in their heart.
 
