@@ -7,7 +7,7 @@ permalink: "/blog/inflation"
 description: "Inflation has become a serious problem because of massive money printing by the federal bank."
 ---
 
-Inflation in simple words can be, “too much money chasing too few goods”. When almost everyone has more money than before, then money slightly loses its value and prices of goods go up. That's inflation. 
+Inflation's explanation in simple words can be, “too much money chasing too few goods”. When almost everyone has more money than before, then money slightly loses its value and prices of goods go up. That's inflation. 
 
 Inflation reached an all-time high of 30 years at 6.2% in October 2021. Federal Reserve System i.e. federal bank of US has created(i.e. printed) almost 40% of all the circulating money in the <a href="https://prashantkikani.com/blog/economy-and-finance" target="_blank">economy</a>. That's huge.
 
