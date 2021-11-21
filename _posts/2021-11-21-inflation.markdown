@@ -54,7 +54,7 @@ I really don't know what will happen from now. Everything is hitting all-time hi
 
 So, we really need to ask this question to ourselves: are these all-time highs because everything is actually this much greater, or it's just distorted?
 
-It's really going to be interesting to see what happens in the future, so keep your pop-corn ready for this mega-show! 
+It's really going to be interesting to see what happens in the future, so keep your popcorn ready for this mega-show! 
 
 
 
