@@ -132,7 +132,7 @@ And as you might have guessed, when the central bank decreases interest rates, b
 <center><img src="../assets/interest-rate-effect.jpg"/></center>
 <br/>
 
-Banks can print money by giving some amount of gold. Here comes the "<b>inflation</b>" part. Inflation is nothing but a decrease in “value” or the “buying power” of money over time. Why does the value of money decrease?
+Banks can print money by giving some amount of gold. Here comes the "<b><a href="https://prashantkikani.com/blog/inflation" target="_blank">inflation</a></b>" part. Inflation is nothing but a decrease in “value” or the “buying power” of money over time. Why does the value of money decrease?
 
 Because if you see, when the central bank prints money, more cash comes to market, but the amount of goods is almost the same!
 
