@@ -22,7 +22,7 @@ Why will interest rates rise eventually? Right now, interest rates are low becau
 
 But, obviously they can't keep the interest rates low forever. Otherwise, people will take so much debt and will have so much money that inflation will go out of control. Because higher interest rates mean higher borrowing costs, and people will eventually start spending less, which will bring inflation under control. 
 
-So, can you see the trap here? <b>If the Fed keeps the interest rates low forever, inflation will go out of control. And if they increase the interest rates, they have to pay massive payments on that massive debt of ~$30 trillion!</b>
+So, can you see the trap here? <b>If the Fed keeps the interest rates low forever, inflation will go out of control. And if they increase the interest rates, they have to pay massive interest payments on that gigantic debt of ~$30 trillion!</b>
 
 <br/>
 
