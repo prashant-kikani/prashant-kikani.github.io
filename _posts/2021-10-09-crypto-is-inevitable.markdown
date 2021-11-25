@@ -29,9 +29,11 @@ Venture capital firms like Andreessen Horowitz are launching <a href="https://ww
 
 ## 2. Involvement of smart people
 
-Future is created by smart, hard working and talented people. When a significant number of smart and talented people work on something, chances of that thing failing reduces dramatically. We can almost say that the future is designed by smart, intelligent and knowledgeable people.
+Future is created by smart, hardworking and talented people. When a significant number of smart and talented people work on something, chances of that thing failing reduces dramatically. We can almost say that the future is designed by smart, intelligent and knowledgeable people.
 
-And we can clearly see some smart people like Elon Musk, Jack Dorsey and many others supporting crypto. Also a significant number of software engineers and developers are either joining crypto startups or starting their own. <a href="https://solana.com/" target="_blank">Solana</a> and <a href="https://polygon.technology/" target="_blank">Polygon</a> are good examples of that. Number of startups in crypto space is increasing day by day.
+And we can clearly see some smart people like Elon Musk, Jack Dorsey and many others supporting crypto. Also, a significant number of software engineers and developers are either joining crypto startups or starting their own. <a href="https://solana.com/" target="_blank">Solana</a> and <a href="https://polygon.technology/" target="_blank">Polygon</a> are good examples of that. Number of startups in crypto space is increasing day by day.
+
+In the worst case, at least I personally have never seen someone who is completely in disagreement with the idea of blockchain and crypto. So, crypto might not be the number 1 exchange medium in the future, but it will certainly be one of the top. And many people do believe that, the idea of decentralized blockchain and crypto might be the most revolutionary idea of our generation. And chances of crypto completely failing is very low in my opinion.   
 
 Basically, smart people adapting the idea of decentralized blockchain and its applications like crypto only ensures that, future of crypto is good.  
 
