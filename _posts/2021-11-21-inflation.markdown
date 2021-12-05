@@ -9,7 +9,7 @@ description: "Inflation has become a serious problem because of massive money pr
 
 Inflation is a hot topic nowadays. Layman definition of inflation can be, “too much money chasing too few goods”. When almost everyone has more money than before, then money slightly loses its value and prices of goods go up. That's inflation. 
 
-Inflation reached an all-time high of 30 years at 6.2% in October 2021. Federal Reserve System i.e. federal bank of US has created(i.e. printed) almost 40% of all the circulating money in the <a href="https://prashantkikani.com/blog/economy-and-finance" target="_blank">economy</a>. That's huge.
+Inflation reached an all-time high of 31 years at 6.2% in October 2021. Federal Reserve System i.e. federal bank of US has created(i.e. printed) almost 40% of all the circulating money in the <a href="https://prashantkikani.com/blog/economy-and-finance" target="_blank">economy</a>. That's huge.
 
 Here's a bigger problem. The US government has taken huge debts in the last year that debt to GDP ratio has reached ~125%! 
 
