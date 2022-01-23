@@ -41,7 +41,7 @@ But in the long term, markets always go up. Some individual stocks may lose valu
 
 <br/>
 
-## Absolute value
+## Absolute loss/win
 
 After some big losses and wins in the stock market, I have realised this - <b>if your absolute loss/win amount is big, then you're growing</b>. "Growing" here means you are getting wealthier. When so much money is at stake, your wins and losses will also be bigger. And to have so much money on the stake, you first need to have that much money. It sounds naive, but it's a fact.
 
