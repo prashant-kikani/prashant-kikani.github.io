@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stock Market"
-date:   2022-01-23 # yyyy-mm-dd
+date:   2022-01-22 # yyyy-mm-dd
 keyword: stock market, share market, stock, share, finance
 permalink: "/blog/stock-market"
 description: "Stock Market is not just a place to buy and sell shares of companies. It's far more than that."
@@ -50,9 +50,6 @@ When people are playing big games, wins and losses will also be big(in terms of 
 For example, when the stock market goes 5% up or down, their founder loses their net worth in billions. When Tesla stock goes 5% down, Elon Musk loses his net-worth in billions. It's paper money - he's not losing those billions from his bank account, but still.
 
 When you have invested crores(or millions) of money in the stock market, even 1% loss will seem a big amount of money. But again, to invest in crores(or millions), you have to have those crores or millions. So, you're wealthy & rich already.  
-
-<br/>
-
 
 
 
