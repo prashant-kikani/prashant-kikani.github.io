@@ -17,7 +17,7 @@ Every startup serves some customers by solving their problems. What's a customer
 
 There's a difference between "user" and "customer". User is just the guy who uses the product, not necessarily pay for that. For e.g. in social media platforms like Facebook, people using the app are not customers, they are users. They are actually products for Facebook, which they sell to advertisers. Advertisers are the real customer for Facebook, who gives Facebook money in order to get the attention of its users.
 
-There are employees, people who work at the startup. They are getting paid by monthly/weekly salary + sometimes some stocks(i.e. ESOPs) of the startup they are working on.
+There are employees, people who work at the startup. They are getting paid by monthly/weekly salary + sometimes some <a href="https://prashantkikani.com/blog/stock-market" target="_blank">stocks</a>(i.e. ESOPs) of the startup they are working on.
 
 Then there are "investors". Who invests their/someone else's money in startups in return of some portion of the company(i.e. equity). Why do they invest money in startups? Because they think that this company will get more valuable in future and the money they are investing will give them 5x, 10x or sometimes 100x returns. We'll explore investors in detail later in this post.
 

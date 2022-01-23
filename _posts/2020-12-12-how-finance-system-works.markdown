@@ -62,10 +62,10 @@ Price is decided by how much something is wanted(i.e. demand) by the public vs. 
 High supply, low demand -> lower the price.<br/>
 Low supply, high demand -> higher the price.
 
-Whole <b>stock market</b> works on this very principle. For people who don't have much idea about what the stock market is, it's a market for stocks/shares. Where shares of public companies are traded. A share is basically part of a company.
+Whole <b><a href="https://prashantkikani.com/blog/stock-market" target="_blank">stock market</a></b> works on this very principle. For people who don't have much idea about what the stock market is, it's a market for stocks/shares. Where shares of public companies are traded. A share is basically part of a company.
 When we buy a share of a company, we own a certain percentage of that company. Market valuations / market caps of companies are calculated based on the price of the share in the stock markets.
 
-In a stock market, an investor decides what should be the ideal price of a share of a company, and tries to bid at that price to buy the share.
+In a <a href="https://prashantkikani.com/blog/stock-market" target="_blank">stock market</a>, an investor decides what should be the ideal price of a share of a company, and tries to bid at that price to buy the share.
 At the same time, thousands or millions of other people are doing that same work. And whatever the majority decided price is for that moment, will be the price of that share at that moment.
 
 Above process is happening at every second. That's why the price of shares fluctuates every second. The slope of the share price graph shows the general sentiment of the public about that share.

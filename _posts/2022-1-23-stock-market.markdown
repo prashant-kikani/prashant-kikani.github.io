@@ -7,11 +7,11 @@ permalink: "/blog/stock-market"
 description: "Stock Market is not just a place to buy and sell shares of companies. It's far more than that."
 ---
 
-Stock Market - A platform/market to exchange stocks/shares of publicly listed companies. But it's much more than that, at least for me.
+Stock Market - A platform/market to exchange stocks/shares of publicly listed companies. But it's much more than that, at least for me. Let's discuss the stock market in this post.
 
 For me, the stock market is like a teacher, who teaches me a lot of things. It rewards me for good predictions and punishes me for bad predictions which I made under panic/hurry.
 
-Actually, the stock market was created for companies to raise money from the retail public like you and me. And we invest money in the stock market with the hope that it'll grow over time. But to grow money, we have to make correct predictions. And that's where the whole game starts.
+Stock market plays a pivotal role in the <a href="https://prashantkikani.com/blog/economy-and-finance" target="_blank">economy</a>. Actually, the stock market was created for <a href="https://prashantkikani.com/blog/startup-ecosystem" target="_blank">companies</a> to raise money from the retail public like you and me. And we invest money in the stock market with the hope that it'll grow over time. But to grow money, we have to make correct predictions. And that's where the whole game starts.
 
 There's a big world of algorithmic trading. Read <a href="https://time.com/5751190/investing-machine-learning-marcos-de-lopez-prado/" target="_blank">this</a> interesting article on "'It's a Matter of When.' How Machines Are Taking Over the World's Stock Markets". And machines are faster too, they can make predictions in a couple of microseconds. We humans take far more than that.
 
@@ -51,7 +51,7 @@ For example, when the stock market goes 5% up or down, their founder loses their
 
 When you have invested crores(or millions) of money in the stock market, even 1% loss will seem a big amount of money. But again, to invest in crores(or millions), you have to have those crores or millions. So, you're wealthy & rich already.  
 
-
+<br/>
 
 
 
