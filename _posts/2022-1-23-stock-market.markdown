@@ -33,9 +33,9 @@ Ironically, I tweeted above statement after bearing a huge loss in the Paytm sto
 
 ## Low principal amount
 
-One of the biggest curse and boon for people starting out in the stock market is their low amount of investment. In India, people usually start with 10k-50k of total investment. So, even if stocks they invested in, get doubled(i.e. 100% return), they will get a small amount of money, as their principal itself was lower.
+One of the biggest curse(and boon at the same time) for people starting out in the stock market is their low amount of investment. In India, people usually start with 10k-50k of total investment. So, even if stocks they invested in, get doubled(i.e. 100% return), they will get a small amount of money, as their principal itself was lower.
 
-To earn an absolute 10k of profit in the stock market, you need to get 100% return - if your principal investment is 10k. But you just need to get 10% return if your investment is 1 lac. Getting 10% return is far easier than getting 100% returns. But obviously this acts both ways - for 10k principal amount you need to lose 100% of the amount to lose 10k, but you just need to lose 10% of the amount in case of 1 lac amount.
+To earn an absolute 10k of profit in the stock market, you need to get 100% return - if your principal investment is 10k. But you just need to get only 10% return if your investment is of 100k. Getting 10% return is far easier than getting 100% returns. But obviously this acts both ways - for 10k principal amount you need to lose 100% of the amount to lose 10k, but you just need to lose 10% of the amount in case of 100k amount.
 
 But in the long term, markets always go up. Some individual stocks may lose value but, whole market always goes up. At least that's the case in the last couple of decades. So, a high principal amount always helps in the long term.
 
