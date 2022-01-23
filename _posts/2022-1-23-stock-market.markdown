@@ -27,7 +27,7 @@ Sometimes, stocks which are going higher and higher, which you missed, gives you
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lessons which stock market teaches are invaluable. You need to have a heart to digest huge losses and acknowledge your mistakes while keeping your ego aside.</p>&mdash; Prashant Kikani (@prashant_kikani) <a href="https://twitter.com/prashant_kikani/status/1480814569870135296?ref_src=twsrc%5Etfw">January 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Ironically, I tweeted above statement after bearing a huge loss in the PayTm stock! But I think, dealing with all these, prepares you for the real world. Which is super messy. Stock market trains you to control your emotions & make wise decisions to get rewards, otherwise you will get punished. 
+Ironically, I tweeted above statement after bearing a huge loss in the Paytm stock! But I think, dealing with all these, prepares you for the real world. Which is super messy. Stock market trains you to control your emotions & make wise decisions to get rewards, otherwise you will get punished. 
 
 <br/>
 
