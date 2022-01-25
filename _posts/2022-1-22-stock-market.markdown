@@ -21,13 +21,13 @@ Most interesting thing in the stock market for me, is the Dopamine hit.
 
 ## Dopamine hit & FOMO
 
-When stocks you have bought goes high, you get happy, when they come down, you get a bit sad/frustrated. Long term investors do not care much about daily volatility though. When I first invested my own money in the stock market, I used to check prices very frequently, like every 15-30 minutes.
+When stocks you have bought rises, you get happy, when they come down, you get a bit sad/frustrated. Long term investors do not care much about daily volatility though. When I first invested my own money in the stock market, I used to check prices very frequently, like every 15-30 minutes.
 
-Sometimes, stocks which are going higher and higher, which you missed, gives you FOMO - fear of missing out. I am largely driven by FOMO in daily life and in the stock market too. For me, dealing with the regret of missing some great opportunities is hard. So sometimes, people like me get beaten up in the stock market.
+Sometimes, stocks which are going higher and higher, which you missed, gives you FOMO - fear of missing out. I am largely driven by FOMO in daily life and in the stock market too. For me, dealing with the regret of missing some great opportunities is hard. So sometimes, people like me get beaten up in the stock market. I think, regret of missing the opportunity is difficult to bear than taking the opportunity and then failing at it.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lessons which stock market teaches are invaluable. You need to have a heart to digest huge losses and acknowledge your mistakes while keeping your ego aside.</p>&mdash; Prashant Kikani (@prashant_kikani) <a href="https://twitter.com/prashant_kikani/status/1480814569870135296?ref_src=twsrc%5Etfw">January 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Ironically, I tweeted above statement after bearing a huge loss in the Paytm stock! But I think, dealing with all these, prepares you for the real world. Which is super messy. Stock market trains you to control your emotions & make wise decisions to get rewards, otherwise you will get punished. 
+Ironically, I tweeted above statement after bearing a huge loss in the Paytm stock (to express my feelings)! But I think, dealing with all these, prepares you for the real world. Which is super messy. Stock market trains you to control your emotions & make wise decisions to get rewards, otherwise you will get punished badly. Stock market also teaches you patience - you need to give yourself some time to make right predictions.
 
 <br/>
 
