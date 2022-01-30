@@ -15,11 +15,11 @@ It allows people to become owners of massive trillion dollar juggernaut business
 
 Capitalism provides economic incentives to people to out invent & out earn others to make their capitalistic dreams come true.
 
-Entrepreneurs and businessmen have great economic incentives to strive for making their product better and to serve their customer. And no, making a lot of money is certainly not their prime motive while building a great product, but it can be one of them. Who doesn't like to get paid for their blood, sweat & tears which they poured in their companies.  
+Entrepreneurs and businessmen have great economic incentives to strive for making their product better and to serve their customer. And no, making a lot of <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> is certainly not their prime motive while building a great product, but it can be one of them. Who doesn't like to get paid for their blood, sweat & tears which they poured in their companies.  
 
 Because of capitalism, individuals like you and me get to choose which product to use. Because there are tons of companies out there working hard to make their offerings better than the rest of the competition. So, we consumers collectively decide which product is better and which needs improvement.
 
-Competition plays a key role in capitalism. Because of competition, prices of products are decided based on supply and demand. Companies can't charge very high amount of money for their product because if they do, their customers will go to their competitors and buy the product from them. And all the companies can't charge very less for their product than competitors because if they do, their profits will decline and will run out of money soon. So, an ideal price will get selected collectively.
+Competition plays a key role in capitalism. Because of competition, prices of products are decided based on supply and demand. Companies can't charge very high amount of money for their product because if they do, their customers will go to their competitors and buy the product from them. And all the companies can't charge very less for their product than competitors because if they do, their profits will decline and will run out of <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> soon. So, an ideal price will get selected collectively.
 
 That's why governments across the globe don't like monopolies. Because monopoly companies can control their markets as there are no big enough competitors in the same market segment.
 
