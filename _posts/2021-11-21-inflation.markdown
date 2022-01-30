@@ -7,7 +7,7 @@ permalink: "/blog/inflation"
 description: "Inflation has become a serious problem because of massive money printing by the federal bank."
 ---
 
-Inflation is a hot topic nowadays. Layman definition of inflation can be, “too much money chasing too few goods”. When almost everyone has more money than before, then money slightly loses its value and prices of goods go up. That's inflation. 
+Inflation is a hot topic nowadays. Layman definition of inflation can be, “too much <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> chasing too few goods”. When almost everyone has more money than before, then money slightly loses its value and prices of goods go up. That's inflation. 
 
 Inflation reached an all-time high of 31 years at 6.2% in October 2021(update: inflation in November 2021 was at 6.8%). Federal Reserve System i.e. federal bank of US has created(i.e. printed) almost 40% of all the circulating money in the <a href="https://prashantkikani.com/blog/economy-and-finance" target="_blank">economy</a>. That's huge.
 
@@ -32,7 +32,7 @@ The U.S. dollar was officially crowned the world's reserve currency and was back
 
 So, why can't the US print money to pay off debt? Well, printing money to pay off the debt would make inflation worse.
 
-Why can the U.S. confidently “print money”, but other countries cannot(necessarily) do the same? Because the U.S. dollar is the world's reserve currency. In other words, most countries and companies from other countries usually need to transact in U.S. dollars, making them exposed to the value of their currency relative to U.S. dollars. The United States and the Fed in particular, doesn't face this problem.
+Why can the U.S. confidently “print <a href="https://prashantkikani.com/blog/money" target="_blank">money</a>”, but other countries cannot(necessarily) do the same? Because the U.S. dollar is the world's reserve currency. In other words, most countries and companies from other countries usually need to transact in U.S. dollars, making them exposed to the value of their currency relative to U.S. dollars. The United States and the Fed in particular, doesn't face this problem.
 
 But leveraging the fact that the U.S. dollar is the world's reserve currency again and again, the USA can't avoid problems forever. As it will degrade the value of the U.S. dollar and the status of global reserve currency will progressively decline.
 
