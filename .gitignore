@@ -3,6 +3,7 @@ _site
 .jekyll-cache
 .jekyll-cache/Jekyll
 .jekyll-metadata
+.idea
 Jekyll
 vendor
 .DS_Store
