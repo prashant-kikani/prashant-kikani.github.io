@@ -17,7 +17,7 @@ Oftentimes, we assume certain things unconsciously and build our hypothesis on t
 
 If we assume that what we know is wrong, then we will get a chance to question those assumptions and check if they are actually true, or if circumstances have changed and they are no longer true.  
 
-This idea of challenging assumptions also somewhat leads to the idea of thinking from first principles. Which says that, while <a href="https://prashantkikani.com/blog/solve-problems" target="_blank">solving a problem</a>, instead of thinking from our existing beliefs, think from the small fundamental hypothesis which is known to be true, and build up from there.
+This idea of challenging assumptions & <a href="https://prashantkikani.com/blog/adaptability" target="_blank">adaptability</a> also somewhat leads to the idea of thinking from first principles. Which says that, while <a href="https://prashantkikani.com/blog/solve-problems" target="_blank">solving a problem</a>, instead of thinking from our existing beliefs, think from the small fundamental hypothesis which is known to be true, and build up from there.
 
 <br/>
 

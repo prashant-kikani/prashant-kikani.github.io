@@ -109,5 +109,7 @@ Because in that virtual world, we need some fast, secure & reliable way for <i>v
 So, I think a combined wave of AR/VR + DeFi will be one of the biggest, if not the biggest part of our future. Only question is, how far this future is. Is it 10 years, 5 years or 30 years?
 I think it'll be far sooner than we think, as we saw things that were not there 10-20 years ago. So, I think it'll come faster than we think.
 
+And, we will certainly need <a href="https://prashantkikani.com/blog/adaptability" target="_blank">adaptability</a> to accept new technologies in our daily lives. 
+
 Most likely, the next big technologies will be built by startups. Here's another similar post on the topic of "[How Startup Ecosystem works?](https://prashantkikani.com/blog/startup-ecosystem)" give it a read, if you want to explore how startup works and how every stakeholder connect with each other. 
 

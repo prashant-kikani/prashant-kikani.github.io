@@ -47,7 +47,7 @@ There are billions of stars to visit, diseases to cure, people to help, happy fe
 
 One other interesting fact to notice is, it's all relative. Whatever you have right now may be low from your point of view, but very much from some other people's point of view.
 
-There is a concept called "[Hedonic Adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill)"(aka Hedonic Treadmill) which conveys the tendency of humans to quickly return to a relatively stable level of happiness despite major positive or negative events or life changes.
+There is a concept called "[Hedonic Adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill)"(aka Hedonic Treadmill) which conveys the tendency of humans to quickly return(or <a href="https://prashantkikani.com/blog/adaptability" target="_blank">adapt</a>) to a relatively stable level of happiness despite major positive or negative events or life changes.
 
 <center><img src="../assets/hedonic_adaptation.png"/></center> 
 <br/>
