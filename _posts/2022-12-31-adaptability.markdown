@@ -33,7 +33,7 @@ Then the question comes, why do we need to adapt? - to stay relevant.
 
 ## Survival of the fittest
 
-It's a harsh reality! If we don't adapt to the new reality and if we don't change ourselves in this ever-changing world, we will be relevant anymore.
+It's a harsh reality! If we don't adapt to the new reality and if we don't change ourselves in this ever-changing world, we will not be relevant anymore.
 
 It's like, the world is going ahead at a 5 kmph speed and if you are going at 2 kmph speed, effectively you're going backwards at a 3 kmph speed. And sometime in future, you will be so behind, that you won't be relevant anymore.
 
