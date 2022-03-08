@@ -13,7 +13,7 @@ As per Wikipedia, opportunity cost of an activity or option is the loss of value
 
 If we're not doing anything, then also we are losing important and sometimes rare opportunities. For example, let's say it is the last week of March 2020, and stock markets around the world have crashed massively. And at the time, there was a great opportunity to invest <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> in the stocks to earn massive returns in the next 2 years. However, it seems easier to predict that in hindsight, but it was not that easy at that time.
 
-We make choices all the time. From choosing what clothes to wear in the morning to which career stream to pursue. When choosing a cloth to wear, you are indirectly all other clothes. Same for career streams. Each decision gives us something and costs us something. Cost here comes from hidden gains from other options which you're not choosing.
+We make choices all the time. From choosing what clothes to wear in the morning to which career stream to pursue. When choosing a piece of cloth to wear, you are indirectly saying no to all other clothes. Same for career streams. Each decision gives us something and costs us something. Cost here comes from hidden gains from other options which you're not choosing.
 
 Let's say there are 4 options `A`, `B`, `C` and `D` to choose from, and you choose `option B`. So, your net outcome of your choice is will be,
 
