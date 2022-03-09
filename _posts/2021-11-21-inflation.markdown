@@ -28,7 +28,9 @@ So, can you see the trap here? <b>If the Fed keeps the interest rates low foreve
 
 ## World's Reserve Currency
 
-The U.S. dollar was officially crowned the world's reserve currency and was backed by the world's largest gold reserves thanks to the Bretton Woods Agreement. That means, instead of gold reserves, other countries accumulated reserves of U.S. dollars. That's a massive advantage for the USA.
+The U.S. dollar was officially crowned the world's reserve currency and was backed by the world's largest gold reserves thanks to the Bretton Woods Agreement. That means, instead of gold reserves, other countries accumulated reserves of U.S. dollars. 
+
+Another major reason behind that is, oil can only be bought using U.S. dollar(aka <a href="https://www.investopedia.com/terms/p/petrodollars.asp" target="_blank">petrodollars</a>) - and every country needs oil. So, every country must need to have U.S. dollar in their reserves. That's a <a href="https://www.investopedia.com/articles/forex/072915/how-petrodollars-affect-us-dollar.asp" target="_blank">massive advantage</a> for the USA.
 
 So, why can't the US print money to pay off debt? Well, printing money to pay off the debt would make inflation worse.
 
