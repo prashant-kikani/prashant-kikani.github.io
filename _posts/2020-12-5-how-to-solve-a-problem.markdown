@@ -10,8 +10,6 @@ description: "A general framework to solve almost any problem"
 
 In this post, I share a way of thinking regarding how one can approach and solve almost any problem/challenge.
 
-<center><img src="../assets/solve-problems.jpg"/></center>
-
 <br/>
 
 The purpose of this post is just to share a way of thinking. Nor am I a big master in solving problems. Neither I am conveying whatever I am saying below is the only truth. It's just one of many ways of thinking.

@@ -126,5 +126,4 @@ Happiness is all that matters at the end of the day.
 
 Here's another similar post on the topic of "[Reel Life](https://prashantkikani.com/blog/reel-life)" in which explore that, whatever we see on social media is not the entire picture. People only share their good, happy and positive moments with others via social media, which is not the full picture.   
 
-<center><img src="../assets/happy-life.jpg"/></center>
 

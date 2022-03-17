@@ -196,5 +196,3 @@ If you have enjoyed this part, you can <a target="_blank" href="https://prashant
 
 <br/>
 
-<center><img src="../assets/thoughts-nature.jpg"/></center>
-
