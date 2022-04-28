@@ -65,5 +65,10 @@ By buying/selling call/put options, you're making a bet. If your bet turn out to
 
 Derivative market as a whole, is a zero-sum game. For one party to win, someone else has to lose.
 
-Size of the global derivative market is more than $1.2 quadrillion. Some market analysts estimate the derivatives market at more than 10 times the size of the total world's GDP(Gross Domestic Product).
+Size of the global derivative market is more than <a href="https://www.investopedia.com/ask/answers/052715/how-big-derivatives-market.asp" target="_blank">$600 trillion</a>!! For comparison, as of 2022 GDP(Gross Domestic Product) of the whole world is around $80 trillion. Some market analysts estimate the derivatives market at more than 10 times the size of the total world's GDP. How is that even possible? Mostly because there are many derivatives in existence, available on almost every type of investment asset, including equities, commodities, bonds, and currency etc. In short, derivative market is not small.
+
+Inherently, traders can take very high leverage positions in future and options(F&O). As you might have guessed, because of very high leveraged positions, volatility in futures and options market is way higher than the normal stock/cash market. And trading in future & options require emotional control and discipline along with analytical skills.
+
+
+
 
