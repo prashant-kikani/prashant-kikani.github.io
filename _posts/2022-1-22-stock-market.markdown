@@ -43,6 +43,8 @@ But in the long term, markets always go up. Some individual stocks may lose valu
 
 ## Absolute loss/win
 
+By "absolute" I mean, the absolute operation from mathematics. Absolute value of a negative number makes it a positive number, and keeps the positive number as it is. 
+
 After some big losses and wins in the stock market, I have realised this - <b>if your absolute loss/win amount is big, then you're growing</b>. "Growing" here means you are getting wealthier. When so much money is at stake, your wins and losses will also be bigger. And to have so much money on the stake, you first need to have that much money. It sounds naive, but it's a fact.
 
 When people are playing big games, wins and losses will also be big(in terms of amount of money). And I think, big losses have at least one positive aspect which is - at least you were playing a big game in the first place. When stacks are high, reward/loss will also be high.
