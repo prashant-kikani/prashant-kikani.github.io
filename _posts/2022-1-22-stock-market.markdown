@@ -59,7 +59,7 @@ Market in which we can buy/sell shares of different companies is called cash mar
 
 There's another market called "Derivative market". It's kind of derived from the normal stock market(in which we buy/sell trade). In the derivative market, people make bets on the price of market indices like NIFTY and certain stocks. 
 
-If you think price of a stock will go up, then you can buy "call" options. If you think price will go down, you can buy "put" options. If you think price will not go up,(i.e. will remain almost same or will go down) then you can sell "call" options. And if you think market will not go down(i.e. will remain almost same or will go up) then you can sell "put" options.
+If you think price of a stock will go up, then you can buy "call" options. If you think price will go down, you can buy "put" options. If you think price will not go up,(i.e. will remain almost flat or will go down) then you can sell "call" options. And if you think market will not go down(i.e. will remain almost flat or will go up) then you can sell "put" options.
 
 By buying/selling call/put options, you're making a bet. If your bet turn out to be correct, you will make money, else you will lose money.
 
