@@ -2,6 +2,7 @@
 layout: page
 pagetitle: Prashant Kikani's blog
 permalink: "/blog/"
+keyword: prashant kikani blog, blog, post, prashant kikani's blog
 description: Prashant Kikani's blog on Machine Learning, Philosophy, Happiness & Life
 ---
 
@@ -13,10 +14,10 @@ description: Prashant Kikani's blog on Machine Learning, Philosophy, Happiness &
 
       {% else %}
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-          <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+          <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}...</a></h3>
 
         <div class="entry">
-          {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+          {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more</a>
         </div>
 
         {% if post.title != "What I learned from my 7 month ML journey?" %}
