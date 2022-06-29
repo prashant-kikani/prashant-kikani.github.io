@@ -91,7 +91,7 @@ So now the question comes, if there are multiverses, then where are they? Why ca
 
 ## Outside of the Observable Universe
 
-The universe is ~13.8 billion years old; so any light coming from the far distant we can see has to have been travelling for ~13.8 billion years or less. But, here's the catch. Universe is also expanding, faster than the speed of light actually.
+The universe is ~13.8 billion years old; so any light coming from the far distant we can see has to have been travelling for ~13.8 billion years or less. But, here's the catch. Universe is also expanding, faster than the speed of light(i.e. warp speed), actually.
 
 The universe is expanding faster than the speed of light, so light emitting from just outside of the edge of the observable universe will never ever reach us here on earth. Because both points(edge of the universe and our Earth) are moving away from each other faster than the speed at light is travelling.
 
