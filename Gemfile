@@ -7,6 +7,7 @@ group :jekyll_plugins do
   gem "rexml", "~> 3.2.5"
   gem "kramdown", "~> 2.3.1"
   gem "addressable", "~> 2.8.0"
+  gem "jquery", "~> 3.5.0"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
