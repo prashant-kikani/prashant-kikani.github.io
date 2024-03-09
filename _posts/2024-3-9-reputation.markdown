@@ -9,8 +9,6 @@ description: "In the age of abundance, reputation is the ultimate currency."
 
 In the age of abundance, reputation is the ultimate currency.
 
-<br/>
-
 It is most likely that technological and scientific advancement will continue at an exponential rate and at some point in the future, all of our basic needs(i.e. food, clothes, and shelter) will be satisfied without any effort from our side.
 
 I just completed watching the "The Orville" science fiction television series, which makes a great point about this. The series claims that after a couple of hundred years when Humans have made the matter synthesizer, a tool that can make anything you want instantly, there will be no need for work.

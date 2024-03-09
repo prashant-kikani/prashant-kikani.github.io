@@ -11,7 +11,7 @@ Stock Market - A platform/market to exchange stocks/shares of publicly listed co
 
 For me, the stock market is like a teacher, who teaches me a lot of things. It rewards me for good predictions and punishes me for bad predictions which I made under panic/hurry.
 
-Stock market plays a pivotal role in the <a href="https://prashantkikani.com/blog/economy-and-finance" target="_blank">economy</a>. Actually, the stock market was created for <a href="https://prashantkikani.com/blog/startup-ecosystem" target="_blank">companies</a> to raise money from the retail public like you and me. And we invest <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> in the stock market with the hope that it'll grow over time. But to grow money, we have to make correct predictions. And that's where the whole game starts.
+The stock market plays a pivotal role in the <a href="https://prashantkikani.com/blog/economy-and-finance" target="_blank">economy</a>. Actually, the stock market was created for <a href="https://prashantkikani.com/blog/startup-ecosystem" target="_blank">companies</a> to raise money from the retail public like you and me. And we invest <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> in the stock market with the hope that it'll grow over time. But to grow money, we have to make correct predictions. And that's where the whole game starts.
 
 There's a big world of algorithmic trading. Read <a href="https://time.com/5751190/investing-machine-learning-marcos-de-lopez-prado/" target="_blank">this</a> interesting article on "'It's a Matter of When.' How Machines Are Taking Over the World's Stock Markets". And machines are faster too, they can make predictions in a couple of microseconds. We humans take far more than that.
 
@@ -21,13 +21,13 @@ Most interesting thing in the stock market for me, is the Dopamine hit.
 
 ## Dopamine hit & FOMO
 
-When stocks you have bought rises, you get happy, when they come down, you get a bit sad/frustrated. Long term investors do not care much about daily volatility though. When I first invested my own <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> in the stock market, I used to check prices very frequently, like every 15-30 minutes.
+When stocks you have bought rise, you get happy, when they come down, you get a bit sad/frustrated. Long-term investors do not care much about daily volatility though. When I first invested my own <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> in the stock market, I used to check prices very frequently, like every 15-30 minutes.
 
-Sometimes, stocks which are going higher and higher, which you missed, gives you FOMO - fear of missing out. I am largely driven by FOMO in daily life and in the stock market too. For me, dealing with the regret of missing some great opportunities is hard. So sometimes, people like me get beaten up in the stock market. I think, regret of missing the opportunity is difficult to bear than taking the opportunity and then failing at it.
+Sometimes, stocks that are going higher and higher, which you missed, give you FOMO - fear of missing out. I am largely driven by FOMO in daily life and in the stock market too. For me, dealing with the regret of missing some great opportunities is hard. So sometimes, people like me get beaten up in the stock market. I think regret of missing the opportunity is more difficult to bear than taking the opportunity and then failing at it.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lessons which stock market teaches are invaluable. You need to have a heart to digest huge losses and acknowledge your mistakes while keeping your ego aside.</p>&mdash; Prashant Kikani (@prashant_kikani) <a href="https://twitter.com/prashant_kikani/status/1480814569870135296?ref_src=twsrc%5Etfw">January 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Ironically, I tweeted above statement after bearing a huge loss in the Paytm stock (to express my feelings)! But I think, dealing with all these, prepares you for the real world. Which is super messy. Stock market trains you to control your emotions & make wise decisions to get rewards, otherwise you will get punished badly. Stock market also teaches you patience - you need to give yourself some time to make right predictions.
+Ironically, I tweeted the above statement after bearing a huge loss in the Paytm stock (to express my feelings)! But I think, dealing with all these, prepares you for the real world. Which is super messy. The stock market trains you to control your emotions & make wise decisions to get rewards, otherwise, you will get punished badly. The stock market also teaches you patience - you need to give yourself some time to make the right predictions.
 
 <br/>
 
@@ -69,7 +69,7 @@ Derivative market as a whole, is a zero-sum game. For one party to win, someone 
 
 Size of the global derivative market is more than <a href="https://www.investopedia.com/ask/answers/052715/how-big-derivatives-market.asp" target="_blank">$600 trillion</a>!! For comparison, as of 2022 GDP(Gross Domestic Product) of the whole world is around $80 trillion. Some market analysts estimate the derivatives market at more than 10 times the size of the total world's GDP. How is that even possible? Mostly because there are many derivatives in existence, available on almost every type of investment asset, including equities, commodities, bonds, and currency etc. In short, derivative market is not small.
 
-Inherently, traders can take very high leverage positions in future and options(F&O). As you might have guessed, because of very high leveraged positions, volatility in futures and options market is way higher than the normal stock/cash market. And trading in future & options require emotional control and discipline along with analytical skills.
+Inherently, traders can take very high-leverage positions in the future and options(F&O). As you might have guessed, because of very high leveraged positions, volatility in futures and options market is way higher than the normal stock/cash market. And trading in future & options require emotional control and discipline along with analytical skills.
 
 
 

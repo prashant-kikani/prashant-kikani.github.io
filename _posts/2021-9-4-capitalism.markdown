@@ -7,19 +7,19 @@ permalink: "/blog/capitalism"
 description: "Exploring Capitalism."
 ---
 
-Our society runs on capitalism. Private or corporate ownerships strive for maximizing profits by serving customers better than their competitors.
+Our society runs on capitalism. Private or corporate ownerships strive to maximize profits by serving customers better than their competitors.
 They do this by constant innovation and competing against others to make their products/services better & better in a free and open market.
 
-Characteristics of capitalism include capital accumulation, competitive markets and a price system.
-It allows people to become owners of massive trillion dollar juggernaut businesses and having net worth of hundreds of billions of dollars.  
+Characteristics of capitalism include capital accumulation, competitive markets, and a price system.
+It allows people to become owners of massive trillion-dollar juggernaut businesses and have a net worth of hundreds of billions of dollars.  
 
-Capitalism provides economic incentives to people to out invent & out earn others to make their capitalistic dreams come true.
+Capitalism provides economic incentives to people to out-invent & out-earn others to make their capitalistic dreams come true.
 
-Entrepreneurs and businessmen have great economic incentives to strive for making their product better and to serve their customer. And no, making a lot of <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> is certainly not their prime motive while building a great product, but it can be one of them. Who doesn't like to get paid for their blood, sweat & tears which they poured in their companies.  
+Entrepreneurs and businessmen have great economic incentives to strive to make their products better and to serve their customers. And no, making a lot of <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> is certainly not their prime motive while building a great product, but it can be one of them. Who doesn't like to get paid for their blood, sweat & tears that they poured into their companies?  
 
 Because of capitalism, individuals like you and me get to choose which product to use. Because there are tons of companies out there working hard to make their offerings better than the rest of the competition. So, we consumers collectively decide which product is better and which needs improvement.
 
-Competition plays a key role in capitalism. Because of competition, prices of products are decided based on supply and demand. Companies can't charge very high amount of money for their product because if they do, their customers will go to their competitors and buy the product from them. And all the companies can't charge very less for their product than competitors because if they do, their profits will decline and will run out of <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> soon. So, an ideal price will get selected collectively.
+Competition plays a key role in capitalism. Because of competition, prices of products are decided based on supply and demand. Companies can't charge very high amounts of money for their product because if they do, their customers will go to their competitors and buy the product from them. All the companies can't charge very less for their product than competitors because if they do, their profits will decline, and will run out of <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> soon. So, an ideal price will be selected collectively.
 
 That's why governments across the globe don't like monopolies. Because monopoly companies can control their markets as there are no big enough competitors in the same market segment.
 
@@ -27,13 +27,13 @@ That's why governments across the globe don't like monopolies. Because monopoly 
 
 ## Inequality
 
-Because of capitalism, some people i.e. entrepreneurs and businessmen, economically "get ahead" i.e. become wealthier than a large chunk of people in the society. Because of that, equality suffers. 
+Because of capitalism, some people i.e. entrepreneurs and businessmen, economically "get ahead" i.e. become wealthier than a large chunk of people in society. Because of that, equality suffers. 
 
-That's why, many people don't like capitalism, as it creates this economic inequality in the society. Some people get so rich that their net worth becomes larger than GDP of entire countries and they can <a href="https://www.bbc.com/news/science-environment-57849364" target="_blank">fly to the space</a> in their own rockets all by themselves!
+That's why, many people don't like capitalism, as it creates economic inequality in society. Some people get so rich that their net worth becomes larger than the GDP of entire countries and they can <a href="https://www.bbc.com/news/science-environment-57849364" target="_blank">fly to space</a> in their rockets all by themselves!
 
 But if we see, because of capitalism our everyday lives have become so much better than people living in the 1900s and 1950s. We can make video calls across the globe, we can get any information by searching on Google, we can connect with our friends via social media platforms, we can order almost anything from Amazon & Alibaba and we can do tons of other cool things on our iPhones and Androids.
 
-So, if we compare the lives of people today vs. 50 years ago, all of us have made a significant progress. Our lives are much better than people from the 1950s. So, everyone has made progress in these last 50 years.
+So, if we compare the lives of people today vs. 50 years ago, all of us have made significant progress. Our lives are much better than people from the 1950s. So, everyone has made progress in these last 50 years.
 
 But, here's the catch - this progress is asymmetric, meaning some people(i.e. entrepreneurs and businessmen) will progress so far ahead than other people did.
 

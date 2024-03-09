@@ -2,12 +2,12 @@
 layout: post
 title:  "Schrödinger's cat, Quantum Mechanics & Multiverse"
 date:   2021-08-07 # yyyy-mm-dd
-keyword: schrodinger's cat, multiverse, quantum mechanics, parallel worlds, many worlds, quantum superposition, superposition
+keyword: Schrodinger's cat, multiverse, quantum mechanics, parallel worlds, many worlds, quantum superposition, superposition
 permalink: "/blog/multiverse"
 description: "The Multiverse concept can be real. According to Quantum Mechanics, our reality is constantly splitting into multiple possibilities. Let's explore the multiverse concept by quantum mechanics."
 ---
 
-There are high chances that multiple realities do exist according to the theories of Quantum Mechanics. Let's explore the Multiverse concept in this post.
+There are high chance that multiple realities do exist according to the theories of Quantum Mechanics. Let's explore the Multiverse concept in this post.
 
 This concept and the content of this post can be harder to grasp at first as it seems very counterintuitive to what we know about reality. But believe me, after a few attempts you will get it. Let me know at <a href="mailto:prashant@kikani.in">prashant@kikani.in</a> in case you have any questions/doubts.
 
@@ -15,18 +15,18 @@ And also it's worth mentioning that, my purpose of exploring all these multivers
 
 Okay, let's start.
 
-In classical mechanics, we can predict the future state of the object, if we know it's current state. For example, when we throw a ball at a certain angle, we can predict where it will land given the velocity of the ball, angle at which it was thrown and constants like gravity force of Earth i.e. 9.8 m/s<sup>2</sup> etc.
+In classical mechanics, we can predict the future state of the object, if we know its current state. For example, when we throw a ball at a certain angle, we can predict where it will land given the velocity of the ball, the angle at which it was thrown and constants like gravity force of Earth i.e. 9.8 m/s<sup>2</sup>, etc.
 
 In quantum mechanics, if we know the quantum state of the particle i.e. it's wave function, we can use Schrödinger's equation to calculate what that particle will do in the future.
 
 <center><img src="../assets/schrodinger_formula.jpg"/></center>
 <br/>
 
-Wave function looks like a normal probability distribution. So for simplicity, whenever I say "wave function", just imagine it as a 3D probability distribution like above.
+The wave function looks like a normal probability distribution. So for simplicity, whenever I say "wave function", just imagine it as a 3D probability distribution like the above.
 
-The problem here is, in reality we never observe a wave function like this. Whenever we find/locate the particle, we find it at a single point in space. Just a sample from this distribution.
+The problem here is that, in reality, we never observe a wave function like this. Whenever we find/locate the particle, we find it at a single point in space. Just a sample from this distribution.
 
-So, by the wave function we are introducing the concept of "probability" into reality. What it means is, by introducing this probability we are telling that <b>our universe is not deterministic</b>.
+So, by the wave function, we are introducing the concept of "probability" into reality. What it means is, by introducing this probability we are saying that our universe is not deterministic</b>.
 
 Many people opposed this very idea of a non-deterministic universe, including Albert Einstein.
 
@@ -34,9 +34,9 @@ Many people opposed this very idea of a non-deterministic universe, including Al
 
 What he is essentially saying is that the universe can't be non-deterministic.
 
-But Schrödinger's equation and other quantum mechanics' theories were pretty successful at predicting outcomes of the experiments.
+But Schrödinger's equation and other quantum mechanics theories were pretty successful at predicting the outcomes of the experiments.
 
-Here comes the counter intuitive part. How come the theory which says the particle is in a probability distribution i.e. it's wave function can be true; when we look/find/locate the particle, we get it at a single point in space instead of the distribution.
+Here comes the counterintuitive part. How come the theory which says the particle is in a probability distribution i.e. its wave function can be true; when we look/find/locate the particle, we get it at a single point in space instead of the distribution?
 
 This is called the <b>superposition</b>.
 
@@ -44,24 +44,24 @@ This is called the <b>superposition</b>.
 
 ## Superposition
 
-What the theory of superposition tells us is, "particles can be in multiple states at the same time". But when we look at it, it becomes one of the possible states.
+What the theory of superposition tells us is, that "particles can be in multiple states at the same time". But when we look at it, it becomes one of the possible states.
 
-Let's do the coin-flip experiment to understand better. Let's say we tossed a coin in a very dark room with no light. After we flipped the coin and the coin settled on the floor, for you it can be either head or tail. So, it's both head and tail at the same time. But when we turn on a light and look at the coin, it becomes either head or tail. It's no more both at the same time.
+Let's do the coin-flip experiment to understand better. Let's say we tossed a coin in a very dark room with no light. After we flipped the coin and the coin settled on the floor, for you, it can be either head or tail. So, it's both head and tail at the same time. But when we turn on a light and look at the coin, it becomes either head or tail. It's no more both at the same time.
 
 Let's say we saw a head in this example.
 
 So, if the coin was both head and tail at the same time previously, how come it is only one of them now?
 
-If we see ourselves as a quantum system(which has a wave function of it's own and obeys the Schrödinger's equation) like everything else, then one explanation of this is, when we are turning on the light and seeing the coin, we(as a quantum system) are getting entangling with the quantum system of the coin.
+If we see ourselves as a quantum system(which has a wave function of its own and obeys Schrödinger's equation) like everything else, then one explanation of this is, that when we are turning on the light and seeing the coin, we(as a quantum system) are getting entangling with the quantum system of the coin.
 
-Two quantum systems(one of the coin and one of you) are getting entangled with each other when we are observing whether the coin was head or tail i.e. just one of them not both of them.
+Two quantum systems(one of the coin and one of you) are getting entangled with each other when we are observing whether the coin is head or tail i.e. just one of them not both of them.
 
 So, the wave function(i.e. the distribution) we got as a result of this entanglement still has all the possibilities, i.e. of head and tail. But, we are just one part of the outcome now.
 
 | Row number      | Coin | Outcome |
 | :-----------: | :-----------: | :-----------: |
-| 1      | Head       | You saw the coin as Head.       |
-| 2   | Tail        | You saw the coin as Tail.         |
+| 1   | Head        | You saw the coin as Head.       |
+| 2   | Tail        | You saw the coin as Tail.       |
 
 You will be either part of row number 1 or row number 2. So, if the coin was head, you are part of the 1st row, if the coin was tail, you are part of the 2nd row.
 
@@ -127,7 +127,7 @@ What Schrödinger was conveying by this example was, before the cat was in the s
 
 Let's say, we saw the cat as alive in this example.
 
-Again as the coin-flip experiment we saw before, for our reality cat was alive, but when two quantum systems entangled with each other, in outcome wave function(i.e. the distribution), still have both the possibilities.
+Again as the coin-flip experiment we saw before, for our reality cat was alive, but when two quantum systems entangled with each other, in outcome wave function(i.e. the distribution), still have both possibilities.
 
 We are just part of one of the outcome rows of the table. Which is row number 1 in this example.
 
@@ -137,7 +137,7 @@ One interesting thought experiment about quantum mechanics is, it is rendering t
 
 > Quantum mechanics is a "lazy evaluation" physics engine that renders reality only when observed. The engineering question for the simulation is: How hard is it to efficiently render reality that fools humans by still appearing to be globally consistent with the laws of physics. -Lex Fridman
 
-It seems a little far-fetched & counter intuitive. But, this is also a possibility.
+It seems a little far-fetched & counterintuitive. But, this is also a possibility.
 
 <br/>
 
