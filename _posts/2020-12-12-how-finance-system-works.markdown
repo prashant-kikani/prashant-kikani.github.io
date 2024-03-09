@@ -8,9 +8,9 @@ description: "A beginner's guide to economy and finance"
 
 ---
 
-In this blog post, we will discuss how the economy and financial system works? What drives the economy and how it rewards a certain type of people?
+In this blog post, we will discuss how the economy and financial system works. What drives the economy and how it rewards a certain type of people?
 
-I am using the Dollar as a currency for example in this blog, but it can be any currency like Rupee, Euro, Yen, Pound etc.
+I am using the Dollar as a currency for example in this blog, but it can be any currency like Rupee, Euro, Yen, Pound, etc.
 
 To understand the economy, let's first understand "transactions".
 
@@ -28,12 +28,12 @@ Every dollar we spend, someone else earns; every dollar we earn, someone spends;
 
 It's not that hard to understand that almost everything in the economy is driven by transactions. Transaction to the economy is like biological cells to the human body.
 
-Now, this buyer and seller chain can continue hundreds or thousands of times. Means a buyer can be a seller for someone else and a seller can be a buyer for someone else. Just like a businessman sells his/her products to others and buys other products from other businessmen.
+Now, this buyer and seller chain can continue hundreds or thousands of times. This means a buyer can be a seller for someone else and a seller can be a buyer for someone else. Just like a businessman sells his/her products to others and buys other products from other businessmen.
 
 <center><img src="../assets/buyer-seller-chain.jpg"/></center>
 <br/>
 
-"Price" comes into play here in every transaction. Now let's see what's the "price" and how it's decided?
+"Price" comes into play here in every transaction. Now let's see what's the "price" and how it's decided.
 
 <br/>
 
@@ -63,18 +63,18 @@ High supply, low demand -> lower the price.<br/>
 Low supply, high demand -> higher the price.
 
 Whole <b><a href="https://prashantkikani.com/blog/stock-market" target="_blank">stock market</a></b> works on this very principle. For people who don't have much idea about what the stock market is, it's a market for stocks/shares. Where shares of public companies are traded. A share is basically part of a company.
-When we buy a share of a company, we own a certain percentage of that company. Market valuations / market caps of companies are calculated based on the price of the share in the stock markets.
+When we buy a share of a company, we own a certain percentage of that company. Market valuations/market caps of companies are calculated based on the price of the share in the stock markets.
 
 In a <a href="https://prashantkikani.com/blog/stock-market" target="_blank">stock market</a>, an investor decides what should be the ideal price of a share of a company, and tries to bid at that price to buy the share.
 At the same time, thousands or millions of other people are doing that same work. And whatever the majority decided price is for that moment, will be the price of that share at that moment.
 
-Above process is happening at every second. That's why the price of shares fluctuates every second. The slope of the share price graph shows the general sentiment of the public about that share.
+The above process is happening every second. That's why the price of shares fluctuates every second. The slope of the share price graph shows the general sentiment of the public about that share.
 
 We <b>believe</b> that this price has to be correct as the majority of the people believe that. Now, if that price is not correct and the majority is wrong, eventually, the bubble will burst and it will saturate to its actual price.
 
-That's why some people believe that a share is overvalued(i.e. bear markets) or undervalued(i.e. bull markets). They make bets according to their beliefs, and eventually whoever made correct predictions will make money in the future.  
+That's why some people believe that a share is overvalued(i.e. bear markets) or undervalued(i.e. bull markets). They make bets according to their beliefs, and eventually whoever makes correct predictions will make money in the future.  
 
-Brands like Supreme, Apple use the same supply-demand principle. They generate limited products compared to demand so, prices will be higher and so will their profit margins.
+Brands like Supreme, and Apple use the same supply-demand principle. They generate limited products compared to demand so, prices will be higher and so will their profit margins.
 Profit margins will be higher in low supply, high demand because, fundamental building cost of the product is not changing, just the price of selling is going up.
 
 The development cost of a $999 priced iPhone is far less than that at around $500 to $600. They can charge that much money because of the comparatively high demand of the product.
@@ -169,7 +169,7 @@ So, the economy rewards these kinds of people with a lot of money. Who can take 
 
 Maybe I am over-simplifying all this above, but that skill is not easy to learn. Hundreds of problems come in starting a company, in hiring talented people & to make them build products & in selling those products. But whoever does that, the economy surely rewards them.
 
-Bigger the impact, bigger the reward.
+The bigger the impact, the bigger the reward.
 
 <br/>
 
@@ -177,6 +177,6 @@ I used to explore the basics of economy and finance in my free time. So, all the
 
 Hope now you have got at least some idea of how the economy works and how its reward system works!
 
-Here's the another similar post on "[How Startup Ecosystem works?](https://prashantkikani.com/blog/startup-ecosystem)" in which we explore the startup ecosystem and every stakeholder interact with each other.
+Here's another similar post on "[How Startup Ecosystem works?](https://prashantkikani.com/blog/startup-ecosystem)" in which we explore the startup ecosystem and how every stakeholder interacts with each other.
 
 

@@ -4,28 +4,28 @@ title:  "Money"
 date:   2022-01-30 # yyyy-mm-dd
 keyword: money, history of money, finance, economy, freedom, capitalism, independence  
 permalink: "/blog/money"
-description: "Money is perhaps the most important thing for some people in today's capitalistic world. Let's explore a brief history of money, freedom it brings and why it should not be the number 1 priority of one's life."
+description: "Money is perhaps the most important thing for some people in today's capitalistic world. Let's explore a brief history of money, the freedom it brings, and why it should not be the number 1 priority of one's life."
 ---
 
-Money - perhaps the most important thing in today's capitalistic world. You won't be having the device in which you're reading this blog, if you would not have the money to buy it.
+Money - perhaps the most important thing in today's capitalistic world. You won't have the device on which you're reading this blog if you would not have the money to buy it.
 
-Why is money important? Because we live in the <a href="https://prashantkikani.com/blog/capitalism" target="_blank">capitalistic</a> world. Private or corporate ownerships strive for maximising profits by serving or solving problems of customers better than their competitors.   
+Why is money important? Because we live in a <a href="https://prashantkikani.com/blog/capitalism" target="_blank">capitalistic</a> world. Private or corporate ownerships strive to maximize profits by serving or solving the problems of customers better than their competitors.   
 
 Let's first see a brief history of money.
 
 <br/>
 
-## A brief history of Money
+## A Brief History of Money
 
-Money is valuable just because we all know that it will be accepted as a form of payment. However, throughout history both the usage and the form of money have evolved. Previously people used to trade gold. Why gold? Because it is a rare earth material, and it was shiny!
+Money is valuable just because we all know that it will be accepted as a form of payment. However, throughout history, both the usage and the form of money have evolved. Previously people used to trade gold. Why gold? Because it is a rare earth material, and it was shiny!
 
-But a major problem with gold was, it was hard to carry from one place to another because of security concerns. So, the government came up with the bank - where we can deposit our gold and take some paper money which "represents" your ownership of gold which is held by the bank. Countries other than the US pegged their currency to the U.S. dollar. It was called the "Bretton Woods monetary system". The Bretton Woods System required a nation's currency peg to the U.S. dollar which was in turn pegged to the price of gold.
+But a major problem with gold was, that it was hard to carry from one place to another because of security concerns. So, the government came up with the bank - where we can deposit our gold and take some paper money which "represents" your ownership of gold which is held by the bank. Countries other than the US pegged their currency to the U.S. dollar. It was called the "Bretton Woods monetary system". The Bretton Woods System required a nation's currency peg to the U.S. dollar which was in turn pegged to the price of gold.
 
-So far so good. But then 1971 came. President Richard Nixon took a major(and mind-blowing) decision to no longer peg the U.S. dollar with gold.
+So far so good. But then 1971 came. President Richard Nixon made a major(and mind-blowing) decision to no longer peg the U.S. dollar with gold.
 
 Nixon directed Treasury Secretary Connally to suspend, with certain exceptions, the convertibility of the U.S. dollar into gold or other reserve assets, ordering the gold window to be closed such that <b>foreign governments could no longer exchange their dollars for gold</b>.
 
-So, the U.S. dollar was not tied with gold anymore. It's value can be decided by the U.S. itself! They can "legally" <a href="https://prashantkikani.com/blog/inflation" target="_blank">print any amount of money</a> to take care of their citizens and to fund government programs. There were major consequences of that decision throughout history. I think, this 1971 event is one of the biggest reason behind <a href="https://prashantkikani.com/blog/crypto-is-inevitable" target="_blank">the crypto revolution</a>. 
+So, the U.S. dollar was not tied with gold anymore. Its value can be decided by the U.S. itself! They can "legally" <a href="https://prashantkikani.com/blog/inflation" target="_blank">print any amount of money</a> to take care of their citizens and to fund government programs. There were major consequences of that decision throughout history. I think this 1971 event is one of the biggest reasons behind <a href="https://prashantkikani.com/blog/crypto-is-inevitable" target="_blank">the crypto revolution</a>. 
 
 Anyway, that's how the modern "fiat" money was born. Money has become digital in today's <a href="https://prashantkikani.com/blog/economy-and-finance" target="_blank">economy</a>. The Federal bank needs to always make sure there is enough liquidity in the system to allow people to use their money.  
 
@@ -35,11 +35,11 @@ Anyway, that's how the modern "fiat" money was born. Money has become digital in
 
 The U.S. dollar was officially crowned the world's reserve currency and was backed by the world's largest gold reserves thanks to the Bretton Woods Agreement. That means, instead of gold reserves, other countries accumulated reserves of U.S. dollars. 
 
-Another major reason behind that is, oil can only be bought using U.S. dollar(aka <a href="https://www.investopedia.com/terms/p/petrodollars.asp" target="_blank">petrodollars</a>) - and every country needs oil. So, every country must need to have U.S. dollar in their reserves. That's a <a href="https://www.investopedia.com/articles/forex/072915/how-petrodollars-affect-us-dollar.asp" target="_blank">massive advantage</a> for the USA.
+Another major reason behind that is, oil can only be bought using U.S. dollars(aka <a href="https://www.investopedia.com/terms/p/petrodollars.asp" target="_blank">petrodollars</a>) - and every country needs oil. So, every country must needs to have the U.S. dollar in their reserves. That's a <a href="https://www.investopedia.com/articles/forex/072915/how-petrodollars-affect-us-dollar.asp" target="_blank">massive advantage</a> for the USA.
 
 So, why can't the US print money to pay off debt? Well, printing money to pay off the debt would make inflation worse.
 
-Why can the U.S. confidently “print money”, but other countries cannot(necessarily) do the same? Because the U.S. dollar is the world's reserve currency. In other words, most countries and companies from other countries usually need to transact in U.S. dollars, making them exposed to the value of their currency relative to U.S. dollars. The United States and the Fed in particular, doesn't face this problem.
+Why can the U.S. confidently “print money”, but other countries cannot(necessarily) do the same? Because the U.S. dollar is the world's reserve currency. In other words, most countries and companies from other countries usually need to transact in U.S. dollars, making them exposed to the value of their currency relative to U.S. dollars. The United States and the Fed, in particular, don't face this problem.
 
 But leveraging the fact that the U.S. dollar is the world's reserve currency again and again, the USA can't avoid problems forever. As it will degrade the value of the U.S. dollar and the status of global reserve currency will progressively decline.
 
@@ -47,30 +47,30 @@ But leveraging the fact that the U.S. dollar is the world's reserve currency aga
 
 ## Freedom
 
-Money gives us <a href="https://prashantkikani.com/blog/freedom" target="_blank">freedom</a>, that's for sure. It reveals our true self. Once we get "enough" money that we no longer need to depend on anyone until we die, we become free. By "free" I mean, we can do anything we want. We can fulfil our hobbies, spend quality time with our family, travel the whole world - anything.      
+Money gives us <a href="https://prashantkikani.com/blog/freedom" target="_blank">freedom</a>, that's for sure. It reveals our true self. Once we get "enough" money that we no longer need to depend on anyone until we die, we become free. By "free" I mean, we can do anything we want. We can fulfill our hobbies, spend quality time with our family, travel the whole world - anything.      
 
-Now, how much this "enough" amount of money differs from person to person. Some people need millions, some need billions and some only need a couple of hundred thousands.
+Now, how much this "enough" amount of money differs from person to person? Some people need millions, some need billions and some only need a couple of hundred thousand.
 
-Root cause behind why money gives us freedom is <a href="https://prashantkikani.com/blog/capitalism" target="_blank">capitalism</a>. Capitalism has proven to be the best economic model to drive societies ahead from the last couple of centuries.   
+The root cause behind why money gives us freedom is <a href="https://prashantkikani.com/blog/capitalism" target="_blank">capitalism</a>. Capitalism has proven to be the best economic model to drive societies ahead over the last couple of centuries.   
 
 <br/>
 
 ## Money is everything?
 
-Yes sure, money gives you freedom and everything, but I personally feel, sometimes people measure everything and everyone by money. Yes, money is very important; but it might not be the most important thing in life. There are other things as well, like the quality of relationship with family and friends, happiness, satisfaction and health! Just to make it clear, this is not to say money is not important, by the way. Money is very important.
+Yes sure, money gives you freedom and everything, but I personally feel, sometimes people measure everything and every one by money. Yes, money is very important; but it might not be the most important thing in life. There are other things as well, like the quality of relationship with family and friends, happiness, satisfaction and health! Just to make it clear, this is not to say money is not important, by the way. Money is very important.
 
-It's not that hard to understand why for some/most of the people money is the most important thing. We can "buy" anything/anyone with money directly or indirectly. For example, if you have your whole money part sorted out, you can enjoy your family time, you can fulfil your hobbies and dreams which will keep you happy, and you can consult any doctor/surgeon for your health.
+It's not that hard to understand why for some/most of the people money is the most important thing. We can "buy" anything/anyone with money directly or indirectly. For example, if you have your whole money part sorted out, you can enjoy your family time, you can fulfill your hobbies and dreams which will keep you happy, and you can consult any doctor/surgeon for your health.
 
-So, happiness and health can be "bought" using money? Somewhat yes - but not necessarily. I think, Money is necessary but not sufficient. There are other factors also.
+So, happiness and health can be "bought" using money? Somewhat yes - but not necessarily. I think Money is necessary but not sufficient. There are other factors also.
 
-But there's one more problem down the road. You see, once you have "enough" money, chances are higher that, you get trapped into <a href="https://en.wikipedia.org/wiki/Hedonic_treadmill" target="_blank">Hedonic Adaptation</a>(aka Hedonic Treadmill). The new life-style becomes the "new normal" for you. In other words, it does not bring the same euphoria it was bringing before. 
+But there's one more problem down the road. You see, once you have "enough" money, chances are higher that, you get trapped into <a href="https://en.wikipedia.org/wiki/Hedonic_treadmill" target="_blank">Hedonic Adaptation</a>(aka Hedonic Treadmill). The new lifestyle becomes the "new normal" for you. In other words, it does not bring the same euphoria it brought before. 
 
 <center><img src="../assets/hedonic_adaptation.png"/></center>
 <br/>
 
-In the above graph, we can see that our happiness increases for a short period of time, but it comes to the normal level, even if we still have those things(because of which we got happy initially) with us. Same for sadness. Once we lose something/someone, we get sad for a period of time, but we come to a normal happiness level, even if that loss is still there. Basically, the changes(positive or negative) we experience become "new normal" for us. Same thing will happen for money.
+In the above graph, we can see that our happiness increases for a short period, but it comes to the normal level, even if we still have those things(because of which we got happy initially) with us. Same for sadness. Once we lose something/someone, we get sad for some time, but we come to a normal happiness level, even if that loss is still there. Basically, the changes(positive or negative) we experience become a "new normal" for us. The same thing will happen for money.
 
-Anyway, coming to the main topic, money can and will bring happiness to life; but the story does not end there. For long-lasting happiness, other things are also required. Let's not forget that.
+Anyway, coming to the main topic, money can and will bring happiness to life, but the story does not end there. For long-lasting happiness, other things are also required. Let's not forget that.
 
 
 
