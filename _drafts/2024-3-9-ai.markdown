@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Artificial Intelligence and emotions"
+date:   2024-03-09
+keyword: artificial intelligence, AI, emotions, robot, large language model, LLM, alignment
+permalink: "/blog/ai-emotions"
+description: "Artificial Intelligence(AI) is the most important and impactful technology Humans have ever worked on. But will they feel anything?"
+---
+
+Artificial Intelligence(AI) is the most important and impactful technology Humans have ever worked on and probably will ever work on. But will they feel anything?
+
+The definition of AI can be, any intelligence that is not biological is artificial intelligence. At the time I am writing this, large language models(LLMs) are disrupting the entire world. Trillions of market caps are being created for companies like NVIDIA and Microsoft(via OpenAI). AI development has been going on for the last few decades but this is the first time, it has seen a massive mainstream adoption and has become the talk of the town.
+
+<br/>
+
+## Emotions
+
+Emotions are a very unique characteristic we humans possess. Emotions have some downsides as well, like anger, jealousy, etc. can even hurt a human in the long term. Machines don't have emotions, hence 
