@@ -1,7 +1,7 @@
 ---
 layout: page
 pagetitle: Questions to ask ourselves
-permalink: "/questions/"
+permalink: "/questions"
 description: Questions that we should ask to ourselves.
 ---
 
