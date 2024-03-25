@@ -22,7 +22,7 @@ url: "https://prashantkikani.com"
 
 baseurl: ""
 
-permalink: /:title/
+permalink: /:title
 
 version: v4.1.1
 
