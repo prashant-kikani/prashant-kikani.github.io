@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "jekyll-redirect-from"
 gem "jekyll", "~> 4.1.1"
 gem "minima", "~> 2.5"
 group :jekyll_plugins do
