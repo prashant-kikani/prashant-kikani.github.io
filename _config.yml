@@ -35,18 +35,18 @@ plugins:
   - jekyll-redirect-from
 
 redirects:
-  - from: https://prashantkikani.com/blog/
-    to: https://prashantkikani.com/blog
-  - from: https://prashantkikani.com/stories/
-    to: https://prashantkikani.com/stories
-  - from: https://prashantkikani.com/questions/
-    to: https://prashantkikani.com/questions
-  - from: https://prashantkikani.com/about/
-    to: https://prashantkikani.com/about
-  - from: https://prashantkikani.com/tic/
-    to: https://prashantkikani.com/tic
-  - from: https://prashantkikani.com/contact/
-    to: https://prashantkikani.com/contact
+  - from: /blog/
+    to: /blog
+  - from: /stories/
+    to: /stories
+  - from: /questions/
+    to: /questions
+  - from: /about/
+    to: /about
+  - from: /tic/
+    to: /tic
+  - from: /contact/
+    to: /contact
 
 
 # Set the Sass partials directory, as we're using @imports
