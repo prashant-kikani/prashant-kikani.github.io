@@ -35,18 +35,18 @@ plugins:
   - jekyll-redirect-from
 
 redirects:
-  - from: /blog/
-    to: /blog
-  - from: /stories/
-    to: /stories
-  - from: /questions/
-    to: /questions
-  - from: /about/
-    to: /about
-  - from: /tic/
-    to: /tic
-  - from: /contact/
-    to: /contact
+  - from: "/blog/"
+    to: "/blog"
+  - from: "/stories/"
+    to: "/stories"
+  - from: "/questions/"
+    to: "/questions"
+  - from: "/about/"
+    to: "/about"
+  - from: "/tic/"
+    to: "/tic"
+  - from: "/contact/"
+    to: "/contact"
 
 
 # Set the Sass partials directory, as we're using @imports
