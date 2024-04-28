@@ -7,7 +7,7 @@ permalink: "/blog/emergence"
 description: "The Orville and an interesting conversation with AI about emergence"
 ---
 
-Recently, I had a very interesting conversation with the latest version of AI (OpenAI's GPT-4) about my favorite television series "The Orville". The conversation went into deep science fiction and philosophical questions like existence of human beings and the concept of emergence. Emergence of something completely new out of very small components or elements.
+Recently, I had an interesting conversation with the latest version of AI (OpenAI's GPT-4) about my favorite television series "The Orville". The conversation went into deep science fiction and philosophical questions like existence of human beings and the concept of emergence. Emergence of something completely new out of very small components or elements.
 
 
 > You know the science fiction series The Orville? That series had 3 seasons. I wanted to make a new episode story for season 4. You have all the knowledge about each role of that series. Let's create an interesting episode of it. To start with, let's refresh the past. Can you share all you know about each role based on the past 3 seasons?
