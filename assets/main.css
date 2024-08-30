@@ -143,7 +143,7 @@ table td { border: 1px solid #e8e8e8; }
 
 @media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
 
-.post-content h3 { font-size: 24px; font-weight: bold;}
+.post-content h3 { font-size: 22px; font-weight: bold;}
 
 @media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
 
