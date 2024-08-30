@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "God"
+title:  "What is God? Does God exist?"
 date:   2024-08-30 # yyyy-mm-dd
 keyword: god, does god exist?, existence of god, theistic, agnostic, atheistic
 permalink: "/blog/god"
