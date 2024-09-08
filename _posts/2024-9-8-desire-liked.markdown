@@ -11,6 +11,8 @@ In today’s world, many of us are driven by a deep-rooted desire: the desire to
 
 The desire to be liked isn’t inherently wrong, but when it starts shaping our thoughts and behaviors, we risk losing touch with who we truly are. So how do we balance the need for acceptance with the value of being authentic? Let’s dig into this common social dilemma.
 
+<br/>
+
 ## Why We Crave Approval
 
 Humans are inherently social creatures. From early evolution, being part of a tribe or group meant survival. This need for acceptance runs deep in our psychology. In the modern context, being liked or accepted by our peers doesn’t just fulfill an emotional need—it provides social capital, professional opportunities, and a sense of belonging.
