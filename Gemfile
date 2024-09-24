@@ -4,7 +4,7 @@ gem "jekyll", "~> 4.1.1"
 gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "rexml", "~> 3.3.3"
+  gem "rexml", "~> 3.3.6"
   gem "kramdown", "~> 2.3.1"
   gem "addressable", "~> 2.8.0"
 end
