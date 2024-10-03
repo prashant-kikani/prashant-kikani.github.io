@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Orville and an interesting conversation with AI about emergence"
+title: "The Orville and an interesting conversation with AI about emergence"
 date:   2024-04-27 # yyyy-mm-dd
 keyword: emergence, the orville, consciousness, philosophy, science fiction, artificial intelligence, ai
 permalink: "/blog/emergence"
