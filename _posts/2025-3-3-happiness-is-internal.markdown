@@ -15,9 +15,9 @@ This raises an important question: *If happiness is internal, why do so many peo
 
 ## The Facade of Happiness vs. The Reality Within
 
-In today's world, it’s easier than ever to create a <a href="https://prashantkikani.com/blog/reel-life">fake sense of happiness</a>. A well-curated Instagram feed, a new car, or an expensive vacation can make it seem like someone is living their best life. But behind the scenes, they may be battling stress, loneliness, or dissatisfaction. Even the closest people—spouses, parents, or best friends—often have no idea what someone is truly feeling inside. 
+In today's world, it’s easier than ever to create a <a href="https://prashantkikani.com/blog/reel-life" target="_blank" target="_blank">fake sense of happiness</a>. A well-curated Instagram feed, a new car, or an expensive vacation can make it seem like someone is living their best life. But behind the scenes, they may be battling stress, loneliness, or dissatisfaction. Even the closest people—spouses, parents, or best friends—often have no idea what someone is truly feeling inside. 
 
-This shows that happiness is deeply personal. It cannot be judged by material possessions, social presence, or <a href="https://prashantkikani.com/blog/desire-to-be-liked">external</a> perception. 
+This shows that happiness is deeply personal. It cannot be judged by material possessions, social presence, or <a href="https://prashantkikani.com/blog/desire-to-be-liked" target="_blank">external</a> perception. 
 
 <br/>
 
@@ -28,7 +28,7 @@ This shows that happiness is deeply personal. It cannot be judged by material po
 
 As people become wealthier, they tend to normalize their luxuries. A new car, a bigger house, or designer clothes may provide short-term excitement, but eventually, they become just another part of life. This is known as the *hedonic treadmill*—the psychological tendency to return to a baseline level of happiness despite external gains.
 
-This means that no matter how much <a href="https://prashantkikani.com/blog/money">money</a> you make, no matter how many things you buy, true happiness does not lie in material excess. If you are unhappy today, reaching a million dollars won’t change that in the long run.
+This means that no matter how much <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> you make, no matter how many things you buy, true happiness does not lie in material excess. If you are unhappy today, reaching a million dollars won’t change that in the long run.
 
 <br/>
 
@@ -42,7 +42,7 @@ The irony is that the most meaningful sources of happiness—family moments, per
 
 ## Long-Lasting Happiness is Not Expensive
 
-Let’s assume you own all the luxury items money can buy—sports cars, mansions, designer clothes. Even then, when you reach the end of your life, where will your true <a href="https://prashantkikani.com/blog/happy-life">happiness</a> come from? 
+Let’s assume you own all the luxury items money can buy—sports cars, mansions, designer clothes. Even then, when you reach the end of your life, where will your true <a href="https://prashantkikani.com/blog/happy-life" target="_blank">happiness</a> come from? 
 
 Most likely, it won’t be from those material possessions. It will come from watching your parents smile, seeing your kids grow, spending quality time with your spouse, or even just sitting peacefully with a cup of tea. 
 
@@ -74,8 +74,8 @@ However, they are rare. Most people who claim they "love making money" are actua
 
 ## The Ultimate Freedom: Defining Happiness on Your Own Terms
 
-True success is not measured by wealth, but by *inner peace*. Once you <a href="https://prashantkikani.com/blog/freedom">earn enough to sustain your life</a> and secure your future, the best thing you can do is focus on what truly makes you happy—spending time with loved ones, enjoying personal hobbies, and being at peace with yourself. 
+True success is not measured by wealth, but by *inner peace*. Once you <a href="https://prashantkikani.com/blog/freedom" target="_blank">earn enough to sustain your life</a> and secure your future, the best thing you can do is focus on what truly makes you happy—spending time with loved ones, enjoying personal hobbies, and being at peace with yourself. 
 
-If you don’t define happiness on your own terms, <a href="https://prashantkikani.com/blog/capitalism">society</a> will define it for you. And that definition is often a never-ending rat race that leads to burnout, anxiety, and emptiness. 
+If you don’t define happiness on your own terms, <a href="https://prashantkikani.com/blog/capitalism" target="_blank">society</a> will define it for you. And that definition is often a never-ending rat race that leads to burnout, anxiety, and emptiness. 
 
-**The real question is: Are you chasing happiness, or are you already living it?** What are your thoughts on this topic? Feel free to share them with me <a href="https://prashantkikani.com/contact">here</a>.
+**The real question is: Are you chasing happiness, or are you already living it?** What are your thoughts on this topic? Feel free to share them with me <a href="https://prashantkikani.com/contact" target="_blank">here</a>.

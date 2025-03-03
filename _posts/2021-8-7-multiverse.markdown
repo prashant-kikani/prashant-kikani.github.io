@@ -9,7 +9,7 @@ description: "The Multiverse concept can be real. According to Quantum Mechanics
 
 There are high chance that multiple realities do exist according to the theories of Quantum Mechanics. Let's explore the Multiverse concept in this post.
 
-This concept and the content of this post can be harder to grasp at first as it seems very counterintuitive to what we know about reality. But believe me, after a few attempts you will get it. Feel free to contact me <a href="https://prashantkikani.com/contact">here</a> in case you have any questions/doubts.
+This concept and the content of this post can be harder to grasp at first as it seems very counterintuitive to what we know about reality. But believe me, after a few attempts you will get it. Feel free to contact me <a href="https://prashantkikani.com/contact" target="_blank">here</a> in case you have any questions/doubts.
 
 And also it's worth mentioning that, my purpose of exploring all these multiverse-like concepts is to expand the horizon of our imagination and push forward the limits of our thinking. No one has experienced or seen the multiverse in real life, obviously. It's all just one of the possibilities at the end of the day. But, they are backed by some solid theories, it's not just bluffing. So, chances are not zero that the multiverse does exist.
 
