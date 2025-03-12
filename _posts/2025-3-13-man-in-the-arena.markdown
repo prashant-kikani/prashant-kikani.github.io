@@ -21,5 +21,4 @@ So, the next time you feel weighed down by criticism or self-doubt, remember thi
 
 Dare greatly. Step into the arena.
 
-<br>
 <center><img src="../assets/the_man_in_the_arena.jpg"/></center>
