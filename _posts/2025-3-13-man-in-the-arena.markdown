@@ -4,7 +4,7 @@ title: "The Man In the Arena"
 date:   2025-03-12 # yyyy-mm-dd
 keyword: The Man in the Arena, Theodore Roosevelt quote, Dare greatly, Overcoming failure, Criticism vs action, Success mindset, Entrepreneur motivation, Grit and perseverance, Leadership inspiration, Stepping into the arena
 permalink: "/blog/the-man-in-the-arena"
-description: "Theodore Roosevelt’s legendary \"The Man in the Arena\" quote is a powerful reminder that true success belongs to those who dare, fight, and persist—while the critics watch from the sidelines. Step into the arena and own your journey."
+description: "Theodore Roosevelt's legendary 'The Man in the Arena' quote is a powerful reminder that true success belongs to those who dare, fight, and persist—while the critics watch from the sidelines. Step into the arena and own your journey."
 ---
 
 In a world that loves to judge from the sidelines, Theodore Roosevelt’s words from his 1910 speech, "Citizenship in a Republic," hit harder than ever. The rawness of his message—the grit, the struggle, the relentless pursuit of something meaningful—resonates deeply with anyone who has ever dared to step into the arena of life.
