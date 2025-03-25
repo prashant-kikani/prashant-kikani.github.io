@@ -20,7 +20,7 @@ A thought from Mark Manson's famous book:
 little of what you say or do will ever matter. This is the Uncomfortable Truth of life.
 And everything you think or do is but an elaborate avoidance of it.
 We are inconsequential cosmic dust, bumping and milling about on a tiny blue speck. We imagine our own importance.
-<mark>We invent our purpose</mark> — we are nothing.
+<mark>We invent our purpose</mark> - we are nothing.
 
 So what? Should we all give up whatever we are doing as nothing matters anyway? Surely NO. Nihilism can sometimes make us question the meaning of life & our existence in this universe.
 

@@ -15,9 +15,9 @@ The desire to be liked isn’t inherently wrong, but when it starts shaping our 
 
 ## Why We Crave Approval
 
-Humans are inherently social creatures. From early evolution, being part of a tribe or group meant survival. This need for acceptance runs deep in our psychology. In the modern context, being liked or accepted by our peers doesn’t just fulfill an emotional need—it provides social capital, professional opportunities, and a sense of belonging.
+Humans are inherently social creatures. From early evolution, being part of a tribe or group meant survival. This need for acceptance runs deep in our psychology. In the modern context, being liked or accepted by our peers doesn’t just fulfill an emotional need-it provides social capital, professional opportunities, and a sense of belonging.
 
-But in a world of hyperconnectivity, where social media “likes” and external validation have become easy metrics of our worth, this natural inclination has taken on new forms. The pressure to present a "curated version" of ourselves—whether in person or online—often leads us to suppress our true thoughts and feelings in favor of what we think will make us more likable, cool, or popular.
+But in a world of hyperconnectivity, where social media “likes” and external validation have become easy metrics of our worth, this natural inclination has taken on new forms. The pressure to present a "curated version" of ourselves-whether in person or online-often leads us to suppress our true thoughts and feelings in favor of what we think will make us more likable, cool, or popular.
 
 <br/>
 
@@ -31,7 +31,7 @@ This curated persona can make you feel temporarily accepted, but it’s exhausti
 
 ## The Fear of Judgment
 
-One of the main reasons people suppress their true thoughts is the fear of judgment. We live in a world where differences in opinion can quickly lead to conflict, especially in professional or social settings. This fear of disagreement or rejection can cause many to play it safe—sticking to neutral or socially approved topics, avoiding anything that could be perceived as controversial or offensive.
+One of the main reasons people suppress their true thoughts is the fear of judgment. We live in a world where differences in opinion can quickly lead to conflict, especially in professional or social settings. This fear of disagreement or rejection can cause many to play it safe-sticking to neutral or socially approved topics, avoiding anything that could be perceived as controversial or offensive.
 
 But the question is: at what cost? While avoiding judgment might keep you in people’s good graces, it can also mean stifling your individuality and creativity. Over time, you start living a <a href="https://prashantkikani.com/blog/reel-life" target="_blank">life</a> based on other people's expectations, which leads to dissatisfaction and a loss of self-identity.
 
@@ -39,7 +39,7 @@ But the question is: at what cost? While avoiding judgment might keep you in peo
 
 ## Authenticity vs. Approval: The Trade-Off
 
-Being authentic often comes with a trade-off—you might lose some people’s approval. Not everyone will agree with your viewpoints, your choices, or your way of life. But here’s the thing: authenticity also attracts the right kind of people. When you express your true self—whether through your ideas, lifestyle, or personality—you draw in people who resonate with the real you. These are the relationships that tend to be deeper and more meaningful.
+Being authentic often comes with a trade-off-you might lose some people’s approval. Not everyone will agree with your viewpoints, your choices, or your way of life. But here’s the thing: authenticity also attracts the right kind of people. When you express your true self-whether through your ideas, lifestyle, or personality-you draw in people who resonate with the real you. These are the relationships that tend to be deeper and more meaningful.
 
 Conversely, living to please everyone means surrounding yourself with people who might not understand or appreciate the real you. The connections built on approval-seeking are often superficial and don't lead to true fulfillment.
 
@@ -47,7 +47,7 @@ Conversely, living to please everyone means surrounding yourself with people who
 
 ## The Pressure to Be Perfect
 
-The world we live in places immense pressure on us to project perfection—whether it’s success, wealth, beauty, or intelligence. We feel the need to show a polished version of ourselves, carefully concealing any flaws, vulnerabilities, or unpopular opinions.
+The world we live in places immense pressure on us to project perfection-whether it’s success, wealth, beauty, or intelligence. We feel the need to show a polished version of ourselves, carefully concealing any flaws, vulnerabilities, or unpopular opinions.
 
 But this facade of perfection can be draining. Vulnerability and imperfection are, in fact, what make us human. They foster trust, connection, and empathy in our relationships. By allowing ourselves to be imperfect, we show that we’re relatable and real, which often earns more genuine respect than trying to appear flawless.
 
@@ -66,7 +66,7 @@ Humble authenticity involves:
 
 ## Why Authenticity Wins in the Long Run
 
-Acting to be liked may give you short-term rewards, such as social approval or fitting in. But living authentically provides long-term fulfillment. The connections you form will be deeper because they’re based on who you really are, not the version of yourself you think others want to see. You’ll find greater satisfaction in knowing that the people around you genuinely accept you for you—not for some manufactured persona.
+Acting to be liked may give you short-term rewards, such as social approval or fitting in. But living authentically provides long-term fulfillment. The connections you form will be deeper because they’re based on who you really are, not the version of yourself you think others want to see. You’ll find greater satisfaction in knowing that the people around you genuinely accept you for you-not for some manufactured persona.
 
 <br/>
 
@@ -74,7 +74,7 @@ Acting to be liked may give you short-term rewards, such as social approval or f
 
 At the end of the day, here’s what I think: As long as you remain genuinely humble, speak with calmness, and show respect to others, you can <a href="https://prashantkikani.com/blog/freedom-vs-equality" target="_blank">freely</a> express your true thoughts. True humility is about confidence without arrogance - being able to speak your truth without needing to dominate or belittle others.
 
-You don’t need to shout your opinions from the rooftops or force people to agree with you. But you also don’t need to suppress your thoughts just to be liked. It’s possible to balance being yourself while showing kindness and respect to others. That’s where true confidence lies—not in seeking approval, but in knowing that your voice matters, whether or not everyone agrees.
+You don’t need to shout your opinions from the rooftops or force people to agree with you. But you also don’t need to suppress your thoughts just to be liked. It’s possible to balance being yourself while showing kindness and respect to others. That’s where true confidence lies-not in seeking approval, but in knowing that your voice matters, whether or not everyone agrees.
 
 <br/>
 
