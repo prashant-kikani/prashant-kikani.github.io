@@ -15,7 +15,7 @@ This raises an important question: *If happiness is internal, why do so many peo
 
 ## The Facade of Happiness vs. The Reality Within
 
-In today's world, it’s easier than ever to create a <a href="https://prashantkikani.com/blog/reel-life" target="_blank" target="_blank">fake sense of happiness</a>. A well-curated Instagram feed, a new car, or an expensive vacation can make it seem like someone is living their best life. But behind the scenes, they may be battling stress, loneliness, or dissatisfaction. Even the closest people-spouses, parents, or best friends-often have no idea what someone is truly feeling inside. 
+In today's world, it’s easier than ever to create a <a href="https://prashantkikani.com/blog/reel-life" target="_blank">fake sense of happiness</a>. A well-curated Instagram feed, a new car, or an expensive vacation can make it seem like someone is living their best life. But behind the scenes, they may be battling stress, loneliness, or dissatisfaction. Even the closest people-spouses, parents, or best friends-often have no idea what someone is truly feeling inside. 
 
 This shows that happiness is deeply personal. It cannot be judged by material possessions, social presence, or <a href="https://prashantkikani.com/blog/desire-to-be-liked" target="_blank">external</a> perception. 
 

@@ -57,7 +57,7 @@ Meaning, you need to be at the right time. Right timing is one of the most criti
 If the iPhone or Android would have come in the 1990s, possibly it would not have become this much big, because of less awareness about the internet, technology and less penetration of the internet.
 Same thing for social media like Facebook, WhatsApp & Instagram. They were at the right time when the stage was set for them to build massive buildings.
 
-Now, that's not to say, they just got lucky. Absolutely not. They have poured their blood, sweat & tears into their companies and products to make them successful.
+Now, that's not to say, they just got <a href="https://prashantkikani.com/blog/luck" target="_blank">lucky</a>. Absolutely not. They have poured their blood, sweat & tears into their companies and products to make them successful.
 But if they were in the wrong timing, chances were not that high to make the thing fly.
 
 Today's majority of the top 50 or top 100 richest people in the world are self-made by riding this new technological wave.

@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Luck"
+date:   2025-04-28 # yyyy-mm-dd
+keyword: luck, success vs luck, role of luck in success, luck vs hard work, how luck affects success, luck and success stories, survivor bias in success, does hard work guarantee success, importance of luck in life
+permalink: "/blog/luck"
+description: "Is success the result of hard work, or is luck the real game-changer? In this blog, we explore how luck — from birth circumstances to random opportunities — plays a critical role in determining who rises to the top, even among the most talented and hardworking."
+---
+
+Is success the result of hard work, or is luck the real game-changer? We celebrate success, attributing it to talent, grit, and relentless hard work. But what if a powerful, often invisible force plays just as crucial a role? Today, let's explore the profound and often underestimated impact of pure, simple luck on the trajectory of our lives.
+
+<br/>
+
+## The Lottery We Didn't Enter
+
+Before we take our first breath, luck is already dealing the cards. Consider the "birth lottery": the country you're born into, the <a href="https://prashantkikani.com/blog/money" target="_blank">socioeconomic</a> status of your family, the era you arrive in, your baseline health, even your innate genetic predispositions. These aren't earned; they are bestowed by chance. This initial hand dramatically influences the opportunities available, the resources accessible, and the challenges faced throughout life. It's the uneven starting line we rarely discuss.
+
+Being born into a stable, financially secure family in a developed country is a massive invisible lottery win compared to someone born into poverty in a war-torn region. This starting point advantage or disadvantage shapes the whole trajectory of life.
+
+People we meet in school, college, and our professional careers shape our lives drastically. You might meet your co-founder in college, and without them, you might never start the company. Or you might meet your spouse at the company where you work, and it just turns out to be perfect for you. You never know when the god of "luck" will intervene — introducing you to the right person at the right time, setting off a chain reaction that changes your life forever.
+
+<br/>
+
+## When Skill Meets Chance: The Illusion of Pure Merit
+
+"But surely hard work and talent count!" you might say. And they absolutely do. They are essential. However, especially in highly competitive arenas, they might not be *enough*.
+
+Let's imagine a selection process, like NASA choosing astronauts. We <a href="https://prashantkikani.com/blog/challenge-assumptions" target="_blank">assume</a> it's mostly about skill, experience, and dedication – say 95%. But let's factor in just 5% for "luck" – fortunate circumstances, hitting peak performance on the right day, a selection panel member happening to value a specific niche experience you possess.
+
+If you simulate this (as researchers have), randomly assigning skill and luck scores (weighted 95/5) to applicants and selecting the top candidates, a fascinating picture emerges. Repeating this simulation thousands of times reveals that the selected candidates are, on average, *extremely* lucky (scoring perhaps 95/100 on the luck metric!). More strikingly, if you looked at who *would* have been selected based on skill alone (the 95%), you'd find that maybe only one or two of the *actual* chosen group would still make the cut. Even with luck being just 5% of the equation, it fundamentally changed the outcome for the vast majority of those selected.
+
+This isn't just astronauts. Think about elite university admissions, C-suite executives, highly successful artists, or top athletes. The pool of applicants is often filled with incredibly talented, hardworking individuals. Skill and effort get them to the final round, but the differentiating factor among these qualified contenders can often boil down to luck – the right connection, the perfect timing, a competitor's stumble.
+
+<br/>
+
+## The Blind Spot of Success: Survivor Bias and Hindsight
+
+Why don't we talk about this more? Part of it is human psychology. Those who succeed – the *survivors* – naturally tend to emphasize the factors they controlled: their hard work, their smart decisions, their perseverance. Their own experience tells them the world rewards these things, because, well, it rewarded *them*. This creates a "survivor bias." They don't see the countless others who worked just as hard, were just as talented, but didn't get the lucky break.
+
+Hindsight bias also plays a role. Looking back, lucky breaks often get reframed as inevitable outcomes of brilliant strategy. We construct neat narratives where success was always destined, smoothing over the messy, uncertain reality and the chance events that paved the way. This skewed perspective can lead successful individuals, especially those in positions of power, to believe the world is inherently <a href="https://prashantkikani.com/blog/unfairness" target="_blank">fairer</a> than it is, potentially underestimating the struggles of others less fortunate.
+
+<br/>
+
+## Why Acknowledging Luck Matters: Humility, Empathy, and Fairness
+
+Recognizing the role of luck isn't about diminishing achievement. It's about adding perspective.
+
+1.  **Humility:** It fosters humility about our own successes, acknowledging the external factors that contributed.
+2.  **Gratitude:** It encourages gratitude for the fortunate circumstances we may have benefited from.
+3.  **Empathy:** It builds empathy for others, understanding that lack of success isn't always due to lack of effort or talent, but sometimes just bad luck.
+4.  **Fairness:** It challenges the myth of a pure meritocracy and pushes us to think about creating systems that account for luck's uneven distribution – perhaps through stronger social safety nets or policies that level the playing field.
+
+<br/>
+
+## Playing the Hand You're Dealt (Without Giving Up)
+
+So, if luck plays such a big role, should we just give up? Absolutely not. Acknowledging luck *isn't* fatalism. While we can't control random chance, we *can* control our preparation and effort. Think of it like Louis Pasteur's famous saying: "Chance favors the prepared mind."
+
+You can increase your "surface area" for good luck by learning, networking, trying new things, and being persistent. Putting in the work makes you ready to recognize and seize opportunities when they arise. Resilience helps you weather the inevitable storms of bad luck. Focusing on the process – the effort, the learning, the integrity – provides fulfillment regardless of whether the outcome lottery falls in your favor this time.
+
+Luck is undeniably a powerful, often invisible, current in the river of life. Recognizing its pull allows for a more realistic, humble, and empathetic view of ourselves and others. It reminds us that while we strive and toil, unseen forces are also at play.
+
+> *Hard work is how you buy a ticket to the game. Luck is how you win it.*
+
+What are your thoughts on this topic? Feel free to share them with me <a href="https://prashantkikani.com/contact" target="_blank">here</a>.

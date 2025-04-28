@@ -25,7 +25,7 @@ Depressing? Not really. It's just a perspective-a lens through which we can view
 
 ### **2. Forgetfulness Across Generations**
 
-Here's another reality check: even if you make a lasting impact on the world, how long will people actually remember? Think about your great-great-grandparents. Do you know their names? Their professions? How they spent their days? Most of us don't. We are lucky if we can recall a few fragments of their lives, let alone any meaningful details.
+Here's another reality check: even if you make a lasting impact on the world, how long will people actually remember? Think about your great-great-grandparents. Do you know their names? Their professions? How they spent their days? Most of us don't. We are <a href="https://prashantkikani.com/blog/luck" target="_blank">lucky</a> if we can recall a few fragments of their lives, let alone any meaningful details.
 
 This is the fate of most humans, and not just us regular folk. Statistically speaking, even if you are the rare person who becomes wildly successful in your career-an entrepreneur, a scientist, a leader-your impact on the world may fade sooner than you think. Few people will make a mark so profound that their names are etched into history, and even fewer will live long enough to see the full, positive impact of their work.
 
