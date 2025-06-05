@@ -59,7 +59,7 @@ Doing ML alone can resist your growth. Because you never know what this concept 
 
 You can also follow YouTube channels of [Sanyam](https://www.youtube.com/channel/UCRjtBP-o5FbgRzX2BHQEFtQ) & [Abhishek](https://www.youtube.com/c/AbhishekThakurAbhi/) for interesting interviews.
 
-Also, keep visiting <a rel="nofollow" target="_blank" href="https://towardsdatascience.com/">Towards Data Science</a>, <a rel="nofollow" target="_blank" href="https://hackernoon.com/">Hacker Noon</a>, <a rel="nofollow" target="_blank" href="https://becominghuman.ai/">Becoming Human</a> like websites regularly. All these blog sites have plenty of great blogs written by ML professionals. Also use Twitter wisely. Follow some great professionals there and never be late to catch new things.
+Also, keep visiting <a rel="nofollow" target="_blank" href="https://towardsdatascience.com/">Towards Data Science</a>, <a rel="nofollow" target="_blank" href="https://hackernoon.com/">Hacker Noon</a>, <a rel="nofollow" target="_blank" href="https://becominghuman.ai/">Becoming Human</a> like websites regularly. All these blog sites have plenty of great blogs written by ML professionals. Also use X / Twitter wisely. Follow some great professionals there and never be late to catch new things.
 
 > At last, One important thing. Don’t expect results quickly. I have been doing ML for 7 months now. And I don’t know many many concepts of ML (<b>knowing what you don’t know is also an important thing</b>). You can’t expect to understand and implement all the concepts in half a year.. Things will be understood as the time goes. Don’t compare yourself with anyone. Just be the best version of yourself. Everyone is unique.
 
