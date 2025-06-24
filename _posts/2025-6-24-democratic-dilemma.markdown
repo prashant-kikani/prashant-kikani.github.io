@@ -23,7 +23,7 @@ This creates a simple, transactional relationship: votes are exchanged for gover
 
 <br/>
 
-## Section 2: When Textbook Economics Meets Political Reality
+## When Textbook Economics Meets Political Reality
 
 Classic economic theory presents several constraints that should, in principle, limit this endless cycle of redistribution. However, as we see on the ground, these theoretical limits often fail to hold up against political cynicism and the slow grind of reality.
 
@@ -35,7 +35,7 @@ Theory also suggests that if a country becomes too anti-business, capital and ta
 
 <br/>
 
-## Section 3: The Birth of the Crony Welfare State
+## The Birth of the Crony Welfare State
 
 When a government's primary focus shifts to winning elections through handouts, a great trade-off occurs. The very definition of "governance" begins to change, creating a new and dangerous kind of system.
 
@@ -51,7 +51,7 @@ This system isn't an attack on the wealthy; it's a partnership with a select few
 
 <br/>
 
-## Section 4: The Performance of Power: Manufacturing Consent
+## The Performance of Power: Manufacturing Consent
 
 This entire political-economic system is held together by a carefully constructed psychological performance. The goal is to transform the leader from a "public servant" into a revered "Big Boss," making the public accept and even celebrate their own subjugation.
 
