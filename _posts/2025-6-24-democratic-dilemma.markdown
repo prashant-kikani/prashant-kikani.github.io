@@ -15,10 +15,10 @@ This isn't a fringe theory. It’s a lived reality in many developing nations, w
 
 ## The Unavoidable Logic of the Ballot Box
 
-**The Gravity of the Median Voter**
+**The Gravity of the Median Voter**<br/>
 In any democracy, victory requires a majority. In a country with high income inequality, the *median voter*—the person exactly in the middle of the income distribution—will always earn less than the *average* income. Rationally, this voter will favor policies that redistribute wealth downwards. To win their vote, politicians are powerfully incentivized to promise subsidies, cash transfers, and welfare schemes.
 
-**The Political Marketplace**
+**The Political Marketplace**<br/>
 This creates a simple, transactional relationship: votes are exchanged for government benefits. Political scientists call this Public Choice Theory. It <a href="https://prashantkikani.com/blog/challenge-assumptions" target="_blank">assumes</a> politicians are rational actors seeking to maximize their power (votes), and voters are rational actors seeking to maximize their own economic utility. The result is a political landscape dominated by populist promises of direct financial support.
 
 <br/>
@@ -39,7 +39,7 @@ Theory also suggests that if a country becomes too anti-business, capital and ta
 
 When a government's primary focus shifts to winning elections through handouts, a great trade-off occurs. The very definition of "governance" begins to change, creating a new and dangerous kind of system.
 
-**The Shift from Public Goods to Private Handouts**
+**The Shift from Public Goods to Private Handouts**<br/>
 A government has two choices for spending tax money:
 *   **Long-term Public Goods:** Building good roads, ensuring clean air, funding quality schools, and creating robust infrastructure. These are expensive and benefit everyone, including those who didn't vote for you.
 *   **Short-term Private Handouts:** A direct cash transfer, a subsidized utility bill, or a loan waiver. These are *electorally efficient*. They create a direct, tangible benefit that a voter can attribute to one leader, fostering direct loyalty.
