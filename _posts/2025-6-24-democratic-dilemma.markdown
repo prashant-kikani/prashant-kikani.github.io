@@ -7,9 +7,9 @@ permalink: "/blog/democratic-dilemma"
 description: "This article explores how the democratic need for votes in highly unequal countries often bypasses true social welfare, instead creating a \"crony welfare state\" built on targeted handouts, the performance of power, and a managed decline of public good."
 ---
 
-Does democracy, the system designed to empower the people, almost always lead to an economy that feels socialist in practice? This is not about the textbook socialism of state-owned factories, but a modern reality: a nation that is capitalist on paper, yet where the government’s primary role becomes the mass distribution of "freebies" in a perpetual campaign for votes.
+Does democracy, the system designed to empower the people, almost always lead to an economy that feels socialist in practice? This is not about the textbook socialism of state-owned factories, but a modern reality: a nation that is capitalist on paper, yet where the government's primary role becomes the mass distribution of "freebies" in a perpetual campaign for votes.
 
-This isn't a fringe theory. It’s a lived reality in many developing nations, where high inequality creates a fertile ground for this cycle. Let's dissect this phenomenon, moving from the simple logic of the ballot box to the complex theater of power that holds it all together.
+This isn't a fringe theory. It's a lived reality in many developing nations, where high inequality creates a fertile ground for this cycle. Let's dissect this phenomenon, moving from the simple logic of the ballot box to the complex theater of power that holds it all together.
 
 <br/>
 
@@ -29,6 +29,9 @@ Classic economic theory presents several constraints that should, in principle, 
 
 **The "Economic Constraint" Becomes a Slow-Boiling Frog**<br/>
 The theory states that governments can't just print <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> or accumulate debt forever to fund handouts without triggering hyperinflation or a debt crisis. But in reality, this day of reckoning can be pushed off for decades. The consequences, like moderate <a href="https://prashantkikani.com/blog/inflation" target="_blank">inflation</a> or currency devaluation, are a slow burn. The public becomes "normalized" to this gradual decline, accepting it as the new standard.
+
+This meme perfectly illustrates this dynamic of collective denial, where obvious problems are ignored, and those who point them out are told to leave the country!
+<center><img src="../assets/political_meme.jpeg"/></center>
 
 **Brain Drain: The Silent, Invisible Tax**<br/>
 Theory also suggests that if a country becomes too anti-business, capital and talent will flee. While this "brain drain" is a catastrophic long-term loss, it's politically  <a href="https://prashantkikani.com/blog/opportunity-cost" target="_blank">cost</a>-free in the short term. It's a slow, diffuse bleed that doesn't appear on a budget. Worse, a clever political machine can rebrand this loss as a source of national pride—celebrating "Indian-origin CEOs" leading global companies, while ignoring the fact they had to leave to succeed.
