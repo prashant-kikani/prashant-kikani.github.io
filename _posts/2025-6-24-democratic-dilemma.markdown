@@ -27,10 +27,10 @@ This creates a simple, transactional relationship: votes are exchanged for gover
 
 Classic economic theory presents several constraints that should, in principle, limit this endless cycle of redistribution. However, as we see on the ground, these theoretical limits often fail to hold up against political cynicism and the slow grind of reality.
 
-**The "Economic Constraint" Becomes a Slow-Boiling Frog**
+**The "Economic Constraint" Becomes a Slow-Boiling Frog**<br/>
 The theory states that governments can't just print <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> or accumulate debt forever to fund handouts without triggering hyperinflation or a debt crisis. But in reality, this day of reckoning can be pushed off for decades. The consequences, like moderate <a href="https://prashantkikani.com/blog/inflation" target="_blank">inflation</a> or currency devaluation, are a slow burn. The public becomes "normalized" to this gradual decline, accepting it as the new standard.
 
-**Brain Drain: The Silent, Invisible Tax**
+**Brain Drain: The Silent, Invisible Tax**<br/>
 Theory also suggests that if a country becomes too anti-business, capital and talent will flee. While this "brain drain" is a catastrophic long-term loss, it's politically  <a href="https://prashantkikani.com/blog/opportunity-cost" target="_blank">cost</a>-free in the short term. It's a slow, diffuse bleed that doesn't appear on a budget. Worse, a clever political machine can rebrand this loss as a source of national pride—celebrating "Indian-origin CEOs" leading global companies, while ignoring the fact they had to leave to succeed.
 
 <br/>
@@ -46,7 +46,7 @@ A government has two choices for spending tax money:
 
 A rational politician seeking re-election will always be tempted to defund the former to pay for the latter. The result is the paradox we see today: citizens receiving government cash while stuck in traffic on crumbling roads, breathing polluted air.
 
-**The Symbiosis of Populism and Crony Capitalism**
+**The Symbiosis of Populism and Crony Capitalism**<br/>
 This system isn't an attack on the wealthy; it's a partnership with a select few. The populist leader needs vast sums of money to fund election campaigns and propaganda. In return, a small circle of crony <a href="https://prashantkikani.com/blog/capitalism" target="_blank">capitalists</a> receives favorable government policies: licenses, tax breaks, and protection from competition. This unholy alliance prevents capital flight and concentrates wealth in the hands of those loyal to the regime.
 
 <br/>
@@ -55,13 +55,13 @@ This system isn't an attack on the wealthy; it's a partnership with a select few
 
 This entire political-economic system is held together by a carefully constructed psychological performance. The goal is to transform the leader from a "public servant" into a revered "Big Boss," making the public accept and even celebrate their own subjugation.
 
-**1. The Illusion of the Personal Gift**
+**1. The Illusion of the Personal Gift**<br/>
 When a leader announces a development package worth billions, it is framed as a personal act of generosity, a "gift" from them to the people. This masterfully reframes the social contract. Citizens no longer feel entitled to services paid for by their taxes; instead, they feel a sense of personal gratitude to the leader who has "blessed" them, turning them from citizens into loyal subjects.
 
-**2. The Aesthetics of Dominance**
+**2. The Aesthetics of Dominance**<br/>
 Massive motorcades of 15-20 luxury cars that shut down roads for hours, forcing even ambulances to wait, are not about security. They are a non-verbal display of pure dominance. The message is clear: "My time is more valuable than your life. The state serves me, not you." This public spectacle instills awe and reinforces the leader's image as a figure far above the common person.
 
-**3. Politics as the Ultimate Spoils System**
+**3. Politics as the Ultimate Spoils System**<br/>
 When the public sees politicians enriching their families for generations within a single term, a corrosive cynicism sets in. It normalizes corruption. More dangerously, it transforms politics into the most lucrative business venture available. This ensures that the system is continually populated by those motivated by self-enrichment, not public service, guaranteeing the cycle of cronyism continues.
 
 <br/>
