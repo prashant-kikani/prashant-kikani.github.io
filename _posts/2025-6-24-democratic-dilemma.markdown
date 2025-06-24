@@ -32,6 +32,7 @@ The theory states that governments can't just print <a href="https://prashantkik
 
 This meme perfectly illustrates this dynamic of collective denial, where obvious problems are ignored, and those who point them out are told to leave the country!
 <center><img src="../assets/political_meme.jpeg"/></center>
+<br/>
 
 **Brain Drain: The Silent, Invisible Tax**<br/>
 Theory also suggests that if a country becomes too anti-business, capital and talent will flee. While this "brain drain" is a catastrophic long-term loss, it's politically  <a href="https://prashantkikani.com/blog/opportunity-cost" target="_blank">cost</a>-free in the short term. It's a slow, diffuse bleed that doesn't appear on a budget. Worse, a clever political machine can rebrand this loss as a source of national pride—celebrating "Indian-origin CEOs" leading global companies, while ignoring the fact they had to leave to succeed.
