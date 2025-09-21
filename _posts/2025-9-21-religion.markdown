@@ -7,9 +7,9 @@ permalink: "/blog/religion"
 description: "This article explores why religion is such a powerful and universal human phenomenon, examining its role as both a source of personal comfort and a tool for societal order. We delve into its psychological benefits, historical downsides, and question whether belief is becoming obsolete or simply evolving for the modern age."
 ---
 
-From the earliest cave paintings to the towering cathedrals of the modern world, one thread runs through nearly every human civilization: the belief in a higher power. It's a phenomenon so universal that it begs a fundamental question—why? Why do we, as a species, feel this profound need to believe in something beyond the tangible world, often in the absence of scientific proof?
+From the earliest cave paintings to the towering cathedrals of the modern world, one thread runs through nearly every human civilization: the belief in a higher power. It's a phenomenon so universal that it begs a fundamental question - why? Why do we, as a species, feel this profound need to believe in something beyond the tangible world, often in the absence of scientific proof?
 
-Recently, I was thinking about my own relationship with faith. In the toughest moments of my life, the simple act of prayer—of believing that a higher power is listening and has a plan—offers an undeniable sense of peace. It feels like setting down a heavy burden. This isn't a unique experience; it's a comfort felt by billions.
+Recently, I was thinking about my own relationship with faith. In the toughest moments of my life, the simple act of prayer - of believing that a higher power is listening and has a plan - offers an undeniable sense of peace. It feels like setting down a heavy burden. This isn't a unique experience; it's a comfort felt by billions.
 
 But is that all religion is? A psychological comfort blanket? Or is it something more? Let's explore the powerful roles religion plays, for better and for worse.
 
@@ -24,7 +24,7 @@ When faced with illness, loss, or uncertainty, we feel powerless. The belief tha
 2.  **It Answers the Unanswerable:**<br/>
 Every human grapples with the big existential questions: *Where did we come from? What is our purpose? What happens when we die?* Religion provides a complete, pre-packaged set of answers. These narratives of creation, purpose, and afterlife provide a stable framework in a confusing universe.
 3.  **It Fosters Community:**<br/>
-In times of hardship, the religious community—the church, mosque, temple, or sangha—provides a social support network that is difficult to replicate, offering a powerful sense of belonging.
+In times of hardship, the religious community i.e. the church, mosque, temple, or sangha provides a social support network that is difficult to replicate, offering a powerful sense of belonging.
 
 <br/>
 
@@ -60,7 +60,7 @@ Because religious doctrines are often considered sacred and unchanging, they can
 
 This brings us to the modern world. If religion served as a kind of operating system for early, less-educated societies, do we still need it now? In developed nations with robust legal systems, scientific institutions, and widespread education, it seems many of religion's original functions have been outsourced. We have secular laws for morality and science for explaining the universe.
 
-This line of thinking is known as the **Secularization Thesis**—the idea that as societies modernize, religion will inevitably fade away. And in many parts of Western Europe, we see evidence of this.
+This line of thinking is known as the **Secularization Thesis** - the idea that as societies modernize, religion will inevitably fade away. And in many parts of Western Europe, we see evidence of this.
 
 But the story isn't that simple.
 

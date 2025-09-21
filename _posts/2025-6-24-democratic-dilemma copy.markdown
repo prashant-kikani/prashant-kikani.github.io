@@ -16,7 +16,7 @@ This isn't a fringe theory. It's a lived reality in many developing nations, whe
 ## The Unavoidable Logic of the Ballot Box
 
 **The Gravity of the Median Voter**<br/>
-In any democracy, victory requires a majority. In a country with high income inequality, the *median voter*—the person exactly in the middle of the income distribution—will always earn less than the *average* income. Rationally, this voter will favor policies that redistribute wealth downwards. To win their vote, politicians are powerfully incentivized to promise subsidies, cash transfers, and welfare schemes.
+In any democracy, victory requires a majority. In a country with high income inequality, the *median voter* - the person exactly in the middle of the income distribution - will always earn less than the *average* income. Rationally, this voter will favor policies that redistribute wealth downwards. To win their vote, politicians are powerfully incentivized to promise subsidies, cash transfers, and welfare schemes.
 
 **The Political Marketplace**<br/>
 This creates a simple, transactional relationship: votes are exchanged for government benefits. Political scientists call this Public Choice Theory. It <a href="https://prashantkikani.com/blog/challenge-assumptions" target="_blank">assumes</a> politicians are rational actors seeking to maximize their power (votes), and voters are rational actors seeking to maximize their own economic utility. The result is a political landscape dominated by populist promises of direct financial support.
@@ -35,7 +35,7 @@ This meme perfectly illustrates this dynamic of collective denial, where obvious
 <br/>
 
 **Brain Drain: The Silent, Invisible Tax**<br/>
-Theory also suggests that if a country becomes too anti-business, capital and talent will flee. While this "brain drain" is a catastrophic long-term loss, it's politically  <a href="https://prashantkikani.com/blog/opportunity-cost" target="_blank">cost</a>-free in the short term. It's a slow, diffuse bleed that doesn't appear on a budget. Worse, a clever political machine can rebrand this loss as a source of national pride—celebrating "Indian-origin CEOs" leading global companies, while ignoring the fact they had to leave to succeed.
+Theory also suggests that if a country becomes too anti-business, capital and talent will flee. While this "brain drain" is a catastrophic long-term loss, it's politically  <a href="https://prashantkikani.com/blog/opportunity-cost" target="_blank">cost</a>-free in the short term. It's a slow, diffuse bleed that doesn't appear on a budget. Worse, a clever political machine can rebrand this loss as a source of national pride - celebrating "Indian-origin CEOs" leading global companies, while ignoring the fact they had to leave to succeed.
 
 <br/>
 
@@ -80,4 +80,4 @@ This system is built on a foundation of:
 *   **Managed Decline:** Public infrastructure and services are allowed to decay, as the public is placated with direct benefits.
 *   **The Cult of Personality:** A powerful leader is portrayed as a god-like savior, above the law and the people.
 
-This entire structure is then glued together with the powerful adhesive of **nationalist propaganda**, which distracts from domestic failures by creating external enemies. This is the great challenge of our time—a slow, creeping erosion of public good and civic norms, normalized one election cycle at a time.
+This entire structure is then glued together with the powerful adhesive of **nationalist propaganda**, which distracts from domestic failures by creating external enemies. This is the great challenge of our time - a slow, creeping erosion of public good and civic norms, normalized one election cycle at a time.
