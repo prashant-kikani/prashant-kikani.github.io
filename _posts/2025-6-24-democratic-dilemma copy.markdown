@@ -50,7 +50,7 @@ Classic economic theory presents several constraints that should, in principle, 
 The theory states that governments can't just print <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> or accumulate debt forever to fund handouts without triggering hyperinflation or a debt crisis. But in reality, this day of reckoning can be pushed off for decades. The consequences, like moderate <a href="https://prashantkikani.com/blog/inflation" target="_blank">inflation</a> or currency devaluation, are a slow burn. The public becomes "normalized" to this gradual decline, accepting it as the new standard.
 
 This meme perfectly illustrates this dynamic of collective denial, where obvious problems are ignored, and those who point them out are told to leave the country!
-<center><img src="../assets/political_meme.jpeg"/></center>
+<center><img src="../assets/political_meme.jpeg" width="60%"/></center>
 <br/>
 
 **Brain Drain: The Silent, Invisible Tax**<br/>
