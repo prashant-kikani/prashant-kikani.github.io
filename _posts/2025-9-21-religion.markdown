@@ -35,7 +35,7 @@ Looking back at history, it's easy to wonder if some intelligent leaders "invent
 Imagine trying to build a city thousands of years ago. How do you get thousands of strangers, mostly illiterate, to trust each other, follow the same rules, and cooperate on a massive scale? You give them a shared myth. Religion was that myth.
 
 *   **The "Supernatural Policeman":**<br/>
-The idea of an all-seeing, all-knowing deity is a remarkably effective tool for enforcing morality. If you believe God is always watching, you are more likely to behave honestly even when no human authority is present. The cosmic justice of heaven, hell, or karma ensures that actions always have consequences.
+The idea of an all-seeing, all-knowing deity is a remarkably effective tool for enforcing morality. If you believe <a href="https://prashantkikani.com/blog/god" target="_blank">God</a> is always watching, you are more likely to behave honestly even when no human authority is present. The cosmic justice of heaven, hell, or karma ensures that actions always have consequences.
 *   **A Codified Moral Framework:**<br/>
 Religious texts provide clear, simple rules for living. For a population without widespread literacy or complex legal philosophy, a command like "Thou shalt not steal" is a powerful and easy-to-remember moral cornerstone. It binds everyone to the same code of conduct, making society more stable and predictable.
 
@@ -48,7 +48,7 @@ In this sense, societies that adopted a unifying belief system were likely more 
 Of course, the same power that binds people together can also be used to tear them apart. Acknowledging the benefits of religion requires us to be honest about its dark side.
 
 *   **Exploitation:**<br/>
-Throughout history, people's "blind faith" has been exploited by corrupt leaders for power, wealth, and control.
+Throughout history, people's "<a href="https://prashantkikani.com/blog/god-of-the-gaps" target="_blank">blind faith</a>" has been exploited by corrupt leaders for power, wealth, and control.
 *   **"Us vs. Them" Tribalism:**<br/>
 The strong in-group identity that religion fosters can create a dangerous out-group mentality. This has been the justification for countless wars, persecutions, and atrocities.
 *   **Resistance to Progress:**<br/>

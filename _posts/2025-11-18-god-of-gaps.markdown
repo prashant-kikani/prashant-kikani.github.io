@@ -61,7 +61,7 @@ Here's the fascinating twist: many sophisticated modern theologians *also* rejec
 
 2.  **God as the "Ground of Being":** In this more profound view, God is not one cause *among* other causes (like gravity or evolution). Instead, God is the fundamental reason *why there is a universe with consistent laws at all*. The question isn't just "Who created the Big Bang?" but "Why is there a universe that follows the laws of physics instead of nothing at all?" Science explains the "how"; God explains the "why."
 
-3.  **Non-Overlapping Magisteria (NOMA):** Proposed by Stephen Jay Gould, this idea suggests science and religion operate in different domains. Science deals with the empirical realm (facts and theories about the natural world). Religion deals with questions of ultimate meaning, morality, and value. Using God to explain a scientific mystery is like using a ruler to measure temperature—it’s the wrong tool for the job.
+3.  **Non-Overlapping Magisteria (NOMA):** Proposed by Stephen Jay Gould, this idea suggests science and religion operate in different domains. Science deals with the empirical realm (facts and theories about the natural world). <a href="https://prashantkikani.com/blog/religion" target="_blank">Religion</a> deals with questions of ultimate meaning, morality, and value. Using God to explain a scientific mystery is like using a ruler to measure temperature—it’s the wrong tool for the job.
 
 <br/>
 
