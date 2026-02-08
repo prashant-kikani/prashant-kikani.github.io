@@ -20,7 +20,7 @@ Here is the scientific story of the "miracles" that allowed you to be here today
 ## 1. The Physics "Glitch": The One-in-a-Billion Survivor
 The first hurdle wasn't biological; it was fundamental physics.
 
-13.8 billion years ago, the Big Bang occurred. As the universe cooled, pure energy transformed into matter ($E=mc^2$). But there is a catch: Physics demands balance.
+13.8 billion years ago, the Big Bang occurred. As the universe cooled, pure energy transformed into matter (E=mc^2). But there is a catch: Physics demands balance.
 *   For every particle of **Matter** (electron, quark) created...
 *   A particle of **Antimatter** (positron, antiquark) should also be created.
 
