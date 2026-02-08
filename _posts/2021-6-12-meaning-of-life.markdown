@@ -52,7 +52,7 @@ There is a concept called "[Hedonic Adaptation](https://en.wikipedia.org/wiki/He
 <center><img src="../assets/hedonic_adaptation.png"/></center> 
 <br/>
 
-In other words, there’s no one thing that will keep you happy forever. You will come to a normal level of happiness as the time goes. Eventually, you will get used to it and need something different.
+In other words, there's no one thing that will keep you happy forever. You will come to a normal level of happiness as the time goes. Eventually, you will get used to it and need something different.
 
 We take things for granted as the time goes, that's how the human brain is wired. <b>Gratitude</b> is a solution for that. Meaning, to be truly thankful for what we have.
 

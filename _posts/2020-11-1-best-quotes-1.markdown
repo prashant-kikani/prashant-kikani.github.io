@@ -96,7 +96,7 @@ When something is "rare" or hard to earn, then only it has value. No matter what
 
 10.
 
-> "When one door of happiness closes, another opens. But often we look so long at the closed door, that we don’t see the one which has been opened for us." -Helen Keller
+> "When one door of happiness closes, another opens. But often we look so long at the closed door, that we don't see the one which has been opened for us." -Helen Keller
 
 For Helen, doors of eye-sight & hearing sense were closed right in her childhood. But, this made her sense of <b>touch</b> more powerful than an average human.
 She didn't just sit there crying for what she didn't have, she successfully learned speaking & hearing even after her disabilities.  
@@ -105,7 +105,7 @@ She didn't just sit there crying for what she didn't have, she successfully lear
 
 11.
 
-> "The man who says he can, and the man who says he can’t are both correct." -Confucius
+> "The man who says he can, and the man who says he can't are both correct." -Confucius
 
 In most cases, whatever we believe, will happen. If we believe that we can do something & try our best for long enough, it'll happen.
 But if we our-self don't believe that we can do it, we will not put our best & that task will not happen. 
@@ -183,7 +183,7 @@ Consistency matters more than speed. If we are consistent enough, eventually we 
 
 20.
 
-> "Don’t grow old without growing up." -Unknown
+> "Don't grow old without growing up." -Unknown
 
 Manners & disciplines don't always come as age grows. Growing up is more important than growing old.
 

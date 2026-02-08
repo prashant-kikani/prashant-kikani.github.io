@@ -41,7 +41,7 @@ Now, this buyer and seller chain can continue hundreds or thousands of times. Th
 
 Price is what we pay in the form of money/credit to get value/goods/services/financial assets. Now, the question comes, who decides the price?
 
-Not any one person/organization gets to decide the price(unless it’s the monopoly) of a product/service, it’s all the game of <b>supply and demand</b>.
+Not any one person/organization gets to decide the price(unless it's the monopoly) of a product/service, it's all the game of <b>supply and demand</b>.
 We may think that companies decide the price of their product themselves, but over time it will come near to what the company's competitor or the whole market is pricing their products.
 
 For example, Tesla can't price a particular type of car at $100k or $150k. Because then not many people will buy it because other car manufacturers are selling <b>similar</b> cars at $35k to $50k price range.
@@ -118,14 +118,14 @@ Now, when interest rates are high, there will be less borrowing because it becom
 When rates are low, borrowing increases because it becomes cheaper.
 
 Debt is an asset to the lender and a liability to the borrower. When we get money from the lenders, we spend that at various places like buying a house/car or building a business! So, when we spend more, someone else earns more.
-So, increased income allows increased borrowing, which allows increased spending; and since one person’s spending is another person’s income, this cycle continues.
+So, increased income allows increased borrowing, which allows increased spending; and since one person's spending is another person's income, this cycle continues.
 
 <br/>
 
 ## Role of the central bank in an economy
 
 So, if you can see this, the central bank kind of controls the economy!
-When the central bank increases interest rates, borrowing decreases, so the in-flow of money stops, spending decreases, and since one person’s spending is another person’s earning, earning decreases.
+When the central bank increases interest rates, borrowing decreases, so the in-flow of money stops, spending decreases, and since one person's spending is another person's earning, earning decreases.
 
 And as you might have guessed, when the central bank decreases interest rates, borrowing increases, so the in-flow of money starts, spending increases and so does the income of another person.
 
@@ -136,16 +136,16 @@ Banks can print money by giving some amount of gold. Here comes the "<b><a href=
 
 Because if you see, when the central bank prints money, more cash comes to market, but the amount of goods is almost the same!
 
-Money/cash itself doesn’t contain any value. It’s just a piece of paper. We all have agreed that "this particular piece of paper contains a value of $1 or $10". So, when new money/cash comes, the amount of value hasn't increased in a similar amount.
+Money/cash itself doesn't contain any value. It's just a piece of paper. We all have agreed that "this particular piece of paper contains a value of $1 or $10". So, when new money/cash comes, the amount of value hasn't increased in a similar amount.
 
 Think of the above fact this way, if someone gives $1 million to every person on this earth, it loses its value. Because the amount of value/goods/services in the market is the same.
 So, the amount of bread which we used to buy for $1, now has a price of $5 or $20. Because the obsolete value of a dollar has decreased.
 
-### What’s the difference between money and credit?
+### What's the difference between money and credit?
 
 We can see credit as a promise to give money in the future. Like we do in loan/debt.
 
-Credit is good when it’s issued for efficiently allocating resources that produce income and it’s bad when it’s issued for things that don't produce income. Let's take an example of a businessman or an entrepreneur who manages a company.
+Credit is good when it's issued for efficiently allocating resources that produce income and it's bad when it's issued for things that don't produce income. Let's take an example of a businessman or an entrepreneur who manages a company.
 
 <br/>
 
@@ -156,7 +156,7 @@ Almost all the famous businessmen and entrepreneurs initially had nothing compar
 And after several years, with that money from profit, they repay that money with interest or in form of equity to lenders & invest remaining money in the company to hire more people and to build more and better products which will make them even more money. This cycle can continue forever.
 
 So they started with nothing but a loan from the lenders and using their skills to build products/services, now they are earning more and more!
-This skill of attracting great people to work for them and building great products which solve people’s problems is making them more and more money!
+This skill of attracting great people to work for them and building great products which solve people's problems is making them more and more money!
 
 <center><img src="../assets/spend-earn.jpg"/></center>
 <br/>

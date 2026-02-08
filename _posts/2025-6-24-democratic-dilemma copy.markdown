@@ -33,7 +33,7 @@ This vulnerability plays out in a predictable pattern:
 
 *   **The Identity Trump Card:** Politicians quickly learn it is far more effective to mobilize voters along emotional lines-like **religion, caste, or tribe** - than to debate the merits of an infrastructure bill. These identities are powerful, deeply ingrained, and require no complex explanation.
 
-*   **The Sidelining of Real Issues:** As a result, a nation’s most urgent problems are rendered politically irrelevant. The public discourse is dominated by manufactured outrage and cultural grievances, while critical issues are completely ignored:
+*   **The Sidelining of Real Issues:** As a result, a nation's most urgent problems are rendered politically irrelevant. The public discourse is dominated by manufactured outrage and cultural grievances, while critical issues are completely ignored:
     *   Crumbling roads and failing infrastructure.
     *   Hazardous air quality with AQI levels soaring past 500.
     *   Lack of access to clean water and quality food.

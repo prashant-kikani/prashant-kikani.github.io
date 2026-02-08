@@ -73,7 +73,7 @@ Even if distractions are very high, a clear focus can break it. If focus is less
 
 8.
 
-> "Don’t burn the whole house just because there’s one cockroach in it." -Unknown
+> "Don't burn the whole house just because there's one cockroach in it." -Unknown
 
 Comparatively small & insignificant things should not be the reason to break or tear down huge things. Sometimes, we need to ignore small things in the pursuit of something big. 
 
@@ -154,7 +154,7 @@ We need to put in smart & hard work today to expect big results tomorrow. So, we
 
 18.
 
-> "I know you won’t believe me, but the highest form of human excellence is to question one-self & others." -Socrates
+> "I know you won't believe me, but the highest form of human excellence is to question one-self & others." -Socrates
 
 The attitude of "question everything" is gold. Don't blindly believe what someone tells us without giving it a thought yourself.
 

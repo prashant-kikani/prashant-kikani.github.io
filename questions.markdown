@@ -29,7 +29,7 @@ We should only worry about things which are in our control. There's no point thi
 
 > People will tell stories about me at my funeral. What chapter am I writing today?
 
-In other words, what things are you working on today that will play a pivotal role in your life’s goals? 
+In other words, what things are you working on today that will play a pivotal role in your life's goals? 
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -37,13 +37,13 @@ In other words, what things are you working on today that will play a pivotal ro
 
 > What are my actions moving me closer to?
 
-Where am I going with my current actions and habits? It’s good to keep track of where we are headed.
+Where am I going with my current actions and habits? It's good to keep track of where we are headed.
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
 5.
 
-> Does the amount of attention I’m giving, match its importance?
+> Does the amount of attention I'm giving, match its importance?
 
 Our attention span is limited. So, it would be better if we pay our attention to important things.
 
@@ -94,7 +94,7 @@ This makes us think about what we actually wanted today and what we were working
 
 > What is my short-term goal? What is my long-term goal?
 
-It’s good to keep in mind what we want in the short term and long term.
+It's good to keep in mind what we want in the short term and long term.
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -102,7 +102,7 @@ It’s good to keep in mind what we want in the short term and long term.
 
 > What do I actually want from my life?
 
-Surprisingly, many people don’t know or haven’t thought about what they actually want from their life. We must know what our goals are and how we want to live our lives.
+Surprisingly, many people don't know or haven't thought about what they actually want from their life. We must know what our goals are and how we want to live our lives.
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 

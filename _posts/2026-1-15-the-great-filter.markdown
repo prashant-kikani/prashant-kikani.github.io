@@ -16,11 +16,11 @@ This brings us to the **Fermi Paradox**. Where is everyone?
 
 The standard explanations usually involve catastrophe. We assume that intelligent civilizations destroy themselves with nuclear weapons, asteroid impacts, or rogue AI. We assume the "Great Filter" - the barrier that stops life from becoming galactic - is a bang.
 
-But what if the Great Filter isn’t a bang? What if it’s a whimper?
+But what if the Great Filter isn't a bang? What if it's a whimper?
 
 What if the reason we haven't met aliens is "trivial"? What if no civilization makes it to the stars simply because they lose the ability to **think long-term at a collective level**?
 
-Here is why the greatest threat to humanity isn’t a meteor, but our own inability to plan beyond the present.
+Here is why the greatest threat to humanity isn't a meteor, but our own inability to plan beyond the present.
 
 <br/>
 

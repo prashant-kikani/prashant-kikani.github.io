@@ -13,7 +13,7 @@ Human nature is complex, driven by desires, fears, and an inherent need for powe
 
 ## **The Desire for Power and Control**
 
-From the beginning, *Game of Thrones* was a story about power-who controls it, who craves it, and what they are willing to do to obtain it. Daenerys Targaryen, once seen as the “Breaker of Chains,” ultimately succumbed to the very thing she once opposed. When she had finally won the war against the White Walkers and turned her attention to King’s Landing, she was faced with a choice: rule with mercy or rule with fear.
+From the beginning, *Game of Thrones* was a story about power-who controls it, who craves it, and what they are willing to do to obtain it. Daenerys Targaryen, once seen as the “Breaker of Chains,” ultimately succumbed to the very thing she once opposed. When she had finally won the war against the White Walkers and turned her attention to King's Landing, she was faced with a choice: rule with mercy or rule with fear.
 
 Despite offering Cersei multiple chances to surrender, Daenerys was met with defiance. When the bells of surrender finally rang, signaling the end of the battle, she still chose to burn the city to the ground. Why? Because the allure of complete control over her enemies was too strong. This moment highlights a key flaw in human psychology-the idea that true security comes not from cooperation, but from total domination.
 
@@ -23,15 +23,15 @@ This same flaw is evident in real-world history. Leaders, nations, and individua
 
 ## **The Fear of Betrayal and Paranoia**
 
-Another major flaw that played out in *Game of Thrones*-and that plays out in real <a href="https://prashantkikani.com/blog/happy-life" target="_blank">life</a>-is the destructive nature of paranoia. As Daenerys advanced closer to the Iron Throne, she began to lose trust in those around her. Varys’ betrayal, Jon Snow’s true identity, and Sansa Stark’s growing influence all planted seeds of doubt in her mind. Her fear of losing power led her to see potential threats everywhere, and ultimately, she acted before those threats could materialize.
+Another major flaw that played out in *Game of Thrones*-and that plays out in real <a href="https://prashantkikani.com/blog/happy-life" target="_blank">life</a>-is the destructive nature of paranoia. As Daenerys advanced closer to the Iron Throne, she began to lose trust in those around her. Varys' betrayal, Jon Snow's true identity, and Sansa Stark's growing influence all planted seeds of doubt in her mind. Her fear of losing power led her to see potential threats everywhere, and ultimately, she acted before those threats could materialize.
 
-This kind of paranoia is not unique to fictional rulers. History is filled with leaders who, after gaining power, became so obsessed with keeping it that they destroyed everything around them-including their own people. Stalin’s purges, the McCarthy-era witch hunts, and corporate power struggles all stem from the fear that someone else is plotting against us. This flaw in human psychology-the inability to trust-often leads to self-fulfilling prophecies of destruction.
+This kind of paranoia is not unique to fictional rulers. History is filled with leaders who, after gaining power, became so obsessed with keeping it that they destroyed everything around them-including their own people. Stalin's purges, the McCarthy-era witch hunts, and corporate power struggles all stem from the fear that someone else is plotting against us. This flaw in human psychology-the inability to trust-often leads to self-fulfilling prophecies of destruction.
 
 <br/>
 
 ## **The Justification of Cruelty in the Name of Justice**
 
-One of the most dangerous aspects of human psychology is the ability to justify cruelty under the banner of justice. Daenerys convinced herself that destroying King’s Landing was necessary for the greater good. She believed that the people would never truly be loyal to her, and therefore, she had to wipe the slate clean and rebuild. But in reality, she was driven by personal grief, rage, and the need to prove her dominance.
+One of the most dangerous aspects of human psychology is the ability to justify cruelty under the banner of justice. Daenerys convinced herself that destroying King's Landing was necessary for the greater good. She believed that the people would never truly be loyal to her, and therefore, she had to wipe the slate clean and rebuild. But in reality, she was driven by personal grief, rage, and the need to prove her dominance.
 
 This is a flaw we see all too often in history and modern society. Wars, political oppression, and even small-scale social conflicts are often justified as being “for the greater good.” The problem is, once cruelty is rationalized, there is no limit to how far it can go. Leaders who once sought justice often become tyrants when they convince themselves that their way is the only right way.
 
@@ -39,7 +39,7 @@ This is a flaw we see all too often in history and modern society. Wars, politic
 
 ## **The Cycle of Violence and Retaliation**
 
-Another major flaw in human behavior is our tendency to respond to violence with more violence, creating an endless cycle of destruction. In *Game of Thrones*, Daenerys’ attack on King’s Landing was partially driven by revenge for Missandei’s execution. Cersei’s refusal to surrender was fueled by her own desire to maintain control at all costs. Every action in the series was met with an equal or greater reaction, leading to an inevitable path of destruction.
+Another major flaw in human behavior is our tendency to respond to violence with more violence, creating an endless cycle of destruction. In *Game of Thrones*, Daenerys' attack on King's Landing was partially driven by revenge for Missandei's execution. Cersei's refusal to surrender was fueled by her own desire to maintain control at all costs. Every action in the series was met with an equal or greater reaction, leading to an inevitable path of destruction.
 
 This mirrors real-world  <a href="https://prashantkikani.com/blog/gray-zone" target="_blank">conflicts</a>, where wars and disputes often continue for generations because each side seeks vengeance for past wrongs. Whether in global politics, family feuds, or corporate rivalries, humanity struggles to break the cycle of retaliation. Instead of seeking reconciliation, we often look for ways to get even, which only deepens divisions.
 

@@ -52,7 +52,7 @@ Researchers think that when we experience trauma, we may develop dichotomous thi
 <center><img src="../assets/black-white-gray.png"/></center> 
 <br/>
 
-"Black and white thinking" can give us a measure of security. After all, who doesn’t want to think they have all the answers? But it can also cut us off from the complexity and richness of life.
+"Black and white thinking" can give us a measure of security. After all, who doesn't want to think they have all the answers? But it can also cut us off from the complexity and richness of life.
 
 I think we should not directly jump to conclusions and think something/someone is good or bad. Most things fall into the gray zone.
 

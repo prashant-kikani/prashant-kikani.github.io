@@ -95,7 +95,7 @@ And to spend in that new universe, the option of decentralized money is more con
 
 New generations believe more in globalization than fighting over countries' border issues. Today, they share everything they know on the internet for free & read/watch whatever interests them. An open, transparent & global wave of sharing!
 
-They don’t prefer centralized systems which move slow & have many limitations and especially, which controls them. They prefer an open system, where everyone can participate & gain something. And for finance, decentralized finance is just that.
+They don't prefer centralized systems which move slow & have many limitations and especially, which controls them. They prefer an open system, where everyone can participate & gain something. And for finance, decentralized finance is just that.
 
 Features like [smart-contracts](https://ethereum.org/en/developers/docs/smart-contracts/) in Ethereum(specially [ETH 2.0](https://ethereum.org/en/eth2/)) allows us to write whole codebase inside a decentralized blockchain. Where code and data both are stored in a decentralized manner. No centralized server or database maintaining them.
 

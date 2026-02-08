@@ -76,7 +76,7 @@ This suggests that religion isn't disappearing; its function is changing.
 
 For most of <a href="https://prashantkikani.com/blog/insignificance" target="_blank">human</a> history, religion was the **societal operating system**. It was all-encompassing, running the background processes of law, morality, community, and science for everyone.
 
-Today, especially in the developed world, it's becoming more like a **personal app**. It's something an individual chooses to install to find meaning, connect with a community, and navigate their inner life. You no longer need it to understand how the world works, but you might still find it’s the best tool for understanding your place in it.
+Today, especially in the developed world, it's becoming more like a **personal app**. It's something an individual chooses to install to find meaning, connect with a community, and navigate their inner life. You no longer need it to understand how the world works, but you might still find it's the best tool for understanding your place in it.
 
 So, is religion a net positive? The answer is as complex as human history itself. But what seems certain is that our innate desire for belief, purpose, and connection is here to stay. The way we satisfy that desire will just continue to evolve.
 
