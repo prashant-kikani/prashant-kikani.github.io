@@ -163,9 +163,9 @@ This skill of attracting great people to work for them and building great produc
 
 Are you getting it? After several years, that skill is now <mark>translated</mark> into a good amount of money. At first, they had nothing but that skill and now they have lots of money too!
 
-They took a risk to take big loans and to hire people to build a product in which they believed. There were chances of a complete failure. But they took calculated risks with their abilities and the economy rewarded them. 
+They took a risk to take big loans and to hire people to build a product in which they believed. There were chances of a complete failure. But they took calculated risks with their abilities and the economy rewarded them. A lot of it also comes down to <a href="https://prashantkikani.com/blog/luck" target="_blank">luck</a> and timing. 
 
-So, the economy rewards these kinds of people with a lot of money. Who can take big risks and solve big problems.
+So, the economy rewards these kinds of people with a lot of <a href="https://prashantkikani.com/blog/money" target="_blank">money</a>. Who can take big risks and <a href="https://prashantkikani.com/blog/solve-problems" target="_blank">solve big problems</a>.
 
 Maybe I am over-simplifying all this above, but that skill is not easy to learn. Hundreds of problems come in starting a company, in hiring talented people & to make them build products & in selling those products. But whoever does that, the economy surely rewards them.
 

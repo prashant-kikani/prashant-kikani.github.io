@@ -63,7 +63,7 @@ Pray for the strength to face those challenges, overcome those hardships & ultim
 
 > "Education is not the learning of facts, but the training of the mind to think." -Albert Einstein
 
-In the age of computers, learning of "facts" is not valuable. But, how to think, how to approach & solve any problem is more important.
+In the age of computers, learning of "facts" is not valuable. But, how to think, how to approach & <a href="https://prashantkikani.com/blog/solve-problems" target="_blank">solve any problem</a> is more important.
 Once we know the art of how to approach & solve a problem or how to learn something, everything becomes easier.  
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
@@ -114,7 +114,7 @@ But if we our-self don't believe that we can do it, we will not put our best & t
 
 12.
 
-> "Intelligence is the ability to adapt to change." -Stephen Hawking
+> "Intelligence is the ability to <a href="https://prashantkikani.com/blog/adaptability" target="_blank">adapt</a> to change." -Stephen Hawking
 
 Change is the only thing constant in life. Person who can adapt to these changes, can survive long enough.
 This also holds true from a biological perspective, strong breeds who can adapt will survive & who can't adapt, will die. 
@@ -125,7 +125,7 @@ This also holds true from a biological perspective, strong breeds who can adapt 
 
 > "Care about what other people think and you will always be their prisoner." -Lao Tzu
 
-When we think about what others will think about our actions, we are allowing our happiness to be dependent on them. We should have our own rules for our life(and we should not let ourselves be seriously affected by what other people think & say).
+When we think about what others will think about our actions, we are allowing our <a href="https://prashantkikani.com/blog/desire-to-be-liked" target="_blank">happiness to be dependent</a> on them. We should have our own rules for our life(and we should not let ourselves be seriously affected by what other people think & say).
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -139,7 +139,7 @@ It doesn't matter if people are with us on our journey or not. If we believe it 
 
 15.
 
-> "Innovation distinguishes between a leader and a follower." -Steve Jobs
+> "<a href="https://prashantkikani.com/blog/challenge-assumptions" target="_blank">Innovation</a> distinguishes between a leader and a follower." -Steve Jobs
 
 True leaders innovate. "Being able to imagine something big & to make it happen in reality" is innovation.
 Almost all great leaders have done that.   

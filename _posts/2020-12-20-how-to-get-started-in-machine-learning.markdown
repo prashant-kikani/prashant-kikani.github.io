@@ -16,7 +16,7 @@ Andrew Ng's [Stanford course](https://youtu.be/jGwO_UgTS7I) & [Coursera course](
 If you have some good background & interest in Maths then you can also take some of his math heavy courses like [this one](https://youtu.be/UzxYlbK2c7E).
 There are tons of courses on the platforms like Udemy & Udacity. Almost every famous course is good to start with. 
 
-One good way to get started is to learn in a BFS(breadth first search) manner instead of DFS(depth first search). Meaning, learn every topic/concept/algorithm once & try to use it on some project or dataset in languages like Python.
+One good way to get started is to <a href="https://prashantkikani.com/blog/learning-to-learn" target="_blank">learn</a> in a BFS(breadth first search) manner instead of DFS(depth first search). Meaning, learn every topic/concept/algorithm once & try to use it on some project or dataset in languages like Python.
 Instead of learning everything at once & then trying to implement everything, BFS approach is better IMHO.
 
 So, what you can do is, once you learn a topic like linear regression, you can try to implement/use it in Python on some project.
@@ -50,7 +50,7 @@ A typical ML project involves below steps.
 <br/>
 
 1. First, we decide the task/project we need to work on.
-  - This step seems naive but it's important. Not all problems are a good fit for machine learning.
+  - This step seems naive but it's important. Not all <a href="https://prashantkikani.com/blog/solve-problems" target="_blank">problems</a> are a good fit for machine learning.
 2. Then we start gathering publicly available training data for that task.
 3. Once we get the data, we pre-process that data & then do EDA(Exploratory Data Analysis) on it.
   - Cleaning: Remove extra data we don't want. Like outliers.
@@ -76,7 +76,7 @@ Here are the types and sub-types of machine learning. Which may help you in choo
 ## Role of Kaggle competitions
 
 [Kaggle competitions](https://www.kaggle.com/competitions) is, according to me, the best way to learn ML or data science to keep ourselves updated with the latest research.
-People from all over the world try to solve the same problem & share their learning with each other.
+People from all over the world try to <a href="https://prashantkikani.com/blog/solve-problems" target="_blank">solve</a> the same problem & share their learning with each other.
 
 Benefit we get is, we get to see how other people are trying to solve the problem. Sometimes, people try innovative approaches to solve problems which we would have never thought of. That's the benefit of a community.
 
@@ -112,7 +112,7 @@ Investing more time in fancy CSS or JavaScript is not required, just a simple up
 Doing all these will also make you learn cloud services like Azure, Google cloud or AWS. Which is obviously a good skill to learn.
 Google cloud provides one-time [$300 free credit](https://cloud.google.com/free) to your account using which you can buy a low-end CPU machine with basic configurations like 2 CPU cores & 2 GB RAM, and deploy your model using Flask, Fast API or django.
 
-Doing this will also make your project stand out in an interviewer's eye. Because not every person takes an effort and does all these.
+Doing this will also make your project stand out in an interviewer's eye and build your <a href="https://prashantkikani.com/blog/reputation" target="_blank">reputation</a>. Because not every person takes an effort and does all these.
 And anyway, you get to learn a whole bunch of other things that are not related to ML, but are important like,
 - How to use cloud services like Azure, Google cloud or AWS?
 - How to deploy an ML model via an API using Flask, Fast API or django?

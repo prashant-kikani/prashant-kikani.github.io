@@ -29,7 +29,7 @@ Here's another reality check: even if you make a lasting impact on the world, ho
 
 This is the fate of most humans, and not just us regular folk. Statistically speaking, even if you are the rare person who becomes wildly successful in your career-an entrepreneur, a scientist, a leader-your impact on the world may fade sooner than you think. Few people will make a mark so profound that their names are etched into history, and even fewer will live long enough to see the full, positive impact of their work.
 
-We can strive for greatness, but the truth is that most of us will be forgotten within a few generations. Our descendants might know we existed, but the details of our lives-our dreams, struggles, and triumphs-will be lost to time.
+We can strive for greatness, but the truth is that most of us will be forgotten within a few generations. Building a <a href="https://prashantkikani.com/blog/reputation" target="_blank">reputation</a> that outlasts us is incredibly rare. Our descendants might know we existed, but the details of our lives-our dreams, struggles, and triumphs-will be lost to time.
 
 <br/>
 
@@ -65,7 +65,7 @@ Yes, some people will leave lasting legacies, and that's great. But for the vast
 
 Here's the optimistic twist: accepting your insignificance doesn't have to be bleak. In fact, it's a relief. You're not burdened by the need to change the world or be remembered for centuries. You get to simply *live*-and that's more than enough.
 
-Consider this: you are here, alive, against all odds. The chance of your existence is minuscule, yet here you are, experiencing life on this tiny speck of dust called Earth. The fact that we get this brief moment to live, to love, to experience joy, is a gift in itself.
+Consider this: you are here, alive, against all odds. The chance of your existence is minuscule - you are an <a href="https://prashantkikani.com/blog/impossible-human" target="_blank">impossible statistical miracle</a> - yet here you are, experiencing life on this tiny speck of dust called Earth. The fact that we get this brief moment to live, to love, to experience joy, is a gift in itself.
 
 And while we may not shape the future of humanity, we do have the power to shape the futures of those around us-our children, our friends, our communities. These small, personal impacts are just as important, even if they aren't written into history books.
 

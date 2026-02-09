@@ -17,7 +17,7 @@ From the beginning, *Game of Thrones* was a story about power-who controls it, w
 
 Despite offering Cersei multiple chances to surrender, Daenerys was met with defiance. When the bells of surrender finally rang, signaling the end of the battle, she still chose to burn the city to the ground. Why? Because the allure of complete control over her enemies was too strong. This moment highlights a key flaw in human psychology-the idea that true security comes not from cooperation, but from total domination.
 
-This same flaw is evident in real-world history. Leaders, nations, and individuals often pursue absolute power, even when a more peaceful resolution is available. The idea of mutual existence is overshadowed by the belief that lasting safety can only be achieved through complete subjugation of the opposition.
+This same flaw is evident in real-world history. Leaders, nations, and individuals often pursue absolute <a href="https://prashantkikani.com/blog/capitalism" target="_blank">power</a>, even when a more peaceful resolution is available. The idea of mutual existence is overshadowed by the belief that lasting safety can only be achieved through complete subjugation of the opposition.
 
 <br/>
 
@@ -33,13 +33,13 @@ This kind of paranoia is not unique to fictional rulers. History is filled with 
 
 One of the most dangerous aspects of human psychology is the ability to justify cruelty under the banner of justice. Daenerys convinced herself that destroying King's Landing was necessary for the greater good. She believed that the people would never truly be loyal to her, and therefore, she had to wipe the slate clean and rebuild. But in reality, she was driven by personal grief, rage, and the need to prove her dominance.
 
-This is a flaw we see all too often in history and modern society. Wars, political oppression, and even small-scale social conflicts are often justified as being “for the greater good.” The problem is, once cruelty is rationalized, there is no limit to how far it can go. Leaders who once sought justice often become tyrants when they convince themselves that their way is the only right way.
+This is a flaw we see all too often in history and modern society. Wars, political oppression, and even small-scale social conflicts are often justified as being “for the greater good.” The problem is, once cruelty is rationalized, there is no limit to how far it can go. This is where the <a href="https://prashantkikani.com/blog/benefit-of-doubt" target="_blank">benefit of the doubt</a> becomes crucial. Leaders who once sought justice often become tyrants when they convince themselves that their way is the only right way.
 
 <br/>
 
 ## **The Cycle of Violence and Retaliation**
 
-Another major flaw in human behavior is our tendency to respond to violence with more violence, creating an endless cycle of destruction. In *Game of Thrones*, Daenerys' attack on King's Landing was partially driven by revenge for Missandei's execution. Cersei's refusal to surrender was fueled by her own desire to maintain control at all costs. Every action in the series was met with an equal or greater reaction, leading to an inevitable path of destruction.
+Another major flaw in human behavior is our tendency to respond to violence with more violence, creating an endless cycle of destruction. In *Game of Thrones*, Daenerys' attack on King's Landing was partially driven by revenge for Missandei's execution. This cycle of <a href="https://prashantkikani.com/blog/greed" target="_blank">greed</a> and vengeance is all too human. Cersei's refusal to surrender was fueled by her own desire to maintain control at all costs. Every action in the series was met with an equal or greater reaction, leading to an inevitable path of destruction.
 
 This mirrors real-world  <a href="https://prashantkikani.com/blog/gray-zone" target="_blank">conflicts</a>, where wars and disputes often continue for generations because each side seeks vengeance for past wrongs. Whether in global politics, family feuds, or corporate rivalries, humanity struggles to break the cycle of retaliation. Instead of seeking reconciliation, we often look for ways to get even, which only deepens divisions.
 
@@ -53,7 +53,7 @@ Today, most nations operate under democratic systems, and open warfare is far le
 - **Technological Power Struggles:** The race for AI, nuclear superiority, and space dominance mirrors ancient wars, just on a different battlefield.
 - **Political Corruption & Greed:** Even in democratic societies, corruption and manipulation remain rampant as individuals seek to consolidate power.
 
-Perhaps the most ironic element of human progress is that while we have created weapons capable of ending humanity hundreds of times over, their very existence has prevented large-scale wars. The fear of mutually assured destruction has forced nations into an uneasy peace. But does that mean we are truly more civilized, or have we just found new ways to threaten each other?
+Perhaps the most ironic element of human progress is that while we have created <a href="https://prashantkikani.com/blog/next-wave" target="_blank">weapons</a> capable of ending humanity hundreds of times over, their very existence has prevented large-scale wars. The fear of mutually assured destruction has forced nations into an uneasy peace. But does that mean we are truly more civilized, or have we just found new ways to threaten each other?
 
 <br/>
 
@@ -61,6 +61,6 @@ Perhaps the most ironic element of human progress is that while we have created 
 
 The final episodes of *Game of Thrones* show us that human nature, when left unchecked, leads to destruction. Power corrupts, fear isolates, revenge escalates, and cruelty is justified. While we may no longer fight with swords and dragons, the same psychological flaws drive modern conflicts in more subtle ways.
 
-The question we must ask ourselves is: Can we learn from history and fiction, or are we doomed to repeat these cycles forever? True progress will come not when we find new ways to dominate one another, but when we understand our own psychology well enough to break <a href="https://prashantkikani.com/blog/freedom-vs-equality" target="_blank">free</a> from these destructive patterns.
+The question we must ask ourselves is: Can we <a href="https://prashantkikani.com/blog/learning-to-learn" target="_blank">learn</a> from history and fiction, or are we doomed to repeat these cycles forever? True progress will come not when we find new ways to dominate one another, but when we understand our own psychology well enough to break <a href="https://prashantkikani.com/blog/freedom-vs-equality" target="_blank">free</a> from these destructive patterns.
 
 What do you think? Are these flaws inherent in human nature, or can we evolve beyond them? Let me know your thoughts <a href="https://prashantkikani.com/contact" target="_blank">here</a>.

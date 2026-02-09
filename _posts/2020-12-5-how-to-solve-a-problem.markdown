@@ -31,7 +31,7 @@ Let's start!
 
 ## Transfer Learning
 
-Almost 80-90% of our problems can be solved in this simple & naive way. <b>How others have solved the same problem in the past?</b> Ask this question whenever you face any problem.
+Almost 80-90% of our problems can be solved in this simple & naive way. It's all about <a href="https://prashantkikani.com/blog/learning-to-learn" target="_blank">learning</a> how others did it. <b>How others have solved the same problem in the past?</b> Ask this question whenever you face any problem.
 
 > Billions of humans are living on this planet. It's very likely that someone else has faced & solved the same problem as ours. We just need to copy that solution. That's all.
 
@@ -85,7 +85,7 @@ While thinking from first principles, a good habit is to always look for negativ
 - Go [BFS](https://en.wikipedia.org/wiki/Breadth-first_search); not [DFS](https://en.wikipedia.org/wiki/Depth-first_search). Cover all the aspects shallowly once, instead of going deeper in a few.
   - If we imagine a problem and the things correlated to it as a tree, most of the time, it'll have multiple diverse branches than the depth of each branch.
   - When we shallowly explore all the branches first, instead of exploring one branch in-depth without thinking about others, we get an overall idea about the problem and we get ways which may solve this problem.
-- This problem has given you a chance to prove yourself & to explore this world. Every big problem makes you go outside of your comfort zone, which is for sure a good thing for growth.
+- This problem has given you a chance to prove yourself & to explore this world. Every big problem makes you go outside of your <a href="https://prashantkikani.com/blog/adaptability" target="_blank">comfort zone</a>, which is for sure a good thing for growth.
   - Problems give us a chance to learn new things and make us stronger than before.
 - If you have a fear to solve a problem, think this way:
   - What's the worst thing that can happen to you if you fail badly at this? Now, most of the time, that worst will not be that bad like, losing your life or losing everything you have.
@@ -94,7 +94,7 @@ While thinking from first principles, a good habit is to always look for negativ
   
 <br/>
   
-Solving big problems that makes people's lives happier and better, gives a unique meaning to life.
+Solving big problems that makes people's lives <a href="https://prashantkikani.com/blog/happy-life" target="_blank">happier</a> and better, gives a unique <a href="https://prashantkikani.com/blog/meaning-of-life" target="_blank">meaning to life</a>.
 Society will reward you with money and respect if you have solved big problems or even have tried to solve big things. Every company is doing it - "solving big problems".
 - Google is solving the problem of making all the information available to everyone freely.
 - Amazon is solving the problem of delivering everything you want in less than a day with minimum cost.
@@ -102,5 +102,7 @@ Society will reward you with money and respect if you have solved big problems o
 - Tesla is solving the problem of reducing our dependence on nonrenewable energy resources. 
 - SpaceX is solving the problem of making humanity multi-planetary.
 
-Every rich person in this world has solved some big problems and society has rewarded them with billions of dollars. That is not to say, we should solve problems to make money.
+Our <a href="https://prashantkikani.com/blog/capitalism" target="_blank">capitalistic society</a> rewards these problem-solvers handsomely.
+
+Every rich person in this world has solved some big problems and society has rewarded them with billions of <a href="https://prashantkikani.com/blog/money" target="_blank">dollars</a>. That is not to say, we should solve problems to make money.
 

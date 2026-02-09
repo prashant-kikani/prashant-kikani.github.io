@@ -9,11 +9,11 @@ description: "Explore the mind-blowing chain of \"scientific miracles\"-from the
 
 If you were to place a bet on the existence of humans at the moment the universe began, it would have been the worst bet in cosmic history.
 
-We tend to look at our hands, our cities, and our history and assume that *Homo sapiens* were the inevitable destination of evolution. We feel like the main characters of the story. But science tells a much more humbling-and frightening-truth.
+We tend to look at our hands, our cities, and our history and <a href="https://prashantkikani.com/blog/challenge-assumptions" target="_blank">assume</a> that *Homo sapiens* were the inevitable destination of evolution. We feel like the main characters of the story. But science tells a much more humbling-and frightening-truth.
 
-We are the beneficiaries of a series of catastrophic accidents, near-misses, and one-in-a-billion coincidences. This is the ultimate case of **Survivorship Bias**: because we survived, the path looks clear in hindsight. But if we look closer, we see that at almost every turn, the universe tried to stop us from happening.
+We are the beneficiaries of a series of catastrophic accidents, near-misses, and one-in-a-billion coincidences. This is the ultimate case of **<a href="https://prashantkikani.com/blog/luck" target="_blank">Survivorship Bias</a>**: because we survived, the path looks clear in hindsight. But if we look closer, we see that at almost every turn, the universe tried to stop us from happening.
 
-Here is the scientific story of the "miracles" that allowed you to be here today.
+Here is the scientific story of the "<a href="https://prashantkikani.com/blog/god-of-the-gaps" target="_blank">miracles</a>" that allowed you to be here today.
 
 <br/>
 
@@ -29,19 +29,19 @@ The first hurdle wasn't biological; it was fundamental physics.
 If the universe had been perfectly symmetrical, all matter and antimatter would have destroyed each other in the first second. The result would have been a boring, empty universe filled with nothing but light. No stars. No atoms. No us.
 
 **The Miracle:**
-For reasons physicists are still studying (known as *CP Violation*), the laws of physics were slightly imperfect.
+For reasons physicists are still studying (known as *CP Violation*), <a href="https://prashantkikani.com/blog/simulation" target="_blank">the laws of physics</a> were slightly imperfect.
 *   For every **1,000,000,000** (one billion) particles of antimatter...
 *   The universe created **1,000,000,001** particles of matter.
 
 A massive war of annihilation followed. The billion pairs destroyed each other. But that **single, lonely particle** was left over because it had no partner to destroy it.
 
-**The Result:** Everything you see today-every star, every galaxy, and every atom in your body-is made of that tiny, leftover fraction of "debris" that survived the Great Annihilation.
+**The Result:** Everything you see today-every star, every galaxy, and every atom in your body-is made of that tiny, leftover fraction of "<a href="https://prashantkikani.com/blog/insignificance" target="_blank">debris</a>" that survived the Great Annihilation.
 
 <br/>
 
 
 ## 2. The Galactic Delivery Service: Gold vs. Iron
-Once the universe had matter, it needed the right ingredients for civilization.
+Once the universe had matter, it needed the right ingredients for <a href="https://prashantkikani.com/blog/great-filter" target="_blank">civilization</a>.
 
 **The Iron (Native):**
 Iron is heavy. When Earth formed 4.5 billion years ago, it was a molten ball. Most of the iron sank to the center to form the core. However, enough remained in the crust to eventually course through your blood. You are made of Earth-stuff.
@@ -64,7 +64,7 @@ For 160 million years, dinosaurs were the undisputed masters. Our ancestors (ear
 A rock the size of Mount Everest (the Chicxulub impactor) slammed into Mexico.
 *   **The Impact:** It triggered a nuclear winter. Photosynthesis stopped.
 *   **The Extinction:** The dinosaurs, who needed massive calories, starved.
-*   **The Survival:** Our ancestors survived because they were small, lived underground, and could eat insects and decaying matter.
+*   **The Survival:** Our ancestors <a href="https://prashantkikani.com/blog/adaptability" target="_blank">survived</a> because they were small, lived underground, and could eat insects and decaying matter.
 
 This is called **Ecological Release**. The asteroid cleared the "landlords" out of the house, finally allowing mammals to evolve into monkeys, apes, and eventually, us.
 
@@ -98,7 +98,7 @@ Scientists recently discovered a gene in the human brain called **Arc** that is 
 <br/>
 
 ## 5. The Enslaved Power Plant: Mitochondria
-Complex life (like humans) requires massive amounts of energy, more than simple bacteria can generate.
+<a href="https://prashantkikani.com/blog/emergence" target="_blank">Complex life</a> (like humans) requires massive amounts of energy, more than simple bacteria can generate.
 
 **The Miracle:**
 About 1.5 billion years ago, a large single-celled ancestor swallowed a smaller bacterium but failed to digest it. The two organisms formed a partnership and struck a deal: "I'll make energy for you if you give me food and shelter."
@@ -113,7 +113,7 @@ You are essentially a colony of ancient bacteria living inside a larger host.
 Finally, there is the evidence of our clumsy evolution. Humans are one of the few mammals that cannot produce their own Vitamin C. Dogs, cats, and cows make it internally.
 
 **The Accident:**
-About 60 million years ago, our ancestors lived in trees and ate fruit all day. Because their diet was so rich in Vitamin C, a random mutation broke the **GULO gene** (the gene that makes Vitamin C).
+About 60 million years ago, our ancestors lived in trees and ate fruit all day. Because their diet was so rich in Vitamin C, a <a href="https://prashantkikani.com/blog/unfairness" target="_blank">random mutation</a> broke the **GULO gene** (the gene that makes Vitamin C).
 *   Usually, a broken gene kills a species.
 *   But because they were eating fruit, they survived.
 
@@ -135,4 +135,4 @@ We are a **Mosaic**.
 *   We were **given a throne by a killer asteroid** (Dino extinction).
 *   We are **carrying broken genes** from our time in the trees (Vitamin C).
 
-It is arguably *more* miraculous than if we were designed perfectly, because the odds of all these accidents lining up in a row are astronomically low. We are the 1-in-a-trillion shot that paid off.
+It is arguably *more* miraculous than if we were <a href="https://prashantkikani.com/blog/god" target="_blank">designed perfectly</a>, because the odds of all these accidents lining up in a row are astronomically low. We are the 1-in-a-trillion shot that paid off.

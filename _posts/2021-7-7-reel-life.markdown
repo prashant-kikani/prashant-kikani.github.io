@@ -16,7 +16,7 @@ So, basically people seem way better looking than they really are, and they're w
 
 Just to clarify, there's nothing wrong here with posting only happy moments with others. I am not conveying that, above things are bad or wrong to do. At some point, even I have done that. Our human brain is wired to show others how happy or beautiful we are. We like to share our good sides.
 
-Because we know, some people will praise us, and we will instantly get a Dopamine hit. Sometimes, deep inside we need others' praise and validation to allow ourselves to be happy. In reality, we don't need anyone's praise or validation to be happy and joyful.
+Because we know, some people will praise us, and we will instantly get a Dopamine hit. Sometimes, deep inside we need others' praise and validation to allow ourselves to be happy. In reality, we don't need anyone's praise or validation to be <a href="https://prashantkikani.com/blog/happiness-is-personal" target="_blank">happy</a> and joyful.
 
 Anyway, the point is, when we are scrolling through the feed, we should not compare ourselves with other people. We may not compare consciously, but unconsciously sometimes we end up comparing other's social media life with our miserable life.
 
@@ -27,9 +27,9 @@ Now, it's not that only you have problems in life. Everyone has some kind of pro
 
 Things like these can sometimes make people feel very sad. Because people generally think of themselves relative to others. <mark>We're constantly re-baselining our expectations based on what we see outside in the world.</mark>
 
-Actually, everyone has their own set of problems, tensions, traumas in family, business or job. Someone may be fighting with their partner or having bad relationships with their children, or struggling to make money. But, almost no one will share these stories on social media. Our general behaviour is, we are hesitant to share these stories with others because of embarrassment.
+Actually, everyone has their own set of problems, tensions, traumas in family, business or <a href="https://prashantkikani.com/blog/opportunity-cost" target="_blank">job</a>. Someone may be fighting with their partner or having bad relationships with their children, or struggling to make money. But, almost no one will share these stories on social media. Our general behaviour is, we are hesitant to share these stories with others because of embarrassment.
 
-Point is, we should not consciously or unconsciously compare ourselves by just looking at people's social media profiles. Profiles do not show the full picture.
+Point is, we should not consciously or unconsciously <a href="https://prashantkikani.com/blog/unfairness" target="_blank">compare ourselves</a> by just looking at people's social media profiles. Profiles do not show the full picture.
 
 Especially those social media influencers, and celebrities. We don't know what's going on in their life. Again, the point is not to say, they are always very sad or ugly looking. Point is to see the fact that, just like we have our set of problems in our life, they also have it. And just like we have some happy moments in our life, they also have it.
 
@@ -50,7 +50,7 @@ And there's some truth to it.
 
 ## Detachment from real life.
 
-This urge of showing our bright and happy moments via social media sometimes doesn't allow us to enjoy and observe the richness and nuances of real life. Sometimes people are more interested in taking photos, to post them on social media, than just truly enjoying and feeling the moment.
+This urge of showing our bright and happy moments via social media sometimes doesn't allow us to enjoy and observe the richness and nuances of real life. It's a form of <a href="https://prashantkikani.com/blog/desire-to-be-liked" target="_blank">approval seeking</a>. Sometimes people are more interested in taking photos, to post them on social media, than just truly enjoying and feeling the moment.
 
 If we think about it, social media is meant to be a place where you share things about your life, and to tell your friends "what's going on with you?". Basically, to keep connected with society, hence "social" media.
 
@@ -70,7 +70,7 @@ It gives us a sense of pleasure. We feel instantly good. But, at the same time, 
 
 And sometimes, we're kind of "expected" to comment on good things or praise our friend's posts. Otherwise, they will feel bad and our relationship may end. Why? because they also commented good things on your post previously. So, you're bound to repeat that in their posts. I'm not saying everyone does this or faces this. But some of us do.
 
-And this whole cycle keeps us scrolling and posting again and again, just to get that dopamine hit. Instead, what we should be doing is dome productive things which actually make our life better.    
+And this whole cycle keeps us scrolling and posting again and again, just to get that dopamine hit. Instead, what we should be doing is dome productive things which actually make our <a href="https://prashantkikani.com/blog/meaning-of-life" target="_blank">life</a> better.    
 
 <center><img src="../assets/time_spent_on_social_media.png"/></center>
 <br/>

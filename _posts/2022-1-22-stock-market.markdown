@@ -13,7 +13,7 @@ For me, the stock market is like a teacher, who teaches me a lot of things. It r
 
 The stock market plays a pivotal role in the <a href="https://prashantkikani.com/blog/economy-and-finance" target="_blank">economy</a>. Actually, the stock market was created for <a href="https://prashantkikani.com/blog/startup-ecosystem" target="_blank">companies</a> to raise money from the retail public like you and me. And we invest <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> in the stock market with the hope that it'll grow over time. But to grow money, we have to make correct predictions. And that's where the whole game starts.
 
-There's a big world of algorithmic trading. Read <a href="https://time.com/5751190/investing-machine-learning-marcos-de-lopez-prado/" target="_blank">this</a> interesting article on "'It's a Matter of When.' How Machines Are Taking Over the World's Stock Markets". And machines are faster too, they can make predictions in a couple of microseconds. We humans take far more than that.
+There's a big world of algorithmic trading. Read <a href="https://time.com/5751190/investing-machine-learning-marcos-de-lopez-prado/" target="_blank">this</a> interesting article on "'It's a Matter of When.' How Machines Are Taking Over the World's Stock Markets". This is the <a href="https://prashantkikani.com/blog/next-wave" target="_blank">next wave</a> of technology in finance. And machines are faster too, they can make predictions in a couple of microseconds. We humans take far more than that.
 
 Most interesting thing in the stock market for me, is the Dopamine hit.
 
@@ -23,11 +23,11 @@ Most interesting thing in the stock market for me, is the Dopamine hit.
 
 When stocks you have bought rise, you get happy, when they come down, you get a bit sad/frustrated. Long-term investors do not care much about daily volatility though. When I first invested my own <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> in the stock market, I used to check prices very frequently, like every 15-30 minutes.
 
-Sometimes, stocks that are going higher and higher, which you missed, give you FOMO - fear of missing out. I am largely driven by FOMO in daily life and in the stock market too. For me, dealing with the regret of missing some great opportunities is hard. So sometimes, people like me get beaten up in the stock market. I think regret of missing the opportunity is more difficult to bear than taking the opportunity and then failing at it.
+Sometimes, stocks that are going higher and higher, which you missed, give you FOMO - fear of missing out. I am largely driven by FOMO in daily life and in the stock market too. For me, dealing with the regret of missing some great opportunities is hard. So sometimes, people like me get beaten up in the stock market. I think regret of missing the <a href="https://prashantkikani.com/blog/opportunity-cost" target="_blank">opportunity</a> is more difficult to bear than taking the opportunity and then failing at it.
 
 <blockquote class="x-post"><p lang="en" dir="ltr">Lessons which stock market teaches are invaluable. You need to have a heart to digest huge losses and acknowledge your mistakes while keeping your ego aside.</p>&mdash; Prashant Kikani (@prashant_kikani) <a href="https://x.com/prashant_kikani/status/1480814569870135296">January 11, 2022</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
-Ironically, I tweeted the above statement after bearing a huge loss in the Paytm stock (to express my feelings)! But I think, dealing with all these, prepares you for the real world. Which is super messy. The stock market trains you to control your emotions & make wise decisions to get rewards, otherwise, you will get punished badly. The stock market also teaches you patience - you need to give yourself some time to make the right predictions.
+Ironically, I tweeted the above statement after bearing a huge loss in the Paytm stock (to express my feelings)! But I think, dealing with all these, prepares you for the real world. Which is super messy. The stock market trains you to control your <a href="https://prashantkikani.com/blog/human-desires-downsides/" target="_blank">emotions</a> & make wise decisions to get rewards, otherwise, you will get punished badly. The stock market also teaches you patience - you need to give yourself some time to make the right predictions.
 
 <br/>
 
@@ -65,7 +65,7 @@ If you think price of a stock will go up, then you can buy "call" options. If yo
 
 By buying/selling call/put options, you're making a bet. If your bet turn out to be correct, you will make money, else you will lose money.
 
-Derivative market as a whole, is a zero-sum game. For one party to win, someone else has to lose.
+Derivative market as a whole, is a zero-sum game. For one party to win, someone else has to lose. It's the <a href="https://prashantkikani.com/blog/greed" target="_blank">greed</a> that drives this market.
 
 Size of the global derivative market is more than <a href="https://www.investopedia.com/ask/answers/052715/how-big-derivatives-market.asp" target="_blank">$600 trillion</a>!! For comparison, as of 2022 GDP(Gross Domestic Product) of the whole world is around $80 trillion. Some market analysts estimate the derivatives market at more than 10 times the size of the total world's GDP. How is that even possible? Mostly because there are many derivatives in existence, available on almost every type of investment asset, including equities, commodities, bonds, and currency etc. In short, derivative market is not small.
 

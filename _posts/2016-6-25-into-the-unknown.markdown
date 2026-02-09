@@ -12,7 +12,7 @@ This is a sci-fi story which I wrote in my broken naive English, back in summer 
 
 ## Chapter 1: Flying Fish
 
-The story starts from a planet called “Typhon”, lying somewhere in another Universe. This galaxy was near to a White hole compared to Earth. (After billions of years, Black hole is converted into White hole that emits Energy continuously.)
+The story starts from a planet called “Typhon”, lying somewhere in another <a href="https://prashantkikani.com/blog/multiverse" target="_blank">Universe</a>. This galaxy was near to a White hole compared to Earth. (After billions of years, Black hole is converted into White hole that emits Energy continuously.)
 
 People of that planet are unlike Humankind. They can get food or energy from their sun called “Tipo” if they want. Tipo is a White hole. This universe came into existence around 14.3 billion years ago(compared to 13.8 billion years of our universe).
 
@@ -117,7 +117,7 @@ Hikon hears this “God” word many times. So, he thought that the concept of G
 
 They met many types of people in Gujarat. Peoples gave them honor as they were in the dress of a Soldier.
 
-Once they saw a lying people on a layer of wood & cotton. Humans around him were crying very loudly. He found after some time that that person was dead. Hikon feel very very strange. He really not understood Why humans are dead? Is there not any tool or factor that prevent death from Humans? Because on Typhon, people can die only after his or her own desire. Noone can take his or her life.
+Once they saw a lying people on a layer of wood & cotton. Humans around him were crying very loudly. He found after some time that that person was dead. Hikon feel very very strange about this <a href="https://prashantkikani.com/blog/meaning-of-life" target="_blank">mortality</a>. He really not understood Why humans are dead? Is there not any tool or factor that prevent death from Humans? Because on Typhon, people can die only after his or her own desire. Noone can take his or her life.
 
 Hikon still didn't understand the "Concept of Death". Hikon thought that the Origin of Humans can give answers to all Questions. Because Humans also don't know about their Originate he ordered the Astins to find the Originate of Humans & told them to give an answer in 1/2 dyes (their days). So, Now Hikon has to wait 12 days on Earth to get an answer. Because time on Earth was faster than Typhon.
 
@@ -141,7 +141,7 @@ Parth gave a warm goodbye to both of them from Gujarat. Hikon & Somin left Gujar
 
 Hikon and Gubin are in Maharashtra. They visited Bombay. They liked the people of Bombay, as they work 14 to 15 hours in a day. They felt like in Bombay, people never sleep. At night you surely feel like a day. At last they left Maharashtra.
 
-(After visiting the south region of India.) They go towards the East. People of the East are poor compared to the West. Hikon feels strange that one part of the country is wealthy and the other is poor? Isn't that the fault of the Kings of India (Indian Government)?
+(After visiting the south region of India.) They go towards the East. People of the East are poor compared to the West. Hikon feels strange that one part of the country is wealthy and the other is poor? This <a href="https://prashantkikani.com/blog/unfairness" target="_blank">unfairness</a> puzzled him. Isn't that the fault of the Kings of India (Indian Government)?
 
 Then they go towards the North. He visited Delhi, Ayodhya, Kashmir, Haryana….Hikon took bath in the holy rivers “Ganga” & “Yamuna”.
 
@@ -224,7 +224,7 @@ In a few hours Hikon reached the Black hole. He told Humans how anyone can come 
 
 Fiziki doesn't know anything  about Black holes. Because there are no Astin type researchers on Hipaza planet. So, for him, going into the Black hole, is like going “Into the Unknown”. But he kept following Hikon, he kept following his Dream… and finally went into the Black hole.
 
-Now, Hikon, Fiziki and some Humans are in the Black hole. Hikon sees Time as a Dimension in the Black hole. He can feel Time as we feel other Dimensions. There are more dimensions too. Humans invented the “Morse Code”. In which only dash (-) and dot (.) is there.
+Now, Hikon, Fiziki and some Humans are in the Black hole. Hikon sees Time as a Dimension in the Black hole, like a <a href="https://prashantkikani.com/blog/simulation" target="_blank">simulation</a> unfolding. He can feel Time as we feel other Dimensions. There are more dimensions too. Humans invented the “Morse Code”. In which only dash (-) and dot (.) is there.
 
 Hikon knows that the “Gravity” of the Black hole is so high that it bends the “Time.” So, via this Hikon can do anything with Time. But Hikon forgot that his enemy, Fiziki, also can do anything with time.
 
@@ -238,7 +238,7 @@ Here, Fiziki got a spark that he has “Time” in his hand. So, he can do whate
 
 The Typhoon was seriously damaged. Many of the Zabutas died. Almost all Astins are dead… But all Quona peoples and Nithons are alive. As Quona and Nithons were under the unbreakable protection of “Blueish”. Hikon ordered Astins to continue their research on “Originate of Humans”.
 
-Now Humans create a good relationship b/w them and the creatures of Typhon. With the help of Hikon, Humans can now take big steps in Technology.
+Now Humans create a good relationship b/w them and the creatures of Typhon. With the help of Hikon, Humans can now take big steps in <a href="https://prashantkikani.com/blog/next-wave" target="_blank">Technology</a>.
 
 After some days Simahi comes to the Typhon, to meet the King of the land “Hikon”. They both memorize the past Golden memories. Simahi's logical sentences impressed the king. And so, Hikon married Simahi. As he likes females who have the capacity to defeat man in Brain Power. Now they decide to take Parth and Gubin on Typhon.
 

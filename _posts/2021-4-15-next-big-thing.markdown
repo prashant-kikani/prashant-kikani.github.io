@@ -9,7 +9,7 @@ description: "What can be the biggest technological wave of the next decade?"
 
 In 2021, almost all massively big and profitable businesses/companies in the world are internet companies like Apple, Amazon, Google, Microsoft & Facebook.
 
-They are so big that [the government is thinking about breaking them](https://www.nytimes.com/2020/12/20/technology/antitrust-case-google-facebook.html) following antitrust laws.
+They are so big that [the government is thinking about breaking them](https://www.nytimes.com/2020/12/20/technology/antitrust-case-google-facebook.html) following antitrust laws. This is <a href="https://prashantkikani.com/blog/capitalism" target="_blank">capitalism</a> at its peak.
 If we think, what causes these companies to become so massively big?
 One possible answer can be, the stage was set with electricity availability, wide spread cell towers, fast internet, mobile in almost hand & laptop in every desk etc.
 With all these major factors combined, the internet revolution was almost inevitable. The internet & mobile brought many new businesses & entrepreneurs.
@@ -78,7 +78,7 @@ According to me, three major candidates are:
 You can read about AI/ML in my other blogs like <a href="https://prashantkikani.com/blog/get-started-in-ml" target="_blank">this</a> one, I will try to explore the 2nd and 3rd point in this post.
 
 Movies like [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One_(film)) shows that, at what level AR/VR can impact our lives in future. And boy, that future seems very likely to me.
-As the [government is printing trillions of dollars](https://www.usatoday.com/in-depth/money/2020/05/12/coronavirushow-u-s-printing-dollars-save-economy-during-crisis-fed/3038117001/) & very low interest rates, people's trust in fiat currency have started to decline.
+As the [government is printing trillions of dollars](https://www.usatoday.com/in-depth/money/2020/05/12/coronavirushow-u-s-printing-dollars-save-economy-during-crisis-fed/3038117001/) & very low interest rates, <a href="https://prashantkikani.com/blog/inflation" target="_blank">inflation</a> is rising and people's trust in fiat currency have started to decline.
 
 And what is money, if it's not just a collective trust and belief of value in a piece of paper? Just like we believe gold is worth this much and we believe, this stock is worth this much. Since 1971, when [Nixon removed](https://en.wikipedia.org/wiki/Nixon_shock) the [gold standard](https://en.wikipedia.org/wiki/Gold_standard), nothing has backed the value of a US dollar bill.
 

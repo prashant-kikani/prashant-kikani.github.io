@@ -60,7 +60,7 @@ Now, maybe because of <a href="https://cointelegraph.com/news/bitcoin-s-compound
 <center><img src="../assets/crypto-returns.jpeg" height="350"/></center>
 <br/>
 
-But, I think young people are also attracted to crypto because of its fundamental decentralized nature. They don't care about these old politicians and those borders between countries which are dividing them. They believe in "One World, One Currency", unity and equality. 
+But, I think young people are also attracted to crypto because of its fundamental decentralized nature. They don't care about these old politicians and those borders between countries which are dividing them. They believe in "One World, One Currency", unity and <a href="https://prashantkikani.com/blog/freedom-vs-equality" target="_blank">equality</a>. 
 
 Also, trust of people in centralized governments and banks <a href="https://www.pewresearch.org/politics/2021/05/17/public-trust-in-government-1958-2021/" target="_blank">is decreasing</a>.
 
@@ -71,7 +71,7 @@ Only 1 out of 4 people think they can trust their government to do the right thi
 
 <br/>
 
-I think all of these factors collectively will ensure a significant market share of crypto in tomorrow's economy. And again, it's worth saying that crypto may not be the biggest financial market of tomorrow's economy but for sure it'll be a major one. Crypto can very well be [the next big technological wave](https://prashantkikani.com/blog/next-wave).  
+I think all of these factors collectively will ensure a significant market share of crypto in tomorrow's economy. And again, it's worth saying that crypto may not be the biggest financial market of tomorrow's economy but for sure it'll be a major one. Crypto can very well be [the next big technological wave](https://prashantkikani.com/blog/next-wave). And the <a href="https://prashantkikani.com/blog/inflation" target="_blank">inflation</a> problem only strengthens its case.  
 
 
 

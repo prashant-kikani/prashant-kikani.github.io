@@ -28,7 +28,7 @@ The problem here is that, in reality, we never observe a wave function like this
 
 So, by the wave function, we are introducing the concept of "probability" into reality. What it means is, by introducing this probability we are saying that our universe is not deterministic</b>.
 
-Many people opposed this very idea of a non-deterministic universe, including Albert Einstein.
+Many people opposed this very idea of a non-deterministic universe, including Albert Einstein. This is one of the biggest <a href="https://prashantkikani.com/blog/god-of-the-gaps" target="_blank">gaps in our scientific understanding</a>.
 
 > God does not play dice with the universe. -Albert Einstein
 
@@ -99,7 +99,7 @@ By the way, the restriction that "nothing can move faster than light" <a href="h
 
 Answer to the question why the universe is expanding faster than the speed of light, is a bit complex and scientific. Read <a href="https://www.forbes.com/sites/startswithabang/2020/06/12/ask-ethan-how-does-the-fabric-of-spacetime-expand-faster-than-the-speed-of-light/?sh=4878eae23b5f" target="_blank">this</a> and <a href="https://www.space.com/33306-how-does-the-universe-expand-faster-than-light.html" target="_blank">this</a> posts to find the answer. (BTW, did you know that light from our Sun takes ~8 minutes to reach the Earth? So, the sun we are seeing in the daytime is not the sun at this moment, that sun was 8 minutes ago. Because light took ~8 minutes to reach from Sun to Earth.)
 
-In short, <b>what we are seeing or can see isn't the whole universe</b>. We can only see a partial amount of the whole actual universe. So, <b>we will never know what is happening outside of the observable universe.</b>
+In short, <b>what we are seeing or can see isn't the whole <a href="https://prashantkikani.com/blog/meaning-of-life" target="_blank">universe</a></b>. We can only see a partial amount of the whole actual universe. Our <a href="https://prashantkikani.com/blog/insignificance" target="_blank">cosmic insignificance</a> becomes even more apparent. So, <b>we will never know what is happening outside of the observable universe.</b>
 
 So, all these other multiverses may exist outside of the observable universe..? Possible. But we don't know yet.
 
@@ -133,7 +133,7 @@ We are just part of one of the outcome rows of the table. Which is row number 1 
 
 <br/>
 
-One interesting thought experiment about quantum mechanics is, it is rendering the reality when we see it. Before we were seeing it, it was something else, or was not there at all!
+One interesting thought experiment about quantum mechanics is, it is rendering the <a href="https://prashantkikani.com/blog/god" target="_blank">reality</a> when we see it. Before we were seeing it, it was something else, or was not there at all!
 
 > Quantum mechanics is a "lazy evaluation" physics engine that renders reality only when observed. The engineering question for the simulation is: How hard is it to efficiently render reality that fools humans by still appearing to be globally consistent with the laws of physics. -Lex Fridman
 

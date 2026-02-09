@@ -14,7 +14,7 @@ At this point in time, it's all about the probabilities that something is true o
 
 The purpose of asking these questions is to expand the horizon of our imagination and push forward the limits of our thinking. In other words, answers to these questions may not be possible to get, but along the way, we discover so many things that it makes it worthwhile to pursue the journey of finding the answer.
 
-After all, that's how every innovation starts, from a noble pursuit of wonder.
+After all, that's how every <a href="https://prashantkikani.com/blog/challenge-assumptions" target="_blank">innovation</a> starts, from a noble pursuit of wonder.
 
 Coming to this post, I believe that chances are high of “we are living in a simulation”. Here are some hypotheses which support that.
 
@@ -22,14 +22,14 @@ Coming to this post, I believe that chances are high of “we are living in a si
 
 ## Program the fundamental laws.
 
-In layman's terms, the answer of "what is simulation?" can be conveyed as, design some finite set of fundamental laws, and let it run on it's own. It will evolve on its own.
+In layman's terms, the answer of "what is simulation?" can be conveyed as, design some finite set of fundamental laws, and let it run on it's own. This connects to the <a href="https://prashantkikani.com/blog/god" target="_blank">question of God</a> and higher powers. It will evolve on its own.
 
 Our universe runs on some <b>finite</b> fundamental rules or laws of physics and chemistry. Everything there exists, follows these fundamental rules(like Gravity, Electromagnetic force, nuclear force and wave theory) of Thermodynamics, Electromagnetism, Quantum mechanics, Radiation etc. fields.
 
 If the universe is governed by these "finite" laws, couldn't a powerful enough computer or machine simulate it exactly? Like, start everything from scratch(like the Big bang) and <b>let it run on it's own</b>, meaning let them interact with each other, abiding by the fundamental rules.
 
 Every particle will interact with each other, abiding by those fundamental laws, and create something out of them. Everything we see is created from the interaction of those particles. Like it created us.
-If we think, 13.6 billion years ago, the Big Bang happened and [at that time there was nothing but Hydrogen and Helium in the whole universe](https://home.cern/science/physics/early-universe).
+If we think, 13.6 billion years ago, the <a href="https://prashantkikani.com/blog/impossible-human" target="_blank">Big Bang</a> happened and [at that time there was nothing but Hydrogen and Helium in the whole universe](https://home.cern/science/physics/early-universe).
 
 Heavier atoms such as Carbon, Oxygen and Iron, have since been continuously produced in the hearts of stars and catapulted throughout the universe in spectacular stellar explosions called supernovae. Everything we see, including our body and mind, is created from those particles.
 
@@ -42,12 +42,12 @@ Carl Sagan says:
 
 > The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff. -Carl Sagan
 
-So, from the time when only Hydrogen and Helium existed, to the present day, at what time the consciousness formed, that is residing in our brain, <b>which enabled us to think on our own</b>?
+So, from the time when only Hydrogen and Helium existed, to the present day, at what time the <a href="https://prashantkikani.com/blog/god-of-the-gaps" target="_blank">consciousness</a> formed, that is residing in our brain, <b>which enabled us to think on our own</b>?
 In other words, when there was nothing but some light weight gases(H and He), to this point when there are [living beings made up from Carbon, Oxygen and Hydrogen](https://www.newscientist.com/question/what-is-the-body-made-of/), who can think, make decisions and invent computers!!
 
 > Think about this: You are the sum of total of a 14 billion year chain of unbroken cosmic evolution now thinking about itself.
 
-Doesn't all these sound fascinating? All the particles interacted with each other in "one specific way" which ultimately led to creation of intelligent human beings!
+Doesn't all these sound fascinating? All the particles interacted with each other in "one specific way" which ultimately led to creation of intelligent human beings! We truly are <a href="https://prashantkikani.com/blog/insignificance" target="_blank">insignificant</a> yet remarkable.
 
 So to conclude, probability is not zero to simulate the universe by creating a finite set of fundamental laws, which every particle will abide while interacting with each other.
 Now, it's possible does not mean it actually is real. It's all a hypothesis.
@@ -129,7 +129,7 @@ After seeing all this, at least we can say that,
 
 It may never be possible to prove conclusively that the universe either is, or is not a simulation. But we will always push the limits of science and technology forward in pursuit of the question.
 
-Some researchers propose their theories about what they think is the truth, and some try to prove them wrong by counter arguments. Maybe that's how science grows. We may never find out what's the actual truth. But in trying to find out, we can discover new things, things that change the world. Like, the invention of the device in which you're reading this. Computers.
+Some researchers propose their theories about what they think is the truth, and some try to prove them wrong by counter arguments. Maybe that's how science grows. We may never find out what's the actual truth, which speaks to our <a href="https://prashantkikani.com/blog/meaning-of-life" target="_blank">meaning of life</a>. But in trying to find out, we can discover new things, things that change the world. Like, the invention of the device in which you're reading this. Computers.
 
 After the 2nd world war, Alan Turing and John von Neumann designed the first truly programmable electronic computer ENIAC based on his designs of breaking the cryptographic messages encoded using Enigma. And original idea for that came from Turing machines, which came from thinking about Hilbert's question "Is Math decidable?".
 

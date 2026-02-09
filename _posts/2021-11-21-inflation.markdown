@@ -18,7 +18,7 @@ Here's a bigger problem. The US government has taken huge debts in the last year
 
 Why is high debt a problem? Right now, interest rates are low, so the government does not have to pay a lot of interest on that massive debt. But once the interest rates rise, which it will eventually, the US government has to pay that massive interest to the lenders.
 
-Why will interest rates rise eventually? Right now, interest rates are low because the government wants to make it easier to take loans for people and businesses, so that they can spend more and eventually the economy will get back to pre-covid level. When money changes hands quickly, the economy thrives. When everybody becomes fearful of spending, the economy throttles to near death. That's why it's important for the government to incentivise spending. And to do that, they have to keep the interest rates low.
+Why will interest rates rise eventually? Right now, interest rates are low because the government wants to make it easier to take loans for people and businesses, so that they can spend more and eventually the economy will get back to pre-covid level. When money changes hands quickly, the economy thrives. When everybody becomes fearful of spending, the <a href="https://prashantkikani.com/blog/freedom-vs-equality" target="_blank">economy</a> throttles to near death. That's why it's important for the government to incentivise spending. And to do that, they have to keep the interest rates low.
 
 But, obviously they can't keep the interest rates low forever. Otherwise, people will take so much debt and will have so much money that inflation will go out of control. Because higher interest rates mean higher borrowing costs, and people will eventually start spending less, which will bring inflation under control. 
 
@@ -54,7 +54,7 @@ But here's the problem - underlying companies are not growing at the same pace a
 
 I really don't know what will happen from now. Everything is hitting all-time highs - stock(NASDAQ and S&P) markets, crypto markets, inflation, government's debt, real estate prices, company's(i.e. <a href="https://prashantkikani.com/blog/startup-ecosystem" target="_blank">startups</a>) private valuations - all of them are at their all-time highs!
 
-So, we really need to ask this question to ourselves: are these all-time highs because everything is actually this much greater, or it's just distorted?
+So, we really need to ask this question to ourselves: are these all-time highs because everything is actually this much greater, or it's just distorted? Human <a href="https://prashantkikani.com/blog/greed" target="_blank">greed</a> certainly plays a role in inflating these bubbles.
 
 It's really going to be interesting to see what happens in the future, so keep your popcorn ready for this mega-show! 
 

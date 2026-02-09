@@ -9,7 +9,7 @@ description: "The world we live in is not fair and equal. Lots of things depend 
 
 Sometimes a thought arises, the world which we live in is not fair. There are many things outside our control, but still we measure everyone with the same scale. Let's explore "unfairness" in this post.
 
-The biggest thing which has the most impact on our lives & which is completely outside our control is - our birthplace and the family we will be raised in. Your life trajectory will be far different if you were born in a wealthy and educated family in a developed country, compared to a poor family in a developed country which believes in crazy superstitions.      
+The biggest thing which has the most impact on our lives & which is completely outside our control is - our birthplace and the family we will be raised in. It's the ultimate <a href="https://prashantkikani.com/blog/luck" target="_blank">lottery</a>. Your life trajectory will be far different if you were born in a wealthy and educated family in a developed country, compared to a poor family in a developed country which believes in crazy superstitions.      
 
 And it's not just about the wealthiness and background of the family, their mindset and thinking patterns also matters a lot for your growth. And then comes our brothers/sisters - our buddies with which we spend all of our childhood and adolescence. The list doesn't end there, there are lots of other things which impact our lives and are outside of our control. 
 
@@ -17,7 +17,7 @@ So, you got the idea - lots of crucial things which highly impact our lives are 
 
 > In the "race of life", we all start from different starting lines.
 
-Counter-arguments of "life is not fair" are also there like, given that we can't control certain things in life, that does not mean, we can't change it. We can leave/change/update almost everything/everyone (sometimes with a short-term pain) which plays a pivotal role in our life. I will leave it like that.   
+Counter-arguments of "life is not fair" are also there like, given that we can't control certain things in life, that does not mean, we can't change it. Our <a href="https://prashantkikani.com/blog/freedom" target="_blank">freedom</a> to act is still in our hands. We can leave/change/update almost everything/everyone (sometimes with a short-term pain) which plays a pivotal role in our life. I will leave it like that.   
 
 > If you are born poor, it's not your mistake, but if you die poor, it's your mistake. -Bill Gates
 
@@ -35,13 +35,13 @@ Stopping the comparison seems one of the possible solutions. But it's easier sai
 
 And even our society does not follow that. From the grading system in schools/colleges to number of followers/subscribers/views in social media to how much <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> one earns. Whatever can be measured, will be measured and compared eventually. We, as a society, incentivize people to get better grades or get more followers or earn more money. I am not saying there's anything wrong with that, there are benefits of comparison also. I am just conveying, that's the way this society works. 
 
-But there are some benefits also. Healthy comparison can push us to improve ourselves. Healthy comparison sometimes can turn out to be helpful, actually.
+But there are some benefits also. Healthy comparison can push us to improve ourselves. Healthy comparison sometimes can turn out to be helpful, actually. It's about finding a <a href="https://prashantkikani.com/blog/happy-life" target="_blank">realistic way to stay happy</a> despite the unfairness.
 
 <br/>
 
 ## Healthy comparison
 
-For me, healthy comparison means comparing factors which are in control of both the parties. Like, the amount of effort they put in to achieve something.
+For me, healthy comparison means comparing factors which are in control of both the parties. It's about finding the <a href="https://prashantkikani.com/blog/gray-zone" target="_blank">gray zone</a>. Like, the amount of effort they put in to achieve something.
 
 So, basically whenever you feel - "life is unfair", check once you are only seeing factors which are in your control. There's no point thinking much about factors which are not in your control and impacting your life negatively.
 

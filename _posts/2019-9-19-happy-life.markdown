@@ -22,7 +22,7 @@ And everything you think or do is but an elaborate avoidance of it.
 We are inconsequential cosmic dust, bumping and milling about on a tiny blue speck. We imagine our own importance.
 <mark>We invent our purpose</mark> - we are nothing.
 
-So what? Should we all give up whatever we are doing as nothing matters anyway? Surely NO. Nihilism can sometimes make us question the meaning of life & our existence in this universe.
+So what? Should we all give up whatever we are doing as nothing matters anyway? Surely NO. Nihilism can sometimes make us question the <a href="https://prashantkikani.com/blog/meaning-of-life" target="_blank">meaning of life</a> & our existence in this universe.
 
 This leads to the idea of <a rel="nofollow" target="_blank" href="https://www.becomingminimalist.com/what-is-minimalism/">minimalism</a>. We'll discuss that in a while.
 
@@ -104,7 +104,7 @@ Real world doesn't give instant gratification as modern technology & social medi
 
 ## A thought on Comparison
 
-People say, don't compare yourself with others, you'll end up sad. That's not true. Comparison is not bad. Unhealthy comparison is bad.
+People say, don't compare yourself with others, you'll end up sad. That's not true. Comparison is not bad. Unhealthy comparison is bad. Life is inherently <a href="https://prashantkikani.com/blog/unfairness" target="_blank">unfair</a>, but healthy comparison can push us forward.
 
 Messi is getting better everyday because of Ronaldo; Ronaldo is getting better everyday because of Messi. Same is true for Google & Microsoft, Pepsi & Coca-cola, Adidas & Nike. They do healthy comparisons. If they can do it better why can't we?
 
@@ -120,9 +120,9 @@ To be happy in long term,
 
 FYI, If you have food, clothes & a home to live in, you are already far happier than billions of people in the world. Think this way.
 
-Since the evolution of mankind, 100 billion human beings have walked the Earth. If you are reading this, you are likely in the top 1% by any measure: opportunity, security, happiness. In fact, you might be in the top 0.1% or even 0.01%. What an amazing opportunity. You're truly among the blessed.
+Since the evolution of mankind, 100 billion <a href="https://prashantkikani.com/blog/insignificance" target="_blank">human beings</a> have walked the Earth. If you are reading this, you are likely in the top 1% by any measure: opportunity, security, happiness. In fact, you might be in the top 0.1% or even 0.01%. What an amazing opportunity. You're truly among the blessed.
 
-Happiness is all that matters at the end of the day.
+<a href="https://prashantkikani.com/blog/happiness-is-personal" target="_blank">Happiness</a> is all that matters at the end of the day.
 
 Here's another similar post on the topic of "[Reel Life](https://prashantkikani.com/blog/reel-life)" in which explore that, whatever we see on social media is not the entire picture. People only share their good, happy and positive moments with others via social media, which is not the full picture.   
 

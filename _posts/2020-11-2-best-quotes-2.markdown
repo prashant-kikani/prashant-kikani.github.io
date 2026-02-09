@@ -26,7 +26,7 @@ Whatever happens outside of ourselves, happens first inside our brains. So, if w
 
 > "The modern devil is cheap dopamine." -Naval
 
-Social media has created this cheap dopamine cycle which has affected almost everyone. That constant desire to get more likes & followers, have affected (negatively) our brains.   
+Social media has created this cheap dopamine cycle which has affected almost everyone. It's the <a href="https://prashantkikani.com/blog/reel-life" target="_blank">reel life</a> trap. That constant desire to get more likes & followers, have affected (negatively) our brains.   
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -98,9 +98,9 @@ Most of the time, we are the ones who need to take responsibility for what happe
 
 11.
 
-> "Science requires skepticism. Religion requires belief." -Naval
+> "Science requires skepticism. <a href="https://prashantkikani.com/blog/religion" target="_blank">Religion</a> requires belief." -Naval
 
-Science tells us to question everything. Even the basic beliefs. But religion tells us to believe big things without questioning it with expectation of proper logical answers which makes sense.
+Science tells us to <a href="https://prashantkikani.com/blog/challenge-assumptions" target="_blank">question everything</a>. Even the basic beliefs. But religion tells us to believe big things without questioning it with expectation of proper logical answers which makes sense.
 
 <hr style="height:0px; color:rgb(240,240,240); background-color:#DCDCDC;"><br/>
 
@@ -162,7 +162,7 @@ The attitude of "question everything" is gold. Don't blindly believe what someon
 
 19.
 
-> "Long-term thinking is simple once you are the master of your short-term desires." -Unknown
+> "<a href="https://prashantkikani.com/blog/great-filter" target="_blank">Long-term thinking</a> is simple once you are the master of your short-term desires." -Unknown
 
 When you can give-up short-term desires, long-term thinking becomes easy. As generally in long-term thinking, we need to make some sacrifices in the short-term.
 
@@ -177,7 +177,7 @@ Everything has lots of effort inside them. See the beauty of it & don't take the
 
 <br/>
 
-Reading alone is not enough, take inspiration from above quotes & apply them in your life too.
+Reading alone is not enough, take inspiration from above quotes & apply them in your <a href="https://prashantkikani.com/blog/happy-life" target="_blank">life</a> too.
 
 There are so many more of these. I think I need to create a 3rd part..
 

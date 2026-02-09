@@ -7,7 +7,7 @@ permalink: "/blog/desire-to-be-liked"
 description: "The Desire to Be Liked: Balancing Authenticity in a World of Approval-Seeking"
 ---
 
-In today's world, many of us are driven by a deep-rooted desire: the desire to be liked. Whether it's in social circles, at work, or even online, we often find ourselves crafting our personalities, opinions, and actions in ways that make us more acceptable or appealing to others. This quest for validation, while understandable, sometimes comes at the cost of authenticity.
+In today's world, many of us are driven by a deep-rooted desire: the desire to be liked. This is one of the fundamental <a href="https://prashantkikani.com/blog/human-desires-downsides/" target="_blank">flaws of human psychology</a>. Whether it's in social circles, at work, or even online, we often find ourselves crafting our personalities, opinions, and actions in ways that make us more acceptable or appealing to others. This quest for validation, while understandable, sometimes comes at the cost of authenticity.
 
 The desire to be liked isn't inherently wrong, but when it starts shaping our thoughts and behaviors, we risk losing touch with who we truly are. So how do we balance the need for acceptance with the value of being authentic? Let's dig into this common social dilemma.
 
@@ -15,7 +15,7 @@ The desire to be liked isn't inherently wrong, but when it starts shaping our th
 
 ## Why We Crave Approval
 
-Humans are inherently social creatures. From early evolution, being part of a tribe or group meant survival. This need for acceptance runs deep in our psychology. In the modern context, being liked or accepted by our peers doesn't just fulfill an emotional need-it provides social capital, professional opportunities, and a sense of belonging.
+Humans are inherently social creatures. From early evolution, being part of a tribe or group meant survival. This is deeply wired into our <a href="https://prashantkikani.com/blog/adaptability" target="_blank">adaptive</a> nature. This need for acceptance runs deep in our psychology. In the modern context, being liked or accepted by our peers doesn't just fulfill an emotional need-it provides social capital, professional opportunities, and a sense of belonging.
 
 But in a world of hyperconnectivity, where social media “likes” and external validation have become easy metrics of our worth, this natural inclination has taken on new forms. The pressure to present a "curated version" of ourselves-whether in person or online-often leads us to suppress our true thoughts and feelings in favor of what we think will make us more likable, cool, or popular.
 
@@ -41,7 +41,7 @@ But the question is: at what cost? While avoiding judgment might keep you in peo
 
 Being authentic often comes with a trade-off-you might lose some people's approval. Not everyone will agree with your viewpoints, your choices, or your way of life. But here's the thing: authenticity also attracts the right kind of people. When you express your true self-whether through your ideas, lifestyle, or personality-you draw in people who resonate with the real you. These are the relationships that tend to be deeper and more meaningful.
 
-Conversely, living to please everyone means surrounding yourself with people who might not understand or appreciate the real you. The connections built on approval-seeking are often superficial and don't lead to true fulfillment.
+Conversely, living to please everyone means surrounding yourself with people who might not understand or appreciate the real you. The connections built on approval-seeking are often superficial and don't lead to true fulfillment or <a href="https://prashantkikani.com/blog/meaning-of-life" target="_blank">meaning in life</a>.
 
 <br/>
 
@@ -66,7 +66,7 @@ Humble authenticity involves:
 
 ## Why Authenticity Wins in the Long Run
 
-Acting to be liked may give you short-term rewards, such as social approval or fitting in. But living authentically provides long-term fulfillment. The connections you form will be deeper because they're based on who you really are, not the version of yourself you think others want to see. You'll find greater satisfaction in knowing that the people around you genuinely accept you for you-not for some manufactured persona.
+Acting to be liked may give you short-term rewards, such as social approval or fitting in. But living authentically provides long-term <a href="https://prashantkikani.com/blog/happiness-is-personal" target="_blank">fulfillment</a>. The connections you form will be deeper because they're based on who you really are, not the version of yourself you think others want to see. You'll find greater satisfaction in knowing that the people around you genuinely accept you for you-not for some manufactured persona.
 
 <br/>
 

@@ -14,7 +14,7 @@ And in this finite amount of time we have got in this world, what should we work
 Some of you may know about the belief of <a href="https://iep.utm.edu/nihilism/" target="_blank">Nihilism</a> which conveys that, almost everything in life is meaningless.
 There's no point in doing anything as eventually nothing matters. Basically, kind of a pessimistic view of life. Let's see if there's a better way to look at it.
 
-As we Homo sapiens grew from Homo neanderthalensis and Homo erectus, we learned that there are billions and billions of other things in this universe and our Earth is like a dust particle in the full picture. We learned that we are made of many little dead things called "cells", which make up bigger things that are not dead for some reason.
+As we Homo sapiens grew from Homo neanderthalensis and Homo erectus, we learned that there are billions and billions of other things in this universe and our Earth is like a dust particle in the full picture. We learned that we are made of many little dead things called "cells", a chain of <a href="https://prashantkikani.com/blog/impossible-human" target="_blank">impossible miracles</a>, which make up bigger things that are not dead for some reason.
 
 We learned, in awe, that we live on a moist speck of dust(i.e. Earth) moving around a medium sized star, in a quiet region of one arm of an average galaxy, which is part of a galaxy group that we will never leave.
 And this group is only one of thousands that, together, make up a supercluster. But even our supercluster is one in thousands that make up what we call the observable universe.
@@ -23,11 +23,11 @@ And this group is only one of thousands that, together, make up a supercluster. 
 </center> 
 <br/>
 
-So, we're super tiny on the scale of the universe, but so what? Rather than being sad/unsatisfied by looking at things we don't have, or can't have, we should be happy/satisfied by looking at things we do have or can have. Why should we be happy? Because life is finite.
+So, we're super tiny on the scale of the <a href="https://prashantkikani.com/blog/insignificance" target="_blank">universe</a>, but so what? Rather than being sad/unsatisfied by looking at things we don't have, or can't have, we should be happy/satisfied by looking at things we do have or can have. Why should we be happy? Because life is finite.
 
 In this limited time, we have two choices, either to be happy and enjoy things till we die, or be sad no matter what we have achieved.
 
-While not all things are in our control, some things are. We get to choose what we want to do in our life. If we make bad decisions, we are free to learn from them and move on. 
+While not all things are in our control, some things are. We get to choose what we want to do in our life. If we make bad decisions, we are <a href="https://prashantkikani.com/blog/freedom" target="_blank">free</a> to learn from them and move on. 
 
 The freedom of choosing our own future is not a small thing to be grateful for. If the universe has no goals, the only goal is what we decide on.
 

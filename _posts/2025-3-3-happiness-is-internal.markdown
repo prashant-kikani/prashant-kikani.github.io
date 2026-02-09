@@ -28,7 +28,7 @@ This shows that happiness is deeply personal. It cannot be judged by material po
 
 As people become wealthier, they tend to normalize their luxuries. A new car, a bigger house, or designer clothes may provide short-term excitement, but eventually, they become just another part of life. This is known as the *hedonic treadmill*-the psychological tendency to return to a baseline level of happiness despite external gains.
 
-This means that no matter how much <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> you make, no matter how many things you buy, true happiness does not lie in material excess. If you are unhappy today, reaching a million dollars won't change that in the long run.
+This is why <a href="https://prashantkikani.com/blog/greed" target="_blank">greed</a> never leads to lasting joy. This means that no matter how much <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> you make, no matter how many things you buy, true happiness does not lie in material excess. If you are unhappy today, reaching a million dollars won't change that in the long run.
 
 <br/>
 
@@ -46,7 +46,7 @@ Let's assume you own all the luxury items money can buy-sports cars, mansions, d
 
 Most likely, it won't be from those material possessions. It will come from watching your parents smile, seeing your kids grow, spending quality time with your spouse, or even just sitting peacefully with a cup of tea. 
 
-These moments are priceless, and ironically, they are not expensive at all.
+These moments are priceless, and ironically, they are not expensive at all. This is the true <a href="https://prashantkikani.com/blog/meaning-of-life" target="_blank">meaning of life</a>.
 
 <br/>
 

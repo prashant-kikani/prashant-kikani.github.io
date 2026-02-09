@@ -13,7 +13,7 @@ They do this by constant innovation and competing against others to make their p
 Characteristics of capitalism include capital accumulation, competitive markets, and a price system.
 It allows people to become owners of massive trillion-dollar juggernaut businesses and have a net worth of hundreds of billions of dollars.  
 
-Capitalism provides economic incentives to people to out-invent & out-earn others to make their capitalistic dreams come true.
+Capitalism provides economic incentives to people to out-invent & out-earn others to make their <a href="https://prashantkikani.com/blog/freedom" target="_blank">capitalistic dreams</a> come true.
 
 Entrepreneurs and businessmen have great economic incentives to strive to make their products better and to serve their customers. And no, making a lot of <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> is certainly not their prime motive while building a great product, but it can be one of them. Who doesn't like to get paid for their blood, sweat & tears that they poured into their companies?  
 
@@ -27,7 +27,7 @@ That's why governments across the globe don't like monopolies. Because monopoly 
 
 ## Inequality
 
-Because of capitalism, some people i.e. entrepreneurs and businessmen, economically "get ahead" i.e. become wealthier than a large chunk of people in society. Because of that, equality suffers. 
+Because of capitalism, some people i.e. <a href="https://prashantkikani.com/blog/startup-ecosystem" target="_blank">entrepreneurs and businessmen</a>, economically "get ahead" i.e. become wealthier than a large chunk of people in society. Because of that, equality suffers. 
 
 That's why, many people don't like capitalism, as it creates economic inequality in society. Some people get so rich that their net worth becomes larger than the GDP of entire countries and they can <a href="https://www.bbc.com/news/science-environment-57849364" target="_blank">fly to space</a> in their rockets all by themselves!
 
@@ -55,7 +55,7 @@ Millions of people came online because of very low prices of internet plans of J
 
 > If we see great innovation in the last couple of decades, most of them came because of capitalism & free markets. Entrepreneurs like Gordon Moore and Robert Noyce of Intel were incentivized to make semiconductors in the 1960s, which led the personal computer(PC) revolution and which led to internet revolution and which eventually led to mobiles and smartphones revolution and on these massive platforms, companies like Facebook, Google, Amazon and Microsoft thrived to reach public valuation of trillions of dollars. 
 
-I think innovation needs an incentive for people to do the hard work for many years and ultimately make billions of dollars. And <b>capitalism acts as that incentive for people to innovate and lead the progress of societies</b>.
+I think <a href="https://prashantkikani.com/blog/challenge-assumptions" target="_blank">innovation</a> needs an incentive for people to do the hard work for many years and ultimately make billions of dollars. And <b>capitalism acts as that incentive for people to innovate and lead the progress of societies</b>.
 
 
 

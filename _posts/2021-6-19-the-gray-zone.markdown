@@ -11,7 +11,7 @@ The goal of this post is to realize the fact that almost everything in life is n
 
 Black and white thinking(aka dichotomous thinking) is the tendency to think in extremes. Like, she's a brilliant success, or I am an utter failure. It is also called [polarized thinking](https://www.alleydog.com/glossary/definition.php?term=Polarized+Thinking).
 
-Seeing the world in black or white prevents us from seeing the world as it often is: complex, nuanced, and full of all the shades in between black and white. The tendency to think in terms of extremes doesn't allow us to see the middle ground, it prevents us from seeing the depth and nuance of the topic. We need gray thinking here. What is gray thinking? Grey thinking is the in-between spectrum of black or white.
+Seeing the world in black or white prevents us from seeing the world as it often is: complex, nuanced, and full of all the shades in between black and white. The tendency to think in terms of extremes doesn't allow us to see the middle ground, it prevents us from seeing the depth and nuance of the topic. We need to <a href="https://prashantkikani.com/blog/challenge-assumptions" target="_blank">challenge</a> this tendency. We need gray thinking here. What is gray thinking? Grey thinking is the in-between spectrum of black or white.
 
 Using words like: always, never, impossible is black and white thinking. Instead in gray thinking, always and never becomes 'sometimes'. All or nothing becomes 'some'. Perfect or imperfect become 'good at some things, bad at others'.
 
@@ -39,7 +39,7 @@ Moral of the story is, we can't judge someone is totally good/bad just because t
 
 ## Psychological aspects
 
-Sometimes, our brain kind of works in binary mode. It labels everything as either good or bad. Why? To avoid the complex thinking to decide whether something is truly good or not. It takes effort to see every possible point of view or aspect of the situation and to think from other people's perspectives. Basically, it takes effort to see the full picture. So the brain tries to avoid all that effort. It over simplifies things to label that thing to either black or white.
+Sometimes, our brain kind of works in binary mode. It labels everything as either good or bad. It's a <a href="https://prashantkikani.com/blog/human-desires-downsides/" target="_blank">flaw of human psychology</a>. Why? To avoid the complex thinking to decide whether something is truly good or not. It takes effort to see every possible point of view or aspect of the situation and to think from other people's perspectives. Basically, it takes effort to see the full picture. So the brain tries to avoid all that effort. It over simplifies things to label that thing to either black or white.
 
 World which we live in is far more complex and nuanced than we realize and there are so many moving parts in the equation which are not in our control. So, instead of making some effort to think about something, our brain directly reaches to some conclusion by oversimplifying it.
 
@@ -52,7 +52,7 @@ Researchers think that when we experience trauma, we may develop dichotomous thi
 <center><img src="../assets/black-white-gray.png"/></center> 
 <br/>
 
-"Black and white thinking" can give us a measure of security. After all, who doesn't want to think they have all the answers? But it can also cut us off from the complexity and richness of life.
+"Black and white thinking" can give us a measure of security. But life is much more <a href="https://prashantkikani.com/blog/happy-life" target="_blank">nuanced</a> than that. After all, who doesn't want to think they have all the answers? But it can also cut us off from the complexity and richness of life.
 
 I think we should not directly jump to conclusions and think something/someone is good or bad. Most things fall into the gray zone.
 

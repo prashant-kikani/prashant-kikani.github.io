@@ -45,7 +45,7 @@ In this sense, societies that adopted a unifying belief system were likely more 
 
 ## The Double-Edged Sword of Belief
 
-Of course, the same power that binds people together can also be used to tear them apart. Acknowledging the benefits of religion requires us to be honest about its dark side.
+Of course, the same power that binds people together can also be used to tear them apart. The world is not <a href="https://prashantkikani.com/blog/gray-zone" target="_blank">black and white</a>. Acknowledging the benefits of religion requires us to be honest about its dark side.
 
 *   **Exploitation:**<br/>
 Throughout history, people's "<a href="https://prashantkikani.com/blog/god-of-the-gaps" target="_blank">blind faith</a>" has been exploited by corrupt leaders for power, wealth, and control.
@@ -58,7 +58,7 @@ Because religious doctrines are often considered sacred and unchanging, they can
 
 ## Is Religion Becoming Obsolete in the 21st Century?
 
-This brings us to the modern world. If religion served as a kind of operating system for early, less-educated societies, do we still need it now? In developed nations with robust legal systems, scientific institutions, and widespread education, it seems many of religion's original functions have been outsourced. We have secular laws for morality and science for explaining the universe.
+This brings us to the modern world. If religion served as a kind of operating system for early, less-educated societies, do we still need it now? Perhaps it's time to <a href="https://prashantkikani.com/blog/challenge-assumptions" target="_blank">challenge these assumptions</a>. In developed nations with robust legal systems, scientific institutions, and widespread education, it seems many of religion's original functions have been outsourced. We have secular laws for morality and science for explaining the universe.
 
 This line of thinking is known as the **Secularization Thesis** - the idea that as societies modernize, religion will inevitably fade away. And in many parts of Western Europe, we see evidence of this.
 

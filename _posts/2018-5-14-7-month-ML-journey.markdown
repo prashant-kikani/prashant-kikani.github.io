@@ -25,7 +25,7 @@ I will divide this post in <b>3 parts</b>.
 
 This question is very common in almost all of the aspirants. One basic analogy is, one needs to have at least basic knowledge of statistics, calculus (specially for Deep Learning) and linear algebra to understand concepts of Machine Learning & Deep Learning. Remember I have said “<b>basic</b>”. You don't need to be an expert in it. And if you have done good high school studies, you most probably have it. So, congrats. You already have a base of ML!!
 
-While starting, remember one thing. <b>Learn in [BFS](https://en.wikipedia.org/wiki/Breadth-first_search) manner, not in [DFS](https://en.wikipedia.org/wiki/Depth-first_search) manner</b>. What I want to say is, try to grasp the overall idea of each and every concept of ML. Don't just pick one algorithm and do very deep in it. Remember, in ML, there is no one such algorithm which always gives the best result. So, learn the basic concept of every algorithm. And apply them to some real world data.
+While starting, remember one thing. <b><a href="https://prashantkikani.com/blog/learning-to-learn" target="_blank">Learn</a> in [BFS](https://en.wikipedia.org/wiki/Breadth-first_search) manner, not in [DFS](https://en.wikipedia.org/wiki/Depth-first_search) manner</b>. What I want to say is, try to grasp the overall idea of each and every concept of ML. Don't just pick one algorithm and do very deep in it. Remember, in ML, there is no one such algorithm which always gives the best result. So, learn the basic concept of every algorithm. And apply them to some real world data.
 
 Now, the sources. [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning) is a perfect place to start. The way he teaches ML concepts is very good for beginners. Also, his <a rel="nofollow" target="_blank" href="https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599">Stanford course</a> is very good.
 
@@ -37,7 +37,7 @@ By doing these courses, you will at least have some idea what ML is all about, a
 
 I think there are <b>2 main ways</b> to grow your knowledge in ML. Projects & Competitions.
 
-Try to build something which includes some algorithm which you have just learned. It's not compulsory to select some high level cutting edge project definition. You can even choose to use simplest linear regression in your project. <b>Aim is to implement it and build some real world use case</b>. While building them, you will face many issues. But that's perfectly okay!! Find some fix as per your understanding. And move on.
+Try to build something which includes some algorithm which you have just learned. It's not compulsory to select some high level cutting edge project definition. You can even choose to use simplest linear regression in your project. <b>Aim is to implement it and build some real world use case</b>. While building them, you will face many <a href="https://prashantkikani.com/blog/solve-problems" target="_blank">issues</a>. But that's perfectly okay!! Find some fix as per your understanding. And move on.
 
 Second way is Competitions. [Kaggle](https://www.kaggle.com/) is one of the biggest data science communities. Take part in running competitions and learn as much as you can. Platforms like [KDnuggets](https://www.kdnuggets.com/), [Analytics Vidhya](https://www.analyticsvidhya.com/) are also good.
 
@@ -49,7 +49,7 @@ Read and try to understand other people's view on the same problem by [Kaggle ke
 
 ## How to maintain the growth in ML?
 
-This is very important. ML is a vast ocean. Even some great researchers don't know <b>all the concepts fully</b>. And you actually don't need to digest all concepts. And even if one knows all the concepts fully, his/her knowledge will not be “full” after a week or two. <mark>Because in ML, every week something new comes</mark>.
+This is very important. ML is a vast ocean. Even some great researchers don't know <b>all the concepts fully</b>. And you actually don't need to digest all concepts. And even if one knows all the concepts fully, his/her knowledge will not be “full” after a week or two. <mark>Because in ML, every week something new comes</mark>. <a href="https://prashantkikani.com/blog/adaptability" target="_blank">Adaptability</a> is key.
 
 Keep updated yourself by reading [latest research papers](http://www.arxiv-sanity.com/). Reading research papers is an art. You need to read them at least 2–3 times to grasp the very core of it. Try to understand what it is saying. Avoid mathematical formulas at first, if you find it cumbersome. Just grasp the idea. Learn these concepts and apply them in projects and competitions. You can keep up to date yourself in the cutting edge data science research by referring the publications from top tier conferences such as [ICML](https://icml.cc/), and reading blogs such as “[Import AI](https://jack-clark.net/)”.
 
@@ -61,7 +61,7 @@ You can also follow YouTube channels of [Sanyam](https://www.youtube.com/channel
 
 Also, keep visiting <a rel="nofollow" target="_blank" href="https://towardsdatascience.com/">Towards Data Science</a>, <a rel="nofollow" target="_blank" href="https://hackernoon.com/">Hacker Noon</a>, <a rel="nofollow" target="_blank" href="https://becominghuman.ai/">Becoming Human</a> like websites regularly. All these blog sites have plenty of great blogs written by ML professionals. Also use X / Twitter wisely. Follow some great professionals there and never be late to catch new things.
 
-> At last, One important thing. Don't expect results quickly. I have been doing ML for 7 months now. And I don't know many many concepts of ML (<b>knowing what you don't know is also an important thing</b>). You can't expect to understand and implement all the concepts in half a year.. Things will be understood as the time goes. Don't compare yourself with anyone. Just be the best version of yourself. Everyone is unique.
+> At last, One important thing. Don't expect results quickly. I have been doing ML for 7 months now. And I don't know many many concepts of ML (<b>knowing what you don't know is also an important thing</b>). You can't expect to understand and implement all the concepts in half a year.. Things will be understood as the time goes. Don't <a href="https://prashantkikani.com/blog/unfairness" target="_blank">compare yourself with anyone</a>. Just be the best version of yourself. Everyone is unique.
 
 And yes, you will need support when things are not going well. So, make a few besties with whom you can share everything including your achievements and sorrows. They will help you.
 

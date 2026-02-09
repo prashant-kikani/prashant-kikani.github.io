@@ -9,9 +9,9 @@ description: "Perhaps the most important skill one can learn is the ability to q
 
 There are too many things to learn out there, and our attention span is limited. So, we can not master every skill, but what we can do is to learn how to learn anything quickly. Let's explore the skill of "learning to learn" in this post.
 
-Provided we all want to grow in our lives and achieve some great things, the ability to handle multiple diverse tasks and deliver good results in all of them becomes crucial. And in today's fast moving world, many skills and abilities become irrelevant in a few years of time. So, skills that were giving us good results might not work now or in the near future.
+Provided we all want to grow in our lives and achieve some great things, the ability to handle multiple diverse tasks and deliver good results in all of them becomes crucial. <a href="https://prashantkikani.com/blog/adaptability" target="_blank">Adaptability</a> is key here. And in today's fast moving world, many skills and abilities become irrelevant in a few years of time. So, skills that were giving us good results might not work now or in the near future.
 
-Businessmen and entrepreneurs have to handle multiple diverse things to make sure their business thrive and achieve their yearly and quarterly targets. They have to handle things like finance, legal, product, design and the most important one - ability to attract great minds and retain them in the organization. When they started their businesses, they did not have little to no idea about some of those fields. So, if you want to start a business, you need the ability to learn these diverse skills fast enough to make sure your competitor does not get ahead of you.
+<a href="https://prashantkikani.com/blog/startup-ecosystem" target="_blank">Businessmen and entrepreneurs</a> have to handle multiple diverse things to make sure their business thrive and achieve their yearly and quarterly targets. They have to handle things like finance, legal, product, design and the most important one - ability to attract great minds and retain them in the organization. When they started their businesses, they did not have little to no idea about some of those fields. So, if you want to start a business, you need the ability to learn these diverse skills fast enough to make sure your competitor does not get ahead of you.
 
 We just saw an example of businessmen and entrepreneurs but even if you don't want to start your own business or venture, if you want to do something great, you need to learn many diverse things.
 
@@ -48,7 +48,7 @@ Point was to convey that, when I see YouTube videos of "X" from multiple channel
 
 Your way to reach the stage of "break it down to small and simple things" can be different. But once you reach there, once you simplify it in small things, it becomes easier to learn that thing.
 
-I think we also need aspiration and a little bit of curiosity to constantly push ourselves to learn new things.
+I think we also need aspiration and a little bit of curiosity to constantly push ourselves to learn new things. This curiosity is what gives <a href="https://prashantkikani.com/blog/meaning-of-life" target="_blank">meaning to life</a>.
 
 <br/>
 

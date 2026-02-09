@@ -11,7 +11,7 @@ Let's explore the startup world, and every stakeholder connected to it.
 
 Here startup does not only include relatively big venture funded companies but also, small and medium size businesses. 
 
-Center of the startup ecosystem is the entrepreneur or businessmen who started or inherited the business. We also call them “founders”, people who founded the business.
+Center of the startup ecosystem is the entrepreneur or businessmen who started or inherited the business. Our <a href="https://prashantkikani.com/blog/capitalism" target="_blank">capitalistic</a> world incentivizes this. We also call them “founders”, people who founded the business.
 
 Every startup serves some customers by solving their problems. What's a customer? Customer is the guy who gives money to a startup in return for their product or services.
 
@@ -19,7 +19,7 @@ There's a difference between "user" and "customer". User is just the guy who use
 
 There are employees, people who work at the startup. They are getting paid by monthly/weekly salary + sometimes some <a href="https://prashantkikani.com/blog/stock-market" target="_blank">stocks</a>(i.e. ESOPs) of the startup they are working on.
 
-Then there are "investors". Who invests their/someone else's money in startups in return of some portion of the company(i.e. equity). Why do they invest money in startups? Because they think that this company will get more valuable in future and the money they are investing will give them 5x, 10x or sometimes 100x returns. We'll explore investors in detail later in this post.
+Then there are "investors". Who invests their/someone else's money in startups in return of some portion of the company(i.e. equity). Why do they invest <a href="https://prashantkikani.com/blog/money" target="_blank">money</a> in startups? Because they think that this company will get more valuable in future and the money they are investing will give them 5x, 10x or sometimes 100x returns. We'll explore investors in detail later in this post.
 
 So, these are the major stakeholders of a startup, or any business for that matter:
 1. Founders
@@ -167,7 +167,7 @@ In an IPO, basically the company is offering their shares for the common public 
 
 Initial stack-holders of the company like Angel investors or the founders or early employees, can sell their shares in return for the money. They will sell their shares to the company at a certain price(hopefully much higher than they got) and the company will sell those shares to the retail public like you and me.
 
-So, in our startup story, 2 founders started with their own money and after a couple of years, the company is big enough and they can exit by M&A or IPO with 100x or sometimes 1000x returns.
+So, in our startup story, 2 founders started with their own money and after a couple of years, the company is big enough and they can exit by M&A or IPO with 100x or sometimes 1000x returns. Of course, a lot of <a href="https://prashantkikani.com/blog/luck" target="_blank">luck</a> is also involved.
 
 This is a simple explanation of how a startup goes from the origin to exit. This post will keep getting updated as the time goes.
 
