@@ -4,7 +4,7 @@ title:  "The Democratic Dilemma: Do All Roads Lead to a Crony Welfare State?"
 date:   2025-06-24 # yyyy-mm-dd
 keyword: Populist Clientelism, Crony Welfare State, Democracy and Inequality, Political Economy of India, Electoral Populism, Politics of Government Handouts, Brain Drain and Politics
 permalink: "/blog/democratic-dilemma"
-description: "This article explores how the <a href="https://prashantkikani.com/blog/religion" target="_blank">democratic</a> need for votes in highly unequal countries often bypasses true social welfare, instead creating a \"crony welfare state\" built on targeted handouts, the performance of power, and a managed decline of public good."
+description: "This article explores how the democratic need for votes in highly unequal countries often bypasses true social welfare, instead creating a \"crony welfare state\" built on targeted handouts, the performance of power, and a managed decline of public good."
 ---
 
 Does democracy, the system designed to empower the people, almost always lead to an economy that feels socialist in practice? This is not about the textbook socialism of state-owned factories, but a modern reality: a nation that is capitalist on paper, yet where the government's primary role becomes the mass distribution of "freebies" in a perpetual campaign for votes.
