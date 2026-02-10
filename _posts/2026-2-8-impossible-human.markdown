@@ -64,16 +64,18 @@ If Earth is our house, the Solar System is a very dangerous neighborhood. Drifti
 
 **The Miracle:**
 We happen to have a "Big Brother" (with a mass 318 times larger than Earth) i.e. Jupiter, forming further out in the cold depths, acted as a cosmic slingshot.
-*   **The Delivery (The Sniper):** Jupiter’s massive gravity grabbed icy asteroids and comets from the outer solar system and flung them inward, smashing them into Earth. These impacts didn't just bring destruction; they delivered the **water** that now fills our oceans.
+*   **The Delivery (The Sniper):** 
+    *   Jupiter’s massive gravity grabbed icy asteroids i.e. "Carbonaceous Chondrites" from the outer asteroid belt and flung them inward, smashing them into Earth. These impacts didn't just bring destruction; they delivered the **water** that now fills our oceans.
+    *   These impacts were violent, but they delivered the water that vaporized into steam and eventually rained down for centuries to form our oceans.
 *   **The Protection (The Shield):** 
-    *   Once the oceans were filled, Jupiter settled into a stable role. It now acts as a shepherd, keeping the main Asteroid Belt in check and absorbing many dangerous long-distance comets before they can reach us. 
+    *   Once the oceans were filled, Jupiter settled into a stable orbit. It now acts as a shepherd, keeping the main Asteroid Belt in check and absorbing many dangerous long-distance comets before they can reach us. 
     *   During the early chaotic days of the solar system, Jupiter (and Saturn) likely acted as a shield, absorbing or flinging away comets that came from the outer dark.
     *   Jupiter is so massive that it acts as the gravitational anchor of the solar system. It corralled most of the dangerous rocks into the **Asteroid Belt** (between Mars and Jupiter) and kept them there.
 
 Calculations suggest that without a gas giant of Jupiter's specific size and orbit, the impact rate on Earth could be **1,000 times higher**.
 
 **The Result:**
-Jupiter played the perfect "double-agent." It threw icy rocks at us when we needed water, and then stopped (mostly) when we needed safety for evolution to do it's magic. Without this specific gravitational dance, Earth would either be a dry desert or a shooting gallery-neither of which could support human life.
+Jupiter played the perfect "double-agent." It threw icy rocks at us when we needed water, and then stopped (mostly) when we needed safety for evolution to do it's magic. Without this specific gravitational dance, Earth would either be a dry desert or a shooting gallery - neither of which could support human life.
 
 <br/>
 
