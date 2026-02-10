@@ -131,7 +131,7 @@ About 1.5 billion years ago, a large single-celled ancestor swallowed a smaller 
 
 > You are essentially a colony of ancient bacteria living inside a larger host.
 
-#### The "Broken" Genes: The Vitamin C Accident
+### The "Broken" Genes: The Vitamin C Accident
 Finally, there is the evidence of our clumsy evolution. Humans are one of the few mammals that cannot produce their own Vitamin C. Dogs, cats, and cows make it internally.
 
 **The Accident:**
