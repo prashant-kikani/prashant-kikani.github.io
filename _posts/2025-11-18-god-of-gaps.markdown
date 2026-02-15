@@ -15,6 +15,8 @@ The concept is simple: in any age, we tend to attribute things we can't scientif
 
 This isn't a new phenomenon. It's a consistent pattern in human history. And by tracing it, we can get a fascinating glimpse into the relationship between science, faith, and the very nature of what we consider a "mystery."
 
+> *"Consider the terror of a Solar Eclipse in 2000 BC. Without knowledge of orbits, the sudden blackening of the sun wasn't a phenomenon; it was a dragon eating the light, or a god turning their back on humanity. Drums were beaten to scare the dragon; sacrifices were made to appease the god. Today, we don't beat drums; we check the NASA website for the best viewing angle. The 'God' in that gap didn't disappear; he was replaced by geometry."*
+
 <br/>
 
 ### The Gaps That Closed: A Walk Through History
@@ -36,6 +38,25 @@ The history of science is, in many ways, a history of closing these gaps. Once, 
 *   **The Mystery of Life's Diversity:** How did we get so many millions of perfectly-adapted species?
     *   **The Gap Explanation:** God created each animal and plant in its final, perfect form during a single act of creation.
     *   **The Scientific Explanation:** Darwin's theory of evolution by natural selection showed how life could develop immense complexity over vast timescales through entirely natural processes, driven by <a href="https://prashantkikani.com/blog/adaptability" target="_blank">adaptability</a>.
+
+*   **Solar Eclipses: The Dragon Eating the Sun:**
+    *   **The Mystery:** The sun, the source of all life and warmth, suddenly turns black in the middle of the day.
+    *   **The Gap Explanation:** Almost universally, ancient cultures viewed this as a terrifying supernatural event.
+        *   **Ancient China:** A celestial dragon was devouring the sun. People would bang drums and make loud noises to scare the beast away.
+        *   **Vikings:** Two wolves, Sköll and Hati, finally caught the sun and moon to devour them, signaling Ragnarök (the end of the world).
+    *   **The Scientific Explanation:** It is a quirk of cosmic geometry. The moon passes between the Earth and the Sun. Because the moon is 400 times smaller than the sun but also 400 times closer to Earth, they appear the same size, creating a perfect shadow. We can now predict these events to the second, centuries in advance.
+
+*   **Mental Illness and Epilepsy: The Sacred Disease**
+    *   **The Mystery:** A perfectly healthy person suddenly collapses, shakes violently, foams at the mouth, or begins hearing voices and acting like a different person.
+    *   **The Gap Explanation:** Demonic possession or being "touched" by the gods.
+        *   **Medieval Europe:** Trepanation (drilling a hole in the skull) was sometimes used to let evil spirits escape.
+        *   **Ancient Greece:** Epilepsy was called "The Sacred Disease" because it was believed that only a god could throw a person to the ground and take away their senses so instantly.
+    *   **The Scientific Explanation:** Neurology and psychiatry. We now understand these as electrical storms in the brain (seizures) or chemical imbalances (schizophrenia, bipolar disorder). We treat them with medication, not exorcisms.
+
+*   **Comets: The Harbingers of Doom**
+    *   **The Mystery:** A new "star" appears in the sky with a long, glowing tail, moving differently than the other stars.
+    *   **The Gap Explanation:** These were messages from God, usually warning of famine, war, or the death of a king. When Halley’s Comet appeared in 1066, the Anglo-Saxons viewed it as a divine omen predicting their defeat (which happened at the Battle of Hastings).
+    *   **The Scientific Explanation:** They are "dirty snowballs"—chunks of ice and rock left over from the formation of the solar system. As they get close to the sun, the ice turns to gas, creating the tail. They follow strict gravitational orbits.
 
 <br/>
 
