@@ -13,7 +13,7 @@ But before we sink into the ocean of nihilism, let's take a closer look at this.
 
 <br/>
 
-### **1. Human Insignificance on a Cosmic Scale**
+### 1. Human Insignificance on a Cosmic Scale
 
 Imagine standing on a beach, holding a grain of sand between your fingers. Now, imagine that grain of sand is Earth. That's how small our planet is in the context of the observable universe. Earth is just one of over 100 billion planets in our galaxy, and our galaxy is just one of over 100 billion galaxies. In a cosmic sense, we are nothing more than dust-tiny specks in an unfathomably large universe.
 
@@ -23,7 +23,7 @@ Depressing? Not really. It's just a perspective-a lens through which we can view
 
 <br/>
 
-### **2. Forgetfulness Across Generations**
+### 2. Forgetfulness Across Generations
 
 Here's another reality check: even if you make a lasting impact on the world, how long will people actually remember? Think about your great-great-grandparents. Do you know their names? Their professions? How they spent their days? Most of us don't. We are <a href="https://prashantkikani.com/blog/luck" target="_blank">lucky</a> if we can recall a few fragments of their lives, let alone any meaningful details.
 
@@ -33,7 +33,7 @@ We can strive for greatness, but the truth is that most of us will be forgotten 
 
 <br/>
 
-### **3. Nihilism Isn't the Answer**
+### 3. Nihilism Isn't the Answer
 
 Faced with this sobering thought, it's easy to fall into nihilism, to ask, “What's the point of anything?” If the universe doesn't care about us and if even our family will forget us in a few generations, why bother at all?
 
@@ -43,7 +43,7 @@ The universe may be indifferent, but we, as human beings, are not. Life isn't ab
 
 <br/>
 
-### **4. Embracing the Smallness**
+### 4. Embracing the Smallness
 
 Here's where the beauty of our insignificance comes into play. Once you accept that your life won't matter much in the grand scheme of things, you're <a href="https://prashantkikani.com/blog/freedom" target="_blank">free</a> to focus on what truly does matter: the small, everyday moments that make up your personal universe.
 
@@ -53,7 +53,7 @@ Our professional lives, our jobs, our careers-these are tools, not destinations.
 
 <br/>
 
-### **5. What Truly Matters**
+### 5. What Truly Matters
 
 If most of us will never be remembered beyond a few generations, what should we focus on? The answer lies in the connections we form and the joy we derive from everyday life. Life isn't about climbing to the top of a corporate ladder or making a name for ourselves in history books-it's about sharing moments with the people we love.
 
@@ -61,7 +61,7 @@ Yes, some people will leave lasting legacies, and that's great. But for the vast
 
 <br/>
 
-### **6. Optimism in Acceptance**
+### 6. Optimism in Acceptance
 
 Here's the optimistic twist: accepting your insignificance doesn't have to be bleak. In fact, it's a relief. You're not burdened by the need to change the world or be remembered for centuries. You get to simply *live*-and that's more than enough.
 
@@ -71,7 +71,7 @@ And while we may not shape the future of humanity, we do have the power to shape
 
 <br/>
 
-### **Conclusion: The Joy of Smallness**
+### Conclusion: The Joy of Smallness
 
 In the grand scheme of things, we are cosmically insignificant. The universe is vast, and our time here is fleeting. Most of us will not leave a legacy that lasts beyond a few generations, and that's okay. We don't have to.
 

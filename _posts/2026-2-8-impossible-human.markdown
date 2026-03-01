@@ -15,8 +15,6 @@ We are the beneficiaries of a series of catastrophic accidents, near-misses, and
 
 Here is the scientific story of the "<a href="https://prashantkikani.com/blog/god-of-the-gaps" target="_blank">miracles</a>" that allowed you to be here today.
 
-<br/>
-
 ## 1. The Physics "Glitch": The One-in-a-Billion Survivor
 The first hurdle wasn't biological; it was fundamental physics.
 
